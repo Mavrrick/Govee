@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Hills",
+    "subname": "",
+    "code": 1074,
+    "params_b64": "gwL/6P8KAP/pMgoABAD/UAD/ADL/AHj/AA==",
+    "params_hex": "8302ffe8ff0a00ffe9320a000400ff5000ff0032ff0078ff00"
+  },
+  {
+    "name": "Cornfield",
+    "subname": "",
+    "code": 1075,
+    "params_b64": "gwL/6P8UAP/oZBQAA///AP+yAP//AA==",
+    "params_hex": "8302ffe8ff1400ffe864140003ffff00ffb200ffff00"
+  },
+  {
+    "name": "Starry Sky",
+    "subname": "",
+    "code": 1076,
+    "params_b64": "gwL/6CgFAP/o/wUAAx4A/wAA/wAy/w==",
+    "params_hex": "8302ffe8280500ffe8ff0500031e00ff0000ff0032ff"
+  },
+  {
+    "name": "Canyon",
+    "subname": "",
+    "code": 1077,
+    "params_b64": "lQT/6OYFAP8eAAAA/+j/BQD8AAYAAP/o5gUAtAAAAAD/6P8FALQHAAAA",
+    "params_hex": "9504ffe8e60500ff1e000000ffe8ff0500fc00060000ffe8e60500b400000000ffe8ff0500b407000000"
+  },
+  {
+    "name": "Deep sea",
+    "subname": "",
+    "code": 1051,
+    "params_b64": "kwL/6f8UAACU///oZAIAAFb/",
+    "params_hex": "9302ffe9ff14000094ffffe86402000056ff"
+  },
+  {
+    "name": "Glacier",
+    "subname": "",
+    "code": 1052,
+    "params_b64": "gwL/6P8UAP/o/xQAAwCS/wDu/0X//w==",
+    "params_hex": "8302ffe8ff1400ffe8ff1400030092ff00eeff45ffff"
+  },
+  {
+    "name": "Desert",
+    "subname": "",
+    "code": 1053,
+    "params_b64": "gwH/5v8eAAP/yAD/fwD/fwA=",
+    "params_hex": "8301ffe6ff1e0003ffc800ff7f00ff7f00"
+  },
+  {
+    "name": "Polar region",
+    "subname": "",
+    "code": 1054,
+    "params_b64": "gwL/6P8KAP/oUBQABEH//wCo/wA6/1L//w==",
+    "params_hex": "8302ffe8ff0a00ffe85014000441ffff00a8ff003aff52ffff"
+  },
+  {
+    "name": "Flower Field",
+    "subname": "",
+    "code": 1055,
+    "params_b64": "gwL/6WQeAP/p/x4AB/8AAP9/AP//AAD/AAAA/wD//4sA/w==",
+    "params_hex": "8302ffe9641e00ffe9ff1e0007ff0000ff7f00ffff0000ff000000ff00ffff8b00ff"
+  },
+  {
+    "name": "Firefly",
+    "subname": "",
+    "code": 1056,
+    "params_b64": "gwL/6/8UAP/pCgoAAv//AP//AA==",
+    "params_hex": "8302ffebff1400ffe90a0a0002ffff00ffff00"
+  },
+  {
+    "name": "Karst Cave",
+    "subname": "",
+    "code": 1057,
+    "params_b64": "lQj/6R4UAAAA/wAA/+j/FAAA//8AAP///xQAAAD/AAD//x4KAAAA/wAA////FACLAP8AAP///xQA/38AAAD///8UAAD/AAAA////FAD//wAAAA==",
+    "params_hex": "9508ffe91e14000000ff0000ffe8ff140000ffff0000ffffff14000000ff0000ffff1e0a000000ff0000ffffff14008b00ff0000ffffff1400ff7f000000ffffff140000ff000000ffffff1400ffff000000"
+  },
+  {
+    "name": "Lightning",
+    "subname": "",
+    "code": 1130,
+    "params_b64": "kwn///8GAP//////AAYA////////BgD//////wAGAP///////wYA//////8ABgD///////8GAP/////yUBQAAAD///I8KAAAAP8=",
+    "params_hex": "9309ffffff0600ffffffffff000600ffffffffffff0600ffffffffff000600ffffffffffff0600ffffffffff000600ffffffffffff0600fffffffff25014000000fffff23c28000000ff"
+  },
+  {
+    "name": "Forest",
+    "subname": "",
+    "code": 1147,
+    "params_b64": "gwT/4zIFAP/kyAgA/+QyBgD/5MgKAAYA/wCu/wDD/wAG/wCJ/wDF/wA=",
+    "params_hex": "8304ffe3320500ffe4c80800ffe4320600ffe4c80a000600ff00aeff00c3ff0006ff0089ff00c5ff00"
+  },
+  {
+    "name": "Dusk",
+    "subname": "",
+    "code": 1159,
+    "params_b64": "gwL/5MgUAP/kyxQAA/////9/APUAFQ==",
+    "params_hex": "8302ffe4c81400ffe4cb140003ffffffff7f00f50015"
+  },
+  {
+    "name": "Cloudy",
+    "subname": "",
+    "code": 1163,
+    "params_b64": "kwT/5igBAP/////p/wEAAPD//+gyFAD/////6f8UAAD//w==",
+    "params_hex": "9304ffe6280100ffffffffe9ff010000f0ffffe8321400ffffffffe9ff140000ffff"
+  },
+  {
+    "name": "Raining",
+    "subname": "",
+    "code": 1164,
+    "params_b64": "kw7///8GAP//////AAYA////////BgD/////8lAUAAAA///yPCgAAAD/////CgAAnP///zIKAACp/////woAAJj///8yCgAAo/////8KAACe////MwoAAKX/////CgAArf///zIKAAC0/////woAAJ7/",
+    "params_hex": "930effffff0600ffffffffff000600ffffffffffff0600fffffffff25014000000fffff23c28000000ffffffff0a00009cffffff320a0000a9ffffffff0a000098ffffff320a0000a3ffffffff0a00009effffff330a0000a5ffffffff0a0000adffffff320a0000b4ffffffff0a00009eff"
+  },
+  {
+    "name": "Snowing",
+    "subname": "",
+    "code": 1165,
+    "params_b64": "kwf/65YUAP/////s/xQA/////+uWFAD/////7P8UAP/////rmxQA/////+v/FAD/////4aEeAMb//w==",
+    "params_hex": "9307ffeb961400ffffffffecff1400ffffffffeb961400ffffffffecff1400ffffffffeb9b1400ffffffffebff1400ffffffffe1a11e00c6ffff"
+  },
+  {
+    "name": "Fire",
+    "subname": "",
+    "code": 1168,
+    "params_b64": "kwj/1woyAP8KAP/x3AEA/zIA/+FQCgDIMgD/8dwyAP8yAP/mUAoAyDIA/+r/MgD/CgD/4VABAMhLAP/X3DIA/zIA",
+    "params_hex": "9308ffd70a3200ff0a00fff1dc0100ff3200ffe1500a00c83200fff1dc3200ff3200ffe6500a00c83200ffeaff3200ff0a00ffe1500100c84b00ffd7dc3200ff3200"
+  },
+  {
+    "name": "Morning",
+    "subname": "",
+    "code": 1058,
+    "params_b64": "gwb/1ygKAP/r/wEA/+soAQD/6/8BAP/SKAEA/9f/FAABAP9k",
+    "params_hex": "8306ffd7280a00ffebff0100ffeb280100ffebff0100ffd2280100ffd7ff14000100ff64"
+  },
+  {
+    "name": "Leisure",
+    "subname": "",
+    "code": 34,
+    "params_b64": "",
+    "params_hex": ""
+  },
+  {
+    "name": "Night Light",
+    "subname": "",
+    "code": 2,
+    "params_b64": "",
+    "params_hex": ""
+  },
+  {
+    "name": "Candlelight",
+    "subname": "",
+    "code": 1059,
+    "params_b64": "gwL/6P8AAP/sMgAAAv8WANwAAA==",
+    "params_hex": "8302ffe8ff0000ffec32000002ff1600dc0000"
+  },
+  {
+    "name": "Reading",
+    "subname": "",
+    "code": 1060,
+    "params_b64": "gwH/AP8AAAH/lmQ=",
+    "params_hex": "8301ff00ff000001ff9664"
+  },
+  {
+    "name": "Work",
+    "subname": "",
+    "code": 1148,
+    "params_b64": "AwH/AP8AAAH///8=",
+    "params_hex": "0301ff00ff000001ffffff"
+  },
+  {
+    "name": "Christmas",
+    "subname": "",
+    "code": 1061,
+    "params_b64": "kwr//v8yAP8AAP/+/zIAAP8A//7/MgD/AAD//v8yAAD/AP/+/zIA//8A//7/GQD/AAD//v8ZAAD/AP/+/xkA/wAA//7/GQAA/wD//v8ZAP//AA==",
+    "params_hex": "930afffeff3200ff0000fffeff320000ff00fffeff3200ff0000fffeff320000ff00fffeff3200ffff00fffeff1900ff0000fffeff190000ff00fffeff1900ff0000fffeff190000ff00fffeff1900ffff00"
+  },
+  {
+    "name": "Valentine's Day",
+    "subname": "",
+    "code": 1062,
+    "params_b64": "gwL/6WQKAP/n/ygAAf8yMg==",
+    "params_hex": "8302ffe9640a00ffe7ff280001ff3232"
+  },
+  {
+    "name": "Dance Party",
+    "subname": "",
+    "code": 1063,
+    "params_b64": "gwL/7v8UAP/rHhQAB4sA//8AAAD//wAA/wD/AP9/AP//AA==",
+    "params_hex": "8302ffeeff1400ffeb1e1400078b00ffff000000ffff0000ff00ff00ff7f00ffff00"
+  },
+  {
+    "name": "Halloween",
+    "subname": "",
+    "code": 1064,
+    "params_b64": "gwf/6wAUAP/z/1AA//MACgD/9f8yAP/1AAoA//X/CgD/9QAKAAL/HgD/WgA=",
+    "params_hex": "8307ffeb001400fff3ff5000fff3000a00fff5ff3200fff5000a00fff5ff0a00fff5000a0002ff1e00ff5a00"
+  },
+  {
+    "name": "Fireworks",
+    "subname": "",
+    "code": 1065,
+    "params_b64": "lRL/8ABkAP///wAA//+WAgD///8AAP/3/wEA////AAD//x4CAP///wAA//f/AgD/AAAAAP//HgIA/wAAAAD/9/8CAP9/AAAA//8eAgD/fwAAAP/3/wIA//8AAAD//x0CAP//AAAA//f/AgAA/wAAAP//HwIAAP8AAAD/9/8CAAAA/wAA//8eAgAAAP8AAP/3/wIAAP//AAD//x4CAAD//wAA//f/AgCLAP8AAP//HgIAiwD/AAA=",
+    "params_hex": "9512fff0006400ffffff0000ffff960200ffffff0000fff7ff0100ffffff0000ffff1e0200ffffff0000fff7ff0200ff00000000ffff1e0200ff00000000fff7ff0200ff7f000000ffff1e0200ff7f000000fff7ff0200ffff000000ffff1d0200ffff000000fff7ff020000ff000000ffff1f020000ff000000fff7ff02000000ff0000ffff1e02000000ff0000fff7ff020000ffff0000ffff1e020000ffff0000fff7ff02008b00ff0000ffff1e02008b00ff0000"
+  },
+  {
+    "name": "Party",
+    "subname": "",
+    "code": 1149,
+    "params_b64": "gwH//v8BAAPwAB4A/wAAAP8=",
+    "params_hex": "8301fffeff010003f0001e00ff000000ff"
+  },
+  {
+    "name": "Mother's Day",
+    "subname": "",
+    "code": 1150,
+    "params_b64": "gwL/4VcKAP/m/woAA/9r//9BAP8x/w==",
+    "params_hex": "8302ffe1570a00ffe6ff0a0003ff6bffff4100ff31ff"
+  },
+  {
+    "name": "Father's Day",
+    "subname": "",
+    "code": 1151,
+    "params_b64": "gwL/1ygKAP/I/xQAArT/AAL/ZA==",
+    "params_hex": "8302ffd7280a00ffc8ff140002b4ff0002ff64"
+  },
+  {
+    "name": "Romantic",
+    "subname": "",
+    "code": 1066,
+    "params_b64": "kwP/6P8AAIsA///oyAAAsQD//+j/AAD6AP8=",
+    "params_hex": "9303ffe8ff00008b00ffffe8c80000b100ffffe8ff0000fa00ff"
+  },
+  {
+    "name": "Quiet",
+    "subname": "",
+    "code": 1067,
+    "params_b64": "gwL/yCgUAP/I/xQAAQD/AA==",
+    "params_hex": "8302ffc8281400ffc8ff14000100ff00"
+  },
+  {
+    "name": "Warm",
+    "subname": "",
+    "code": 1068,
+    "params_b64": "gwL/5v8FAP/mUAAAA/9/AP9aAP90AA==",
+    "params_hex": "8302ffe6ff0500ffe650000003ff7f00ff5a00ff7400"
+  },
+  {
+    "name": "Sweet",
+    "subname": "",
+    "code": 1069,
+    "params_b64": "gwH/tP8yAATwAB7qACu8AP/jAP8=",
+    "params_hex": "8301ffb4ff320004f0001eea002bbc00ffe300ff"
+  },
+  {
+    "name": "Happy",
+    "subname": "",
+    "code": 1070,
+    "params_b64": "gwL/6ygUAP/r/xQAAf8ZMg==",
+    "params_hex": "8302ffeb281400ffebff140001ff1932"
+  },
+  {
+    "name": "Tension",
+    "subname": "",
+    "code": 1071,
+    "params_b64": "kwf///8GAP8AAP//AAYA/wAA////BgD/AAD//wAGAP8AAP///wYA/wAA//8ABgD/AAD///8yAP8AAA==",
+    "params_hex": "9307ffffff0600ff0000ffff000600ff0000ffffff0600ff0000ffff000600ff0000ffffff0600ff0000ffff000600ff0000ffffff3200ff0000"
+  },
+  {
+    "name": "Gradient",
+    "subname": "",
+    "code": 1072,
+    "params_b64": "gwH/6P9LAAf/AAD/fwD//wAA/wAAAP8A//+LAP8=",
+    "params_hex": "8301ffe8ff4b0007ff0000ff7f00ffff0000ff000000ff00ffff8b00ff"
+  },
+  {
+    "name": "Energetic",
+    "subname": "",
+    "code": 1073,
+    "params_b64": "kwX///8FAMD/AP//1wIA//cy//SABQD/8wD/+FACAAD3////UAUA/8gA",
+    "params_hex": "9305ffffff0500c0ff00ffffd70200fff732fff4800500fff300fff850020000f7ffffff500500ffc800"
+  },
+  {
+    "name": "Meditation",
+    "subname": "",
+    "code": 1152,
+    "params_b64": "kwX/2mQFAAAt///aZAUAAIr//9qgCAAAkf//2okKAACB///alQoAAEv/",
+    "params_hex": "9305ffda640500002dffffda640500008affffdaa008000091ffffda890a000081ffffda950a00004bff"
+  },
+  {
+    "name": "Rush",
+    "subname": "",
+    "code": 1153,
+    "params_b64": "AwMB/igEAP///wQA//8vBQAH/wAA/38A//8AAP8AALb/AP//vAD/",
+    "params_hex": "030301fe280400ffffff0400ffff2f050007ff0000ff7f00ffff0000ff0000b6ff00ffffbc00ff"
+  },
+  {
+    "name": "Breathe",
+    "subname": "",
+    "code": 1154,
+    "params_b64": "gwL/6/AFAP/rPAUAAgCp/wD//w==",
+    "params_hex": "8302ffebf00500ffeb3c05000200a9ff00ffff"
+  },
+  {
+    "name": "Heartbeat",
+    "subname": "",
+    "code": 1155,
+    "params_b64": "kwf/60kCAP+3///1/wIA/2f///UAAgD/AAD/9f8CAP8AAP/1AAIA/wAA//BCAgAH////6e8FAAD//w==",
+    "params_hex": "9307ffeb490200ffb7fffff5ff0200ff67fffff5000200ff0000fff5ff0200ff0000fff5000200ff0000fff042020007ffffffe9ef050000ffff"
+  }
+]
