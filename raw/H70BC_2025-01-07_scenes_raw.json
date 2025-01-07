@@ -1,0 +1,2133 @@
+{
+  "message": "success",
+  "status": 200,
+  "data": {
+    "categories": [
+      {
+        "categoryId": 770,
+        "categoryName": "Natural",
+        "scenes": [
+          {
+            "sceneId": 8908,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5a462a576ca2c77cd77794046979b7a9-new_light_btn_scenes_haixing.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3b661047810596125d7a3ad3c40699c2-new_light_btn_scenes_haixing_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/21b7ae7e85c7f9b4d260e1c9c50d7d77-new_light_btn_scenes_haixing_dark.png"
+            ],
+            "sceneName": "Starfish",
+            "analyticName": "Starfish",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13970,
+                "scenceName": "",
+                "scenceParam": "NAD/qgkAAoIAAHkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAQElEQVQ4EWNgYPgPQf+BNIzdA2NARJC5yMqAGoAKQPog4L9rEIwJMwrGR5VCaIHJj9KjITAaAkM+BCgoDMgvhgAtY0BRh3PIUwAAAABJRU5ErkJgggNfZAH//ycBAB4BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA5UlEQVQ4Ee2SvQ3CMBCFXxBLRHLLAnQoVVpGyAqsQUnLClkjVdq0FBQ0lhiBMjz7MMrPXcgAWJZ8unvfu7MTYN06ol8Snuxy6xZJcSV/mVkwacGb4TBXZA+A0i5ZkKzcUPIrbmN/WkjPczKac6POUq6BQ4y+PS1egQPosN+JFUoXNqfg/qTSsU2BcpK/NXjFO8sUue+fUcjX4TmFaZ8DjQ8SwkIyrj0ECIW0pjDJMtW6e4hUTCSjO7MtyQYokBU+bIpoZ61R5ypiQynbrlrzxxRMPvgqC1Vk/Z6qWElacynSf8p8gTcwp0OhFYyTQQAAAABJRU5ErkJggghd/wL//w==",
+                "sceneCode": 8111,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAD/qgkAAoIAAHkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAQElEQVQ4EWNgYPgPQf+BNIzdA2NARJC5yMqAGoAKQPog4L9rEIwJMwrGR5VCaIHJj9KjITAaAkM+BCgoDMgvhgAtY0BRh3PIUwAAAABJRU5ErkJgggNfZAH//ycBAB4BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA5UlEQVQ4Ee2SvQ3CMBCFXxBLRHLLAnQoVVpGyAqsQUnLClkjVdq0FBQ0lhiBMjz7MMrPXcgAWJZ8unvfu7MTYN06ol8Snuxy6xZJcSV/mVkwacGb4TBXZA+A0i5ZkKzcUPIrbmN/WkjPczKac6POUq6BQ4y+PS1egQPosN+JFUoXNqfg/qTSsU2BcpK/NXjFO8sUue+fUcjX4TmFaZ8DjQ8SwkIyrj0ECIW0pjDJMtW6e4hUTCSjO7MtyQYokBU+bIpoZ61R5ypiQynbrlrzxxRMPvgqC1Vk/Z6qWElacynSf8p8gTcwp0OhFYyTQQAAAABJRU5ErkJggghd/wL//w==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767083
+          },
+          {
+            "sceneId": 8909,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e14c90e05a67e42a487e351be8db3aa8-new_light_btn_scenes_yueliang.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ebbd69b92bca2812cd6c6fa38d54434e-new_light_btn_scenes_yueliang_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/86ccc9165f68cc8c7fe933bdea11c0c1-new_light_btn_scenes_yueliang_dark.png"
+            ],
+            "sceneName": "Moon",
+            "analyticName": "Moon",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13971,
+                "scenceName": "",
+                "scenceParam": "NAAA/wAAA4ABAHcBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABPklEQVQ4EZ1Uu20CQRB9axE4pACnBCc5OUsk0INLoAdKsCjAPVACogWTIPkSSwSXUoBDsuW9meFOOonPssHsDjvvvZlh5xKurLyOi9035k09iHo1Pw1+HbgdBcZIn6Ig7GSW5ztg5xLFGPiXlxZ9Fi9+fdumhSGJB/K68Zx5fkjZqfPGdxG5/kPKAXqz3ZKnPp0CcPpgfKXiuVqZArDCcZAhfoKfuimoWTA27Bc4+rFY+YLcq22jICna2DlrW2nNJnKstLVPpE3Y/uA9K2tYvBPL+TllyxnYbZV23Y+OVXTNRBhz5gtpNafRMF7coMib6oKUIKYhzpo1Yv5WO02Nka2e8R34s7fFf5jztBIqwBYpCn43Zkv3ZMO1l4wp+xwwXnEwRz6c/Dhw+aBlNCyJ6c2+mJ5VaO2Zr+puki0cZ1EaVSind2Q2AAAAAElFTkSuQmCCBQBkAv//gQAAeACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA/SURBVDgRY2CgHPw/R7kZtDBhMLnr/yK8PiQgDdH7fxNeMwZectA4kDYxT1QkQaNqkGYJqOvwJ8aBT0ikuQAAPkkRG9/HtJkAAAAASUVORK5CYIIFXGQD//+LAACCAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAElJREFUOBFjYKAc/N9Eghn/F5GgmFyl/8+Rq3OQ6UPxCAqHQoeSFGdE2UV9E4myFquiAXcLZiqnZuRh9TP5gpiOJd8s7DppGx8AwGkUjeijQbEAAAAASUVORK5CYIIDXGQD//8=",
+                "sceneCode": 8112,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAA/wAAA4ABAHcBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABPklEQVQ4EZ1Uu20CQRB9axE4pACnBCc5OUsk0INLoAdKsCjAPVACogWTIPkSSwSXUoBDsuW9meFOOonPssHsDjvvvZlh5xKurLyOi9035k09iHo1Pw1+HbgdBcZIn6Ig7GSW5ztg5xLFGPiXlxZ9Fi9+fdumhSGJB/K68Zx5fkjZqfPGdxG5/kPKAXqz3ZKnPp0CcPpgfKXiuVqZArDCcZAhfoKfuimoWTA27Bc4+rFY+YLcq22jICna2DlrW2nNJnKstLVPpE3Y/uA9K2tYvBPL+TllyxnYbZV23Y+OVXTNRBhz5gtpNafRMF7coMib6oKUIKYhzpo1Yv5WO02Nka2e8R34s7fFf5jztBIqwBYpCn43Zkv3ZMO1l4wp+xwwXnEwRz6c/Dhw+aBlNCyJ6c2+mJ5VaO2Zr+puki0cZ1EaVSind2Q2AAAAAElFTkSuQmCCBQBkAv//gQAAeACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA/SURBVDgRY2CgHPw/R7kZtDBhMLnr/yK8PiQgDdH7fxNeMwZectA4kDYxT1QkQaNqkGYJqOvwJ8aBT0ikuQAAPkkRG9/HtJkAAAAASUVORK5CYIIFXGQD//+LAACCAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAElJREFUOBFjYKAc/N9Eghn/F5GgmFyl/8+Rq3OQ6UPxCAqHQoeSFGdE2UV9E4myFquiAXcLZiqnZuRh9TP5gpiOJd8s7DppGx8AwGkUjeijQbEAAAAASUVORK5CYIIDXGQD//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767114
+          },
+          {
+            "sceneId": 8910,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/b2436666e39e49d75608997e1f5ace65-new_light_btn_scenes_sunset%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/fc453d944fd5e97edfaa6a426f35438a-new_light_btn_scenes_sunset_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/73337f4bea682300e3d46243ae3d3316-new_light_btn_scenes_sunset_dark%403x.png"
+            ],
+            "sceneName": "Sunset",
+            "analyticName": "Sunset",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13972,
+                "scenceName": "",
+                "scenceParam": "NP8AXAAAA8UAALwAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAg0lEQVQ4Ee2QwRGAIAwEAx3Ylr1ZBiVoW5aAB4EgJjr680Eempm9DQGiUeMFfvUCkWbZx0n3phHT0Yb8B1lMPgZ+JwPzSL3FxeSAlxxjMySZvglFfnYsGjAora0Zlo+0ZzxpSpRMlLcYxiUTZdFigrY75zB/GpZDKj2jKi+0Vnz715kDaxselevU6AsAAAAASUVORK5CYIIDX2QB//+0AACrAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAHJJREFUOBFjYBiSgBGXq++5osgo7UbhQjjYNYN0CqCq/sCAqR+LZrhORQ2o/vs3wAwM/Uyo5iN4cJ1AIWQ2QgUDA07NyIpwsXFqhjoVrA+ZjWwQFj8DpeHeRijF8DBQCrtmqH6EVixBjSQ5yhwNAZwhAABtHhMMzvd0/AAAAABJRU5ErkJgggJX/wL//4MAAHoAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAQUlEQVQ4EWP8z0A+YCJfKwPDENXMwsCgSba3h6ifKXI2oyED+WmMIpvJ1HweHL2MDEPM2ZBESaafB1oz2TkKpBEAjU4ETKzi5W4AAAAASUVORK5CYIIAABoD//8=",
+                "sceneCode": 8113,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NP8AXAAAA8UAALwAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAg0lEQVQ4Ee2QwRGAIAwEAx3Ylr1ZBiVoW5aAB4EgJjr680Eempm9DQGiUeMFfvUCkWbZx0n3phHT0Yb8B1lMPgZ+JwPzSL3FxeSAlxxjMySZvglFfnYsGjAora0Zlo+0ZzxpSpRMlLcYxiUTZdFigrY75zB/GpZDKj2jKi+0Vnz715kDaxselevU6AsAAAAASUVORK5CYIIDX2QB//+0AACrAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAHJJREFUOBFjYBiSgBGXq++5osgo7UbhQjjYNYN0CqCq/sCAqR+LZrhORQ2o/vs3wAwM/Uyo5iN4cJ1AIWQ2QgUDA07NyIpwsXFqhjoVrA+ZjWwQFj8DpeHeRijF8DBQCrtmqH6EVixBjSQ5yhwNAZwhAABtHhMMzvd0/AAAAABJRU5ErkJgggJX/wL//4MAAHoAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAQUlEQVQ4EWP8z0A+YCJfKwPDENXMwsCgSba3h6ifKXI2oyED+WmMIpvJ1HweHL2MDEPM2ZBESaafB1oz2TkKpBEAjU4ETKzi5W4AAAAASUVORK5CYIIAABoD//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767140
+          },
+          {
+            "sceneId": 8911,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/5b58b44560222b8fae80cafd1cf91af1-new_light_btn_scenes_bubble%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/f3066fef019ca08ae7b5d027726f81e7-new_light_btn_scenes_bubble_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/04b69b7fddda734446756b7681a1dd11-new_light_btn_scenes_bubble_dark%403x.png"
+            ],
+            "sceneName": "Bubble",
+            "analyticName": "Bubble",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13973,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 29,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767179
+          },
+          {
+            "sceneId": 8912,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/89660c742b8fe41f19df9c0d703e4d8b-new_light_btn_scenes_green_forest%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/942511433fb7ed20cde18ee557d1eb2a-new_light_btn_scenes_green_forest_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/9a2b148cc02374c1feeede17c0662901-new_light_btn_scenes_green_forest_dark%403x.png"
+            ],
+            "sceneName": "Forest",
+            "analyticName": "Forest",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13974,
+                "scenceName": "",
+                "scenceParam": "NP9/ABYAAioBACEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA6ElEQVQ4EdWRPQ7CMAyF7Uxho4fgGJyCDakjnTgFZ+jUEcTI2ImRY3AA2OjYrSSx5bppKtRuRBF6sd/nn4LQdbD0mKWg5/4Irt/oLi2rxi6yn/sLRgL5awtZfaZKCCmG0FlIF1baPlbiG5MuZbSbrSM+SQZYimtRZNJWhM6TNvWpGUdt3urg7mn1U7TfOeIjkqxJnv8q4ZPkFI/1S6aAZPk+HdRt02+EcI6yM5489gxCWSfgtoPhXW+vPjI8KViZygPbm/veK5VyL0MduDB1I79FsHi8+F++IV7m/VAIVTyM6+aZ5Bl2/gKly1oHWPEE+gAAAABJRU5ErkJgggNg/wL//3oAAHEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAOElEQVQ4EWNgoAAw4tL7//9/RkbsskApXLpA4kBpOEBTBxSHKEATR+dC1KGLjvJHQ2A0BIZlCAAAZWAa6j7mpFkAAAAASUVORK5CYIIEYGQB//8=",
+                "sceneCode": 8114,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NP9/ABYAAioBACEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA6ElEQVQ4EdWRPQ7CMAyF7Uxho4fgGJyCDakjnTgFZ+jUEcTI2ImRY3AA2OjYrSSx5bppKtRuRBF6sd/nn4LQdbD0mKWg5/4Irt/oLi2rxi6yn/sLRgL5awtZfaZKCCmG0FlIF1baPlbiG5MuZbSbrSM+SQZYimtRZNJWhM6TNvWpGUdt3urg7mn1U7TfOeIjkqxJnv8q4ZPkFI/1S6aAZPk+HdRt02+EcI6yM5489gxCWSfgtoPhXW+vPjI8KViZygPbm/veK5VyL0MduDB1I79FsHi8+F++IV7m/VAIVTyM6+aZ5Bl2/gKly1oHWPEE+gAAAABJRU5ErkJgggNg/wL//3oAAHEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAOElEQVQ4EWNgoAAw4tL7//9/RkbsskApXLpA4kBpOEBTBxSHKEATR+dC1KGLjvJHQ2A0BIZlCAAAZWAa6j7mpFkAAAAASUVORK5CYIIEYGQB//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767210
+          },
+          {
+            "sceneId": 8913,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/c1068ace12a82ee32333f5c35bbc154e-new_light_btn_scenes_four_color%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/9215bf8e3df86bd03eb32b93fd3f5b3b-new_light_btn_scenes_four_color_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6b7e891d014ba5742fbbc02368e077e9-new_light_btn_scenes_four_color_dark%403x.png"
+            ],
+            "sceneName": "Rainbow",
+            "analyticName": "Rainbow",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13975,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 36,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767238
+          },
+          {
+            "sceneId": 8914,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a245276d6cdb756255e7288fd65a7931-new_light_btn_scenes_star_flash.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/fd4364eed1f9c9e1d445923a36759132-new_light_btn_scenes_star_flash_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ddfe4082c144fb03250ae121c0f2d21e-new_light_btn_scenes_star_flash_dark.png"
+            ],
+            "sceneName": "Star",
+            "analyticName": "Star",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13976,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 39,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767269
+          },
+          {
+            "sceneId": 8915,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/bdd9f615067c8ac3211193b16e35fcdb-new_light_btn_scenes_star_meteor%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/208bc1caa42e3f0535826e4589b39f38-new_light_btn_scenes_star_meteor_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/3dc3f90bf98458d289bd650d044f6692-new_light_btn_scenes_star_meteor_dark%403x.png"
+            ],
+            "sceneName": "Meteor",
+            "analyticName": "Meteor",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13977,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 38,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767301
+          }
+        ]
+      },
+      {
+        "categoryId": 776,
+        "categoryName": "Festival",
+        "scenes": [
+          {
+            "sceneId": 8916,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/e57e46e0c2ac5c2945f6ff054e8f9ee1-new_light_btn_scenes_halloween%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/76b6f8b7bb34cea5f9497620dd0da49f-new_light_btn_scenes_halloween_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/b3a3807ff048ce1c3b159a20ab90d5ce-new_light_btn_scenes_halloween_dark%403x.png"
+            ],
+            "sceneName": "Halloween",
+            "analyticName": "Halloween",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13978,
+                "scenceName": "",
+                "scenceParam": "NIsA/wkBBNcAAM4AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAlUlEQVQ4Ec1SOQ6AMAxrEd9m4uFQZOS4KUkXhGBAqeOLo5S/XkdWbMmWs12NCMdmm7rbrJMXq0Z5mJ2LiXOZGtHiFlOJBY/UOBzH7oWZZf+QId68xxwGJkNz7JIT6uNqHVGU1DqsrWAT+mTy3AAZQUReb5t+2I28iGDJqlRHKgky339n9JneoX/jD0OUNozC2TkifIKf/e8tq5dtnIgAAAAASUVORK5CYIIAAGQB9AFMAQBDAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAQpJREFUOBGNU7ERwjAMjLIPBUOQgjsaMkJKZoAizMEYsAjDUBrZ78iS7ARc+KT3/0tOZOrsCleb24zuJifJtmVC40AssliUOJBUNA5H2suxsXTtLanUhCpWrutox7WYjUzlNd5vPKQlvJgdzrIbPASk/ef0lAMEjLCmG8aCD2NEtpcwYsFqsZYxOEz7S7aSCHyQshadK6O60+gCVOvh4vZIXVaZsAXJvRHRcTcBfL0fbMqIcHLQbiNdTzVbvhbu6FVNlPUo4tkJbUxYGeM5dDfq5tywG8TGhLnp1Zesj8x4lposQll+gETx8umdO31p2yhxpfSYdLeaw3H++pqhW12L4VJ+3f96KNn3C6Mwx2wIY8nZAAAAAElFTkSuQmCCAABkAfQBUgEASQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEQSURBVDgRnVSxEcIwELOzDwUdC0DBHQ2MkDIzUGUGSsaAGegZhjLI1kdx3kmTv5zz1kv6t+ESQwjDPTw+oTvYCkRB3G0Jxj5EFCDeECZO+mGIMRkpgChHUleBNGKQ/bu8gJjydEvVvMqLBFOJrTLFw/GaHsSYmCBbkzyNir1mY01sJmWV+TQ2GzoezuqQ0reZnSETiViffG1lT3q1+45JUAbX0hhlbXMlLXWz5OJujrJ6tYb5NV2YUAow6nnXEnx/nwA1vJjWcNqPGdhljLCd0Q/PkzsUesocLq/VhErpl3m67bJJqVGu/k7iDy8BHMscW1ksz+LYtZ6y2d9z2WkdTb/z5o/BQuf0iehn7WqE5T9twc7TJGTgaAAAAABJRU5ErkJgggAAZAH0AUwBAEMBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABCklEQVQ4EY1TsRHCMAyMsg8FQ5CCOxoyQkpmgCLMwRiwCMNQGtnvyJLsBFz4pPf/S05k6uwKV5vbjO4mJ8m2ZULjQCyyWJQ4kFQ0Dkfay7GxdO0tqdSEKlau62jHtZiNTOU13m88pCW8mB3Oshs8BKT95/SUAwSMsKYbxoIPY0S2lzBiwWqxljE4TPtLtpIIfJCyFp0ro7rT6AJU6+Hi9khdVpmwBcm9EdFxNwF8vR9syohwctBuI11PNVu+Fu7oVU2U9Sji2QltTFgZ4zl0N+rm3LAbxMaEuenVl6yPzHiWmixCWX6ARPHy6Z07fWnbKHGl9Jh0t5rDcf76mqFbXYvhUn7d/3oo2fcLozDHbAhjydkAAAAASUVORK5CYIIAAGQB9AE=",
+                "sceneCode": 8115,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NIsA/wkBBNcAAM4AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAlUlEQVQ4Ec1SOQ6AMAxrEd9m4uFQZOS4KUkXhGBAqeOLo5S/XkdWbMmWs12NCMdmm7rbrJMXq0Z5mJ2LiXOZGtHiFlOJBY/UOBzH7oWZZf+QId68xxwGJkNz7JIT6uNqHVGU1DqsrWAT+mTy3AAZQUReb5t+2I28iGDJqlRHKgky339n9JneoX/jD0OUNozC2TkifIKf/e8tq5dtnIgAAAAASUVORK5CYIIAAGQB9AFMAQBDAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAQpJREFUOBGNU7ERwjAMjLIPBUOQgjsaMkJKZoAizMEYsAjDUBrZ78iS7ARc+KT3/0tOZOrsCleb24zuJifJtmVC40AssliUOJBUNA5H2suxsXTtLanUhCpWrutox7WYjUzlNd5vPKQlvJgdzrIbPASk/ef0lAMEjLCmG8aCD2NEtpcwYsFqsZYxOEz7S7aSCHyQshadK6O60+gCVOvh4vZIXVaZsAXJvRHRcTcBfL0fbMqIcHLQbiNdTzVbvhbu6FVNlPUo4tkJbUxYGeM5dDfq5tywG8TGhLnp1Zesj8x4lposQll+gETx8umdO31p2yhxpfSYdLeaw3H++pqhW12L4VJ+3f96KNn3C6Mwx2wIY8nZAAAAAElFTkSuQmCCAABkAfQBUgEASQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEQSURBVDgRnVSxEcIwELOzDwUdC0DBHQ2MkDIzUGUGSsaAGegZhjLI1kdx3kmTv5zz1kv6t+ESQwjDPTw+oTvYCkRB3G0Jxj5EFCDeECZO+mGIMRkpgChHUleBNGKQ/bu8gJjydEvVvMqLBFOJrTLFw/GaHsSYmCBbkzyNir1mY01sJmWV+TQ2GzoezuqQ0reZnSETiViffG1lT3q1+45JUAbX0hhlbXMlLXWz5OJujrJ6tYb5NV2YUAow6nnXEnx/nwA1vJjWcNqPGdhljLCd0Q/PkzsUesocLq/VhErpl3m67bJJqVGu/k7iDy8BHMscW1ksz+LYtZ6y2d9z2WkdTb/z5o/BQuf0iehn7WqE5T9twc7TJGTgaAAAAABJRU5ErkJgggAAZAH0AUwBAEMBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABCklEQVQ4EY1TsRHCMAyMsg8FQ5CCOxoyQkpmgCLMwRiwCMNQGtnvyJLsBFz4pPf/S05k6uwKV5vbjO4mJ8m2ZULjQCyyWJQ4kFQ0Dkfay7GxdO0tqdSEKlau62jHtZiNTOU13m88pCW8mB3Oshs8BKT95/SUAwSMsKYbxoIPY0S2lzBiwWqxljE4TPtLtpIIfJCyFp0ro7rT6AJU6+Hi9khdVpmwBcm9EdFxNwF8vR9syohwctBuI11PNVu+Fu7oVU2U9Sji2QltTFgZ4zl0N+rm3LAbxMaEuenVl6yPzHiWmixCWX6ARPHy6Z07fWnbKHGl9Jh0t5rDcf76mqFbXYvhUn7d/3oo2fcLozDHbAhjydkAAAAASUVORK5CYIIAAGQB9AE=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767330
+          },
+          {
+            "sceneId": 8917,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a27a752b554b80f3ec5bab376f6ae61c-new_light_btn_scenes_shegndanshu.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/c7c7226a1b9d2e43d9ca2378015d94cc-new_light_btn_scenes_shegndanshu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3d066514c0e20e2219b9000c4243a53c-new_light_btn_scenes_shegndanshu_dark.png"
+            ],
+            "sceneName": "Christmas Tree",
+            "analyticName": "Christmas Tree",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13979,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 31,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767367
+          },
+          {
+            "sceneId": 8918,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/b1d271135258a13567d61a609e14f109-new_light_btn_scenes_daojishi.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/45941a8010b8f5253f7ccad075cbc450-new_light_btn_scenes_daojishi_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8c075a34444780562857846523524620-new_light_btn_scenes_daojishi_dark.png"
+            ],
+            "sceneName": "Countdown",
+            "analyticName": "Countdown",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13980,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 33,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767393
+          },
+          {
+            "sceneId": 8919,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/51630354d0e0a189a79b33a2fbe81583-new_light_btn_scenes_shengdanlihe%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1e2920b2e177830041c6be76e876373c-new_light_btn_scenes_shengdanlihe_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/917850de5b6433757e5fc718fb063c78-new_light_btn_scenes_shengdanlihe_dark%403x.png"
+            ],
+            "sceneName": "Christmas Gift Box",
+            "analyticName": "Christmas Gift Box",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13981,
+                "scenceName": "",
+                "scenceParam": "NHwA/wYBArYBAK0BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABdElEQVQ4EdVSLU8DQRDdaU5sJRJ5KBCYShIQlyDgZINtgjgErcFg+AdoGhL4DRiSgwRyiAokFhISKvkJXUGyvO3sZ4/7AWw2s3Nv5s2b3Rsh/vPSWrfb99ifUeRTm8OIZ1JnShd1iXv+SpZvJCkLlLxQJS3nVsXkwCTqxYHAFEIqqY8CLeaAwpmJcijkZQGlyiHHP1jccO3iw2OhMtO8zhRdOzQ6jTIzgz3pA6wjwbKS+mYRX4orZDiAemX2DShMCSzQMANtJkdbFheGlFvwWxkW6N2JMFvGX6ai5wcibBpRLpQBXYl6M09qMR8WC0n6SdjsSuLxeBvcDQ3zYamYNag03iumsxc4zW5hC58S/Zh38jroIz+zV7h6XJ8cfFPcNvKGbtrH+yZv+hzmBJ8X97bUznn+ejlPlJvRGoL9+WCRv022B/APP80Ny/evemuj/JivXNj8qs6lJGgcNQ4R1PiTlZPZhiY2wmyFFBDEBsKWmd7+AonvnqKTcG2yAAAAAElFTkSuQmCCAABkAdAHzgEAxQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAGMSURBVDgRlVI9SwNBEJ2VFNdanpVnZQ5sUgoRPLBI8g+EC9hqGjH4IyR2/gJTW8aAcBYRLFMmguB1ptQi4HXr28xl3FsuGo9l7s3Hmzf7QWR9WmvL+xtuSAkzbf7/WtlMNP2FzJVKlG3g0FR51YLhCEoXp4XE1wI2uVSgMBAq1HLEauynGQUeTfuzVVI/p40KYQKn9AXm5Gmwiol4gSx1kL3rf8IN6y0JrgWgxcs7If1AQcN31Ev3b1ojAVksaQEAVwgM2FacYbBtToS0xanJ7XvTOg4usE/HCEoXVkaEP7iSckGPDA11sMDMlJkpJr095iAzB7uBtDBDXivqkgLzQlPYzqflit7ykruxj/l5WvBbLymsikYJ6poH0f3oESCpR3njUxXODSF3F9sOzj12b4Z+pzGrgMY+A0X5mzs78iL6KBwM0fFhlvcaGlxQTtqbyKm0poNxZ68G3Hw1O2xN3wbVHR41Jy9+7lXZOco80DhigFLPVym7+5cBcOF5QhMLabbkEQSxEGHLTLHfEdG0FjZBET0AAAAASUVORK5CYIIAAGQB0Ac=",
+                "sceneCode": 8116,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NHwA/wYBArYBAK0BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABdElEQVQ4EdVSLU8DQRDdaU5sJRJ5KBCYShIQlyDgZINtgjgErcFg+AdoGhL4DRiSgwRyiAokFhISKvkJXUGyvO3sZ4/7AWw2s3Nv5s2b3Rsh/vPSWrfb99ifUeRTm8OIZ1JnShd1iXv+SpZvJCkLlLxQJS3nVsXkwCTqxYHAFEIqqY8CLeaAwpmJcijkZQGlyiHHP1jccO3iw2OhMtO8zhRdOzQ6jTIzgz3pA6wjwbKS+mYRX4orZDiAemX2DShMCSzQMANtJkdbFheGlFvwWxkW6N2JMFvGX6ai5wcibBpRLpQBXYl6M09qMR8WC0n6SdjsSuLxeBvcDQ3zYamYNag03iumsxc4zW5hC58S/Zh38jroIz+zV7h6XJ8cfFPcNvKGbtrH+yZv+hzmBJ8X97bUznn+ejlPlJvRGoL9+WCRv022B/APP80Ny/evemuj/JivXNj8qs6lJGgcNQ4R1PiTlZPZhiY2wmyFFBDEBsKWmd7+AonvnqKTcG2yAAAAAElFTkSuQmCCAABkAdAHzgEAxQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAGMSURBVDgRlVI9SwNBEJ2VFNdanpVnZQ5sUgoRPLBI8g+EC9hqGjH4IyR2/gJTW8aAcBYRLFMmguB1ptQi4HXr28xl3FsuGo9l7s3Hmzf7QWR9WmvL+xtuSAkzbf7/WtlMNP2FzJVKlG3g0FR51YLhCEoXp4XE1wI2uVSgMBAq1HLEauynGQUeTfuzVVI/p40KYQKn9AXm5Gmwiol4gSx1kL3rf8IN6y0JrgWgxcs7If1AQcN31Ev3b1ojAVksaQEAVwgM2FacYbBtToS0xanJ7XvTOg4usE/HCEoXVkaEP7iSckGPDA11sMDMlJkpJr095iAzB7uBtDBDXivqkgLzQlPYzqflit7ykruxj/l5WvBbLymsikYJ6poH0f3oESCpR3njUxXODSF3F9sOzj12b4Z+pzGrgMY+A0X5mzs78iL6KBwM0fFhlvcaGlxQTtqbyKm0poNxZ68G3Hw1O2xN3wbVHR41Jy9+7lXZOco80DhigFLPVym7+5cBcOF5QhMLabbkEQSxEGHLTLHfEdG0FjZBET0AAAAASUVORK5CYIIAAGQB0Ac=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767417
+          },
+          {
+            "sceneId": 8920,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/383d4060ae9159ae01f2d18969aacf27-new_light_btn_scenes_shengdanling%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e89f8f3ee9007f7299863744c5eea5f9-new_light_btn_scenes_shengdanling_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/89e7822f1438bfa3308299fca7566699-new_light_btn_scenes_shengdanling_dark%403x.png"
+            ],
+            "sceneName": "Christmas Bell",
+            "analyticName": "Christmas Bell",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13982,
+                "scenceName": "",
+                "scenceParam": "NP///xABBBoBABEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA2ElEQVQ4EWNgoAAwgvSuskKYEHYMwQaz/oNJsDp0lSxoSqEGYRiBYgFMD4ZmDNtAdiI7DaYTSDOB2Jj2QFSssgK6GeJsiACCBGvBbjMjUJvIuf8M5xCqsbGgAQGVgjkPqBNNMeMbI6gIkjNRNcN0/N/HAWNCaUanH2giQC4WzZg6Idow9YMDDNNM4kQGTjO6n3F5GKu3B4mz4W4+P/uH4XJoiJ+PBDEMU6Exjxxh6MkTqA2qCZWCiMONgEiiBNg5sCWoutB5RjAXASVQNEMU4jICWRu6kWTwAU8FMv0xERHfAAAAAElFTkSuQmCCAABkASwBKQEAIAGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAADnSURBVDgRpZPBDcIwDEUT1AMDsEh77JEhkBiAqRgAqUNw5BgWYQBu4cdJ5DhxEQ1RldjNf7Ybp8b8MWxgl5kjnB5sk+VpJl2tHCppCtSEEAky08BNtpCzLC2TWHfBbvNExTKj5lh2fMEzIXpmC+zgvHGs1qx0EGkrlweyFNvXxG5RpoRJ4u97lmbLHt/Z5JW+mV2jksW+MAW8iUQYhreSDHeQCe4jAdtfSPWoAQ/PK/dgvChNgmhthD67s9gdb8bIVq9lDqc9QV0NXAntVlQq4aKE+MT/ATPcL4eiXM/qKxBeKU0k7XI+VdE9HyYtWiMAAAAASUVORK5CYIIAAGQBLAEaAQARAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAANhJREFUOBFjYKAAMIL0rrJCmBB2DMEGs/6DSbA6dJUsaEqhBmEYgWIBTA+GZgzbQHYiOw2mE0gzgdiY9kBUrLICuhnibIgAggRrwW4zI1CbyLn/DOcQqrGxoAEBlYI5D6gTTTHjGyOoCJIzUTXDdPzfxwFjQmlGpx9oIkAuFs2YOiHaMPWDAwzTTOJEBk4zup9xeRirtweJs+FuPj/7h+FyaIifjwQxDFOhMY8cYejJE6gNqgmVgojDjYBIogTYObAlqLrQeUYwFwElUDRDFOIyAlkbupFk8AFPBTL9MRER3wAAAABJRU5ErkJgggAAZAEsARoBABEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA2ElEQVQ4Ea2STRLCIAyFwXHhAbyIXXbZQzjj2TyAMz2ES5f0Ih6gOwzhJ5BQpqgswgPel6QUpX4Y2rHzSBmuL9KoLEb0ceeRWUMikaIoEBkBi2quZt5aJGE+OC3reMc8Qs++bb9BEZF6ZQ3Y2VhlyF1T4SLCUWwPSGbW7yHsZG2WcCTs8xQlzXpaaYEKv5ntbSxlxg4YcjK+D2Z8N5zz38CJr992OgbRGPVH0gCWO/2w3fC0Lrci5/BQO2DxNiAHkDBaMHR4QRP4UlmPOVSpzQszokkP/C1+AGHxNS25b+PQAAAAAElFTkSuQmCCAABkASwB",
+                "sceneCode": 8117,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NP///xABBBoBABEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA2ElEQVQ4EWNgoAAwgvSuskKYEHYMwQaz/oNJsDp0lSxoSqEGYRiBYgFMD4ZmDNtAdiI7DaYTSDOB2Jj2QFSssgK6GeJsiACCBGvBbjMjUJvIuf8M5xCqsbGgAQGVgjkPqBNNMeMbI6gIkjNRNcN0/N/HAWNCaUanH2giQC4WzZg6Idow9YMDDNNM4kQGTjO6n3F5GKu3B4mz4W4+P/uH4XJoiJ+PBDEMU6Exjxxh6MkTqA2qCZWCiMONgEiiBNg5sCWoutB5RjAXASVQNEMU4jICWRu6kWTwAU8FMv0xERHfAAAAAElFTkSuQmCCAABkASwBKQEAIAGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAADnSURBVDgRpZPBDcIwDEUT1AMDsEh77JEhkBiAqRgAqUNw5BgWYQBu4cdJ5DhxEQ1RldjNf7Ybp8b8MWxgl5kjnB5sk+VpJl2tHCppCtSEEAky08BNtpCzLC2TWHfBbvNExTKj5lh2fMEzIXpmC+zgvHGs1qx0EGkrlweyFNvXxG5RpoRJ4u97lmbLHt/Z5JW+mV2jksW+MAW8iUQYhreSDHeQCe4jAdtfSPWoAQ/PK/dgvChNgmhthD67s9gdb8bIVq9lDqc9QV0NXAntVlQq4aKE+MT/ATPcL4eiXM/qKxBeKU0k7XI+VdE9HyYtWiMAAAAASUVORK5CYIIAAGQBLAEaAQARAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAANhJREFUOBFjYKAAMIL0rrJCmBB2DMEGs/6DSbA6dJUsaEqhBmEYgWIBTA+GZgzbQHYiOw2mE0gzgdiY9kBUrLICuhnibIgAggRrwW4zI1CbyLn/DOcQqrGxoAEBlYI5D6gTTTHjGyOoCJIzUTXDdPzfxwFjQmlGpx9oIkAuFs2YOiHaMPWDAwzTTOJEBk4zup9xeRirtweJs+FuPj/7h+FyaIifjwQxDFOhMY8cYejJE6gNqgmVgojDjYBIogTYObAlqLrQeUYwFwElUDRDFOIyAlkbupFk8AFPBTL9MRER3wAAAABJRU5ErkJgggAAZAEsARoBABEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA2ElEQVQ4Ea2STRLCIAyFwXHhAbyIXXbZQzjj2TyAMz2ES5f0Ih6gOwzhJ5BQpqgswgPel6QUpX4Y2rHzSBmuL9KoLEb0ceeRWUMikaIoEBkBi2quZt5aJGE+OC3reMc8Qs++bb9BEZF6ZQ3Y2VhlyF1T4SLCUWwPSGbW7yHsZG2WcCTs8xQlzXpaaYEKv5ntbSxlxg4YcjK+D2Z8N5zz38CJr992OgbRGPVH0gCWO/2w3fC0Lrci5/BQO2DxNiAHkDBaMHR4QRP4UlmPOVSpzQszokkP/C1+AGHxNS25b+PQAAAAAElFTkSuQmCCAABkASwB",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767449
+          },
+          {
+            "sceneId": 8921,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f880d5b5d9b045c2a86ccac776590829-new_light_btn_scenes_guaizhangtang.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/287e942e8a2215bd08a6fcb3546a4e17-new_light_btn_scenes_guaizhangtang_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5952b04ac6934755f04e65c1ba3ba1e7-new_light_btn_scenes_guaizhangtang_dark.png"
+            ],
+            "sceneName": "Candy Cane",
+            "analyticName": "Candy Cane",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13983,
+                "scenceName": "",
+                "scenceParam": "NP///wgAAgwBAAMBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAyklEQVQ4EaWTaxKDMAiETaen8h7tIb1HvVaEgBvCYzqd+icI+8GaxG3742kp2002VwzBw8g0tCSleneJSXjYSwdZ0R7mtgMgt2q4lcYDLFJYrUmaEmDKRQC92Nh8njMcUWK1IEnuYe117Bq8PhyQF2Tep5byBToqHztv9ZrJKc0aqZDLUZlqcQxG4ecY2wUMAl0Mg2J2VCgOsguGLqjiFpnMHVqSdAKv84vJTkpHnc3P4EiKm8B/2TD9yVq8sdwvm3x/ta456ES/v15QlTw15r7KbgAAAABJRU5ErkJgggAAZAL//24AAGUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAALElEQVQ4EWNgGErg+//vKM5F56NIjnJGQwAUAmQkEjK00DOsB7nz6BkUILsANIAOokqwDT4AAAAASUVORK5CYIICW2QB//8=",
+                "sceneCode": 8118,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NP///wgAAgwBAAMBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAyklEQVQ4EaWTaxKDMAiETaen8h7tIb1HvVaEgBvCYzqd+icI+8GaxG3742kp2002VwzBw8g0tCSleneJSXjYSwdZ0R7mtgMgt2q4lcYDLFJYrUmaEmDKRQC92Nh8njMcUWK1IEnuYe117Bq8PhyQF2Tep5byBToqHztv9ZrJKc0aqZDLUZlqcQxG4ecY2wUMAl0Mg2J2VCgOsguGLqjiFpnMHVqSdAKv84vJTkpHnc3P4EiKm8B/2TD9yVq8sdwvm3x/ta456ES/v15QlTw15r7KbgAAAABJRU5ErkJgggAAZAL//24AAGUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAALElEQVQ4EWNgGErg+//vKM5F56NIjnJGQwAUAmQkEjK00DOsB7nz6BkUILsANIAOokqwDT4AAAAASUVORK5CYIICW2QB//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767479
+          },
+          {
+            "sceneId": 8922,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/87fd672e7b6246a838b25e33b156c5cb-%E9%AD%94%E6%B3%95%E5%B8%BD.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/9d68f5d44251ff8211f704c046515336-%E9%AD%94%E6%B3%95%E5%B8%BD_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/91575dcd0861270e1d806728b59bbba6-%E9%AD%94%E6%B3%95%E5%B8%BD_dark.png"
+            ],
+            "sceneName": "Witch Hat",
+            "analyticName": "Witch Hat",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13984,
+                "scenceName": "",
+                "scenceParam": "NEBOygIAA2EBAFgBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABH0lEQVQ4EWNgoAAw4tE7J/Yamuy2C9vWXS6BCzLBWWQwmHHpgVt7/MuPy9d2de72Z/mvCFR8/dUuuBbszobrBKpDcypcJ5CB3dmcLBxAOU4WZJVY2Ng1Y1GITQif5u9/oDqCdHuw6WVAdxnEt9///Lj+g+MHC8OPF/exasMu+P8/AzqqZfhfy4DVchRnIwcyptlA/ViNgKr8zwC1tkXBCoigTgDbDJJiYAAKIhuKYjOyBDFslABrVbCqZjgG1FZ9H0QiA6AUMhfCRtgcZVuNKY0pEoSkDJE85yTe+wFUC8Sw6AXpBLoMgn78YPjzgwGY8v78yFltBDEUqjk7Ej33QaTh5PMr2+BsIAOSMUGaITrRpJGVYmUD9SP8jFUFDQUBPE5pQmdf2xEAAAAASUVORK5CYIIAAGQB//93AABuAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAADVJREFUOBFjYBgU4P9/0pzBCFcO18mIEINLEsGA6ydC7YAoGfQOJCJUhpQfhpRjiQj8Ya8EAE6cC/jey4IVAAAAAElFTkSuQmCCAB5kAf//fAAAcwCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA6SURBVDgRY2CgIvj/n4qGDX2jMIODkUhPwXUyEqsD1WC4flThIc4j1VeIsIPrpGZ4wg0d4sE65J0PABRCD/ct/0mgAAAAAElFTkSuQmCCAERkAf//",
+                "sceneCode": 8119,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NEBOygIAA2EBAFgBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABH0lEQVQ4EWNgoAAw4tE7J/Yamuy2C9vWXS6BCzLBWWQwmHHpgVt7/MuPy9d2de72Z/mvCFR8/dUuuBbszobrBKpDcypcJ5CB3dmcLBxAOU4WZJVY2Ng1Y1GITQif5u9/oDqCdHuw6WVAdxnEt9///Lj+g+MHC8OPF/exasMu+P8/AzqqZfhfy4DVchRnIwcyptlA/ViNgKr8zwC1tkXBCoigTgDbDJJiYAAKIhuKYjOyBDFslABrVbCqZjgG1FZ9H0QiA6AUMhfCRtgcZVuNKY0pEoSkDJE85yTe+wFUC8Sw6AXpBLoMgn78YPjzgwGY8v78yFltBDEUqjk7Ej33QaTh5PMr2+BsIAOSMUGaITrRpJGVYmUD9SP8jFUFDQUBPE5pQmdf2xEAAAAASUVORK5CYIIAAGQB//93AABuAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAADVJREFUOBFjYBgU4P9/0pzBCFcO18mIEINLEsGA6ydC7YAoGfQOJCJUhpQfhpRjiQj8Ya8EAE6cC/jey4IVAAAAAElFTkSuQmCCAB5kAf//fAAAcwCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA6SURBVDgRY2CgIvj/n4qGDX2jMIODkUhPwXUyEqsD1WC4flThIc4j1VeIsIPrpGZ4wg0d4sE65J0PABRCD/ct/0mgAAAAAElFTkSuQmCCAERkAf//",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767505
+          },
+          {
+            "sceneId": 8923,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f389917059da50bf0077671d4941b3f8-new_light_btn_scenes_shengdanhuahuan%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e6b0b8b81bf2ba0da6afb97277a7a0aa-new_light_btn_scenes_shengdanhuahuan_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/be695bc8cd8fd98f747ce7bd772ce712-new_light_btn_scenes_shengdanhuahuan_dark%403x.png"
+            ],
+            "sceneName": "Christmas Wreath",
+            "analyticName": "Christmas Wreath",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13985,
+                "scenceName": "",
+                "scenceParam": "NAOrNgUBBF0BAFQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABG0lEQVQ4EZVTwRHCMAxrOR50HTagWzAhW5QNWKf8gi1FrZ0G7ugjdhzJlp10GPCtZaXz1zr20YuHy20Ynzqf5QTbkovORvC5K2ISbTKncRKQdhmcaRw433wH6DtVJ4QswrJWkDWjCscLfK5kmU0hQBdf53cKchbAq2clA5r6wQTI+I7LGAtAtkVnTcqkkpBXD2psfoJEW8+QIKb01ATcxqRsRGTAeGzQsgTN2Fa+inOEaWBNwVpX5njqlZthCty3621/yE5urrHRzBxbcHribWHAqed+rW508SbQyOECiX/d3V4f3GHNSE0hRwM8uMSYYCuLsYtsmN/83mkgg5/+4VB1d1GT20wGf8cdPTH5Sx/IJEikPYF6kaLFhB+7s1bOclBVOwAAAABJRU5ErkJgggAAZAGQAVUBAEwBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABE0lEQVQ4EaVS0RWDMAhM+vpR1+kGZotO2C10g66jfylwECFp60d9PoXLHRdIUvrjyZ+1ywCXARmBmhLeRHouUel7gKNAESFB4/VdLBVVccF/q5svmmXbtSR66UF6EKypK6BpnRCArbzlxkHZA6hr/JOBWSXFyZAiKAGVnXkDjbddZ1DkC6UDEHI5aWGbjwZZnFfjmrI7QKSsTwkNohEWtwfLRK1+z5KqXsyJjxHqwKDvDFvRb6vBuWOfph/E3Z5RwoNtwCIuaPbUSQltwNKmP0AZyevBvPtzKBeZNqOINhFd2ynr5QuXRDysZ0n0GrpCP5RkYM7wcrJm3gdiA9CckbmFQSNDjYTo3BS2BToVnW2UgfgGoFRSstwVZ1YAAAAASUVORK5CYIIAAGQBkAFVAQBMAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAARNJREFUOBGlUtERQjEIo54fzuMGdgsndIvnBs7jXyUElFL1vLPnPUlIoKUV+WO1995tofvCiOwKN0TwC+k4Ia+QfBEnuEEh2tOCTzEEsaJzojTVDKKhbYEwLNbAwP5FWfTcMNB2wLffJxIU1hjDBja3FTuhOynsd+gWWWybIv3S+YQRYAQxxeA47Y4UVjjLBRKGSGUeWufNxeQUDJ6WFQ26n81DPw3Ma4Sn/K9ZP/PbeRZzhnw8bs43WfZMTyHbFbSbc9XfYzuIvseTsFi+j9sZdY6XVC1fdZeYwswmOUI8ptb8keg96bRt7GFWyVd/ybJcMhc/Wk5LbwRztZ5MzGblcv/JayA5FS9mGliCxyMz28g9AHX3VeBwhTzYAAAAAElFTkSuQmCCAABkAZABYQEAWAGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEfSURBVDgRjVLbDcIwDHQRH3QdNiBbMCFbtBuwTvkLPj8SxwGpEaLx+ezzI0QnzlGPn6zlJ0rbBJcJIbokrBLh59T6gJ9NxRM5mBsY0JTLv3ssypXHOhcxISglqNl1nHztkNxawbC2G/7LZwAB2ZGBaaZSaRNTOrRIpZUPHC5ooSUOLEaav38wAp9iQ9GzjhSQahJJAY1jJuLHg+BlN0zdHFm1W6eyqelS8whuhxlJs7n40r08HTlSdomcE3edjr4wXePxsAecatZkCdQx9bLXfT0hahQdk/QYFzi18H4i4P6SsJHpAxpRy58+wuHuUKNoeDCvp/adze9heF5eXQ+GTNRPsmLynmNAHxi8ntICfZ9mTq8gJnLOqA81RVJqoi8UHlYUxaqymQAAAABJRU5ErkJgggAAZAEsAQ==",
+                "sceneCode": 8120,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAOrNgUBBF0BAFQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABG0lEQVQ4EZVTwRHCMAxrOR50HTagWzAhW5QNWKf8gi1FrZ0G7ugjdhzJlp10GPCtZaXz1zr20YuHy20Ynzqf5QTbkovORvC5K2ISbTKncRKQdhmcaRw433wH6DtVJ4QswrJWkDWjCscLfK5kmU0hQBdf53cKchbAq2clA5r6wQTI+I7LGAtAtkVnTcqkkpBXD2psfoJEW8+QIKb01ATcxqRsRGTAeGzQsgTN2Fa+inOEaWBNwVpX5njqlZthCty3621/yE5urrHRzBxbcHribWHAqed+rW508SbQyOECiX/d3V4f3GHNSE0hRwM8uMSYYCuLsYtsmN/83mkgg5/+4VB1d1GT20wGf8cdPTH5Sx/IJEikPYF6kaLFhB+7s1bOclBVOwAAAABJRU5ErkJgggAAZAGQAVUBAEwBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABE0lEQVQ4EaVS0RWDMAhM+vpR1+kGZotO2C10g66jfylwECFp60d9PoXLHRdIUvrjyZ+1ywCXARmBmhLeRHouUel7gKNAESFB4/VdLBVVccF/q5svmmXbtSR66UF6EKypK6BpnRCArbzlxkHZA6hr/JOBWSXFyZAiKAGVnXkDjbddZ1DkC6UDEHI5aWGbjwZZnFfjmrI7QKSsTwkNohEWtwfLRK1+z5KqXsyJjxHqwKDvDFvRb6vBuWOfph/E3Z5RwoNtwCIuaPbUSQltwNKmP0AZyevBvPtzKBeZNqOINhFd2ynr5QuXRDysZ0n0GrpCP5RkYM7wcrJm3gdiA9CckbmFQSNDjYTo3BS2BToVnW2UgfgGoFRSstwVZ1YAAAAASUVORK5CYIIAAGQBkAFVAQBMAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAARNJREFUOBGlUtERQjEIo54fzuMGdgsndIvnBs7jXyUElFL1vLPnPUlIoKUV+WO1995tofvCiOwKN0TwC+k4Ia+QfBEnuEEh2tOCTzEEsaJzojTVDKKhbYEwLNbAwP5FWfTcMNB2wLffJxIU1hjDBja3FTuhOynsd+gWWWybIv3S+YQRYAQxxeA47Y4UVjjLBRKGSGUeWufNxeQUDJ6WFQ26n81DPw3Ma4Sn/K9ZP/PbeRZzhnw8bs43WfZMTyHbFbSbc9XfYzuIvseTsFi+j9sZdY6XVC1fdZeYwswmOUI8ptb8keg96bRt7GFWyVd/ybJcMhc/Wk5LbwRztZ5MzGblcv/JayA5FS9mGliCxyMz28g9AHX3VeBwhTzYAAAAAElFTkSuQmCCAABkAZABYQEAWAGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEfSURBVDgRjVLbDcIwDHQRH3QdNiBbMCFbtBuwTvkLPj8SxwGpEaLx+ezzI0QnzlGPn6zlJ0rbBJcJIbokrBLh59T6gJ9NxRM5mBsY0JTLv3ssypXHOhcxISglqNl1nHztkNxawbC2G/7LZwAB2ZGBaaZSaRNTOrRIpZUPHC5ooSUOLEaav38wAp9iQ9GzjhSQahJJAY1jJuLHg+BlN0zdHFm1W6eyqelS8whuhxlJs7n40r08HTlSdomcE3edjr4wXePxsAecatZkCdQx9bLXfT0hahQdk/QYFzi18H4i4P6SsJHpAxpRy58+wuHuUKNoeDCvp/adze9heF5eXQ+GTNRPsmLynmNAHxi8ntICfZ9mTq8gJnLOqA81RVJqoi8UHlYUxaqymQAAAABJRU5ErkJgggAAZAEsAQ==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767539
+          },
+          {
+            "sceneId": 8924,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/dec00f4c75f2ced0420e2ddcef9f853e-new_light_btn_scenes_valentines%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/1f2315b496393e7b9158e336eb44f20e-new_light_btn_scenes_valentines_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6cfdcddb4d3a75310cdbfb231fe55478-new_light_btn_scenes_valentines_dark%403x.png"
+            ],
+            "sceneName": "Valentine's Day",
+            "analyticName": "Valentine's Day",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13986,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 34,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767580
+          }
+        ]
+      },
+      {
+        "categoryId": 782,
+        "categoryName": "Life",
+        "scenes": [
+          {
+            "sceneId": 8940,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e8451eca7cdddfcc45fffd713db195a7-new_light_btn_scenes_reqiqiu.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/660441f3e7bfbfa5c9a459ebff8344bb-new_light_btn_scenes_reqiqiu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1e1e7a5737dc3911bd05a387fb5f610d-new_light_btn_scenes_reqiqiu_dark.png"
+            ],
+            "sceneName": "Hot Air Balloon",
+            "analyticName": "Hot Air Balloon",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14002,
+                "scenceName": "",
+                "scenceParam": "NEh+/wwAA+AAANcAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAnklEQVQ4EdWTTRqAIAhEsa+rdZq6QiuvYOftR2pQRNpWqwHmgUYF6jz7ehe2SEvHM7b5neac3FBKWbUtBjhYPKSkudMZcwspEIUyEHKVsZchEuJyvp5c9nrVAstYCzIPL7CFvOR+DwdZh3fV7qocnvdckucE/cIcXpEGfJ84Yq/V5+XdB7U0QV5ChVXNDABAtDbjl4TJwdijXxjIb4sDDlEY0kBS7QAAAAAASUVORK5CYIIFX2QC//+VAACMAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAFNJREFUOBFjYBgFIyIE/v//T4Y/gbqAgBGIgZoZGRmJNAKiHqKYiUg9EGXIOoEiUM1oolhNxFSDsBlTDqsRyIJQPwOFyPM2slkksMlwKQmmD0+lAL0iI+tpP1KSAAAAAElFTkSuQmCCA1tWA///eQAAcACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA3SURBVDgRY2AYBaMhMBoCQzkE/v//D3c+I5xFDAOuk5ERpJEEzXCdcGtI0AzUg6wfYjncIJIZANB1C/7ICvIWAAAAAElFTkSuQmCCBV5kAf//",
+                "sceneCode": 8131,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NEh+/wwAA+AAANcAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAnklEQVQ4EdWTTRqAIAhEsa+rdZq6QiuvYOftR2pQRNpWqwHmgUYF6jz7ehe2SEvHM7b5neac3FBKWbUtBjhYPKSkudMZcwspEIUyEHKVsZchEuJyvp5c9nrVAstYCzIPL7CFvOR+DwdZh3fV7qocnvdckucE/cIcXpEGfJ84Yq/V5+XdB7U0QV5ChVXNDABAtDbjl4TJwdijXxjIb4sDDlEY0kBS7QAAAAAASUVORK5CYIIFX2QC//+VAACMAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAFNJREFUOBFjYBgFIyIE/v//T4Y/gbqAgBGIgZoZGRmJNAKiHqKYiUg9EGXIOoEiUM1oolhNxFSDsBlTDqsRyIJQPwOFyPM2slkksMlwKQmmD0+lAL0iI+tpP1KSAAAAAElFTkSuQmCCA1tWA///eQAAcACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAA3SURBVDgRY2AYBaMhMBoCQzkE/v//D3c+I5xFDAOuk5ERpJEEzXCdcGtI0AzUg6wfYjncIJIZANB1C/7ICvIWAAAAAElFTkSuQmCCBV5kAf//",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768170
+          },
+          {
+            "sceneId": 8941,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6a4f1c125721c2b07e10a551223e603d-new_light_btn_scenes_fire%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/a2ea743032f0947a6ec982d95910b76f-new_light_btn_scenes_fire_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/5b5cd217379f7f729a5cc49c9d215d84-new_light_btn_scenes_fire_dark%403x.png"
+            ],
+            "sceneName": "Fire",
+            "analyticName": "Fire",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14003,
+                "scenceName": "",
+                "scenceParam": "MgsAAQNXAQL/AAD/FAA=",
+                "sceneCode": 8132,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  652
+                ],
+                "diyEffectStr": "MgsAAQNXAQL/AAD/FAA=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768192
+          },
+          {
+            "sceneId": 8942,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a654be8beef5cb5e7c0fcbb0f16d1a33-new_light_btn_scenes_yusan.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/18435ae9be9326a5563cc2786d998b02-new_light_btn_scenes_yusan_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ad9e3b6058a6eb9d3cf9c72e681820c3-new_light_btn_scenes_yusan_dark.png"
+            ],
+            "sceneName": "Umbrella",
+            "analyticName": "Umbrella",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14004,
+                "scenceName": "",
+                "scenceParam": "NAAA/w4AAq8AAKYAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbUlEQVQ4EWNgGAUkhQAjLtU9DP/hUiUM2JWhiyLrgWuGM9BMQdGMXyfECGT9CM3E6ETTzwR3EhkMqM3EW4tsOUgzqTrh+qngbENcHv6/zokxaB8O2fMU2TzcNAODCkc4IYQhiQR7aOMNaqAR5wEpOxYGM2DM8gAAAABJRU5ErkJgggAAZAH//+wAAOMAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAqklEQVQ4EaVSSQ7DMAh08tf0Ue1jXYLVybBZSM0J8Gw4HuOv75pjTqMgk/QL8/OGHYcBf6gNBIP0tvZwVGQJe83zsa1wTm61GlZjp8dryCtsYHlCd5fCzwNGXGpFZIrt7nwxCRqllAxEx/wdRaoJdCtAa+5UNCPtDA2Hw5yL1938yLxt999CrOMGsBQ7/O5MNczOHJsdXA1R87bTF+KY3RYOQuC6yweuJn8BsE41dzv0PEcAAAAASUVORK5CYIICX2QC//8=",
+                "sceneCode": 8133,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAA/w4AAq8AAKYAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbUlEQVQ4EWNgGAUkhQAjLtU9DP/hUiUM2JWhiyLrgWuGM9BMQdGMXyfECGT9CM3E6ETTzwR3EhkMqM3EW4tsOUgzqTrh+qngbENcHv6/zokxaB8O2fMU2TzcNAODCkc4IYQhiQR7aOMNaqAR5wEpOxYGM2DM8gAAAABJRU5ErkJgggAAZAH//+wAAOMAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAqklEQVQ4EaVSSQ7DMAh08tf0Ue1jXYLVybBZSM0J8Gw4HuOv75pjTqMgk/QL8/OGHYcBf6gNBIP0tvZwVGQJe83zsa1wTm61GlZjp8dryCtsYHlCd5fCzwNGXGpFZIrt7nwxCRqllAxEx/wdRaoJdCtAa+5UNCPtDA2Hw5yL1938yLxt999CrOMGsBQ7/O5MNczOHJsdXA1R87bTF+KY3RYOQuC6yweuJn8BsE41dzv0PEcAAAAASUVORK5CYIICX2QC//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768219
+          },
+          {
+            "sceneId": 8943,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e30bfdfe570ecb4105db696411670a80-new_light_btn_video_fengche.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e66e1a0d3ff3d135cf466ff43ab5f333-new_light_btn_video_fengche_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/b97e33d853f19d4fe1c3e606a59610dc-new_light_btn_video_fengche_dark.png"
+            ],
+            "sceneName": "Windmill",
+            "analyticName": "Windmill",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14005,
+                "scenceName": "",
+                "scenceParam": "NEq73g8BBA8BAAYBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAzUlEQVQ4EbWS0RHCIAyGk55juIDuoHt0Fx/rCjpCB+kOdQH3wACXkJRQ+iLXg/D/+QgUAP7Uwm3aX3lo2V2SQB8+QvrwQdKHWwep9VMtOUoIRUSU2D+z2DHQpJ06MC6PAm/IbLDowJRg+LKSihKP212pBArD/Ul9a60B1A+wYH+Wtu3ybwT6UmvdPJ95wzMm1V1e3bPwL0E6AVfupPl2Be+UrSwLV7ZUxDG9HJtgYYB1ifm6p+nnHMksRptbeeVZWUd20nj5TpnM6nU27g/DpDCEqvrDSgAAAABJRU5ErkJgggAAYgEsARgBAA8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA1klEQVQ4Ea2S2xECMQhFE8uxBwvZEqxBP61BS7APt4dtJ8KQsFwgOs7IRxIeh9duKf+R1n7NU3dA4Gosw9dOt/Hsd12v9Do4awn1Z2QGk83wH8gJjDxpKtKtqqFt9Zj6YnMkGQ1Mq3LbMnwkEe75k22nJIUnoZJEVlVfF1H5dH1B23tUiUtmp5lCYs3MAwbyga0h72EgJd2cB9iRdeF/kMXxYrQzT0kJzfhe2ZEjNd6Bx33cMTrVzk2/GcxMwdvKhJ76UKOSZMHKhC0Mz+T4BI+vDM5vyhsTUUHRZQBgSwAAAABJRU5ErkJgggAAYgEsARQBAAsBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA0klEQVQ4EbWSyRXCMAxEpTyqSQ/QR+iAGuAILZAOoA/SQ9oxXiJ7vCj4gg+xrNH3WHoh+tcyZv/mQZV/kRZU4A5SgftIBVY7KYVDmWidzfEe07zcYqz0HHUiJG0ajwxlEErb5vSAbAqDv+LMyqWCB3/GZ4iUdv5c3UG5a8ABJKgv2p5X+/Pkp3qRP7RlvvVc+G8k+ssIMdcazBMKorPNVebKtAHfCSsYbQuuknK4khM++wbzghwmWhdXj193PDsyJJ0sqxzYOoni9/FlAhmy4ztTv7GCMzXdn0XSAAAAAElFTkSuQmCCAABiAZABEgEACQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAADQSURBVDgRrZLhEYIwDIVbx2EH3YNZ5CeuoCOwh+zgOjWQNiQvqZ539jgufcmXV1JS+ssq5/nXPicNdPlSEjw7ZmBSAp4wWDmzgDDyfZIqAxh5duF38+RdDMe8Jammnp47eSY/rzXlSNLROa+TNDqCiKQsOh/APqpyuYni+6JzLfVDjm4xghWZR/MV8Bc4WJF8ig+8hYF81IkAL1NQcIcM/VlsMJDSXAXe317VXdV2wrLMcmfNuZW+1i2StwQiCkmKdSZs3ODeGhaTQWeT/LZ5A2s5S0PUI/LpAAAAAElFTkSuQmCCAABiASwB",
+                "sceneCode": 8134,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NEq73g8BBA8BAAYBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAzUlEQVQ4EbWS0RHCIAyGk55juIDuoHt0Fx/rCjpCB+kOdQH3wACXkJRQ+iLXg/D/+QgUAP7Uwm3aX3lo2V2SQB8+QvrwQdKHWwep9VMtOUoIRUSU2D+z2DHQpJ06MC6PAm/IbLDowJRg+LKSihKP212pBArD/Ul9a60B1A+wYH+Wtu3ybwT6UmvdPJ95wzMm1V1e3bPwL0E6AVfupPl2Be+UrSwLV7ZUxDG9HJtgYYB1ifm6p+nnHMksRptbeeVZWUd20nj5TpnM6nU27g/DpDCEqvrDSgAAAABJRU5ErkJgggAAYgEsARgBAA8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA1klEQVQ4Ea2S2xECMQhFE8uxBwvZEqxBP61BS7APt4dtJ8KQsFwgOs7IRxIeh9duKf+R1n7NU3dA4Gosw9dOt/Hsd12v9Do4awn1Z2QGk83wH8gJjDxpKtKtqqFt9Zj6YnMkGQ1Mq3LbMnwkEe75k22nJIUnoZJEVlVfF1H5dH1B23tUiUtmp5lCYs3MAwbyga0h72EgJd2cB9iRdeF/kMXxYrQzT0kJzfhe2ZEjNd6Bx33cMTrVzk2/GcxMwdvKhJ76UKOSZMHKhC0Mz+T4BI+vDM5vyhsTUUHRZQBgSwAAAABJRU5ErkJgggAAYgEsARQBAAsBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA0klEQVQ4EbWSyRXCMAxEpTyqSQ/QR+iAGuAILZAOoA/SQ9oxXiJ7vCj4gg+xrNH3WHoh+tcyZv/mQZV/kRZU4A5SgftIBVY7KYVDmWidzfEe07zcYqz0HHUiJG0ajwxlEErb5vSAbAqDv+LMyqWCB3/GZ4iUdv5c3UG5a8ABJKgv2p5X+/Pkp3qRP7RlvvVc+G8k+ssIMdcazBMKorPNVebKtAHfCSsYbQuuknK4khM++wbzghwmWhdXj193PDsyJJ0sqxzYOoni9/FlAhmy4ztTv7GCMzXdn0XSAAAAAElFTkSuQmCCAABiAZABEgEACQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAADQSURBVDgRrZLhEYIwDIVbx2EH3YNZ5CeuoCOwh+zgOjWQNiQvqZ539jgufcmXV1JS+ssq5/nXPicNdPlSEjw7ZmBSAp4wWDmzgDDyfZIqAxh5duF38+RdDMe8Jammnp47eSY/rzXlSNLROa+TNDqCiKQsOh/APqpyuYni+6JzLfVDjm4xghWZR/MV8Bc4WJF8ig+8hYF81IkAL1NQcIcM/VlsMJDSXAXe317VXdV2wrLMcmfNuZW+1i2StwQiCkmKdSZs3ODeGhaTQWeT/LZ5A2s5S0PUI/LpAAAAAElFTkSuQmCCAABiASwB",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768246
+          },
+          {
+            "sceneId": 8944,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/062f9ce5d3ebe84122139cf46f898c8a-new_light_btn_scenes_piaoliuping%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/66a7c1df5aaa6a049122423277061ee7-new_light_btn_scenes_piaoliuping_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/474962d4887cead1ccee283748aa63ad-new_light_btn_scenes_piaoliuping_dark%403x.png"
+            ],
+            "sceneName": "Drift Bottle",
+            "analyticName": "Drift Bottle",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14006,
+                "scenceName": "",
+                "scenceParam": "NHsg/wkAAxABAAcBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAzklEQVQ4EWNgGAWjITAaAoMpBCR1s8lzDgePE7NdzUqWP6Jv7u0j3ggODicWDkWGPwzMsrbxrAIiLMyykvr+ovJ2f379+PHpMS6DBGSsGH6pMvz5wcDAIqmpyWiYu5WBhUNSVhJIAvX8+PGD4fX9+we2Mbx/zsHJwQAU+8PwA4hef/j+5QeQwSEgIKlrxMDBIWnpxOjUdO7H9+/v33wQFBEQEBUE2cnC8eHx/ftH9glISP748uH97WsMHz4I6hoKqGgJikgALf0OtABk6g8AXl9EJkmf2OgAAAAASUVORK5CYIIEWGQC//8LAQACAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAMlJREFUOBFjYBgFQyQEGLG6c2+pk6Qkg4AAVPLDBwaton2YKrFo9jL1Unz/QYDhOycLVP37Hz8+MAjOfXAMTT8Wzf///0dTBOEyMmJRjKISqBOrZlzi6JpR+EgcTEOZkGTRmf+XKQIRuigSH6dmiDbGqPtIitGZODWjK8TGp41miIPx+xk96oBBOvUL1InPi6K1BF4wCEoc+6ylWVWdzcOAFtVYNAO11txgYOBgYPjDwMkDIr//YGhRAZlIQDNQBWZ8gvRh6ASKAAAC0USL020ycwAAAABJRU5ErkJgggAAZAH//2oAAGEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKElEQVQ4EWNgwAv+7/PCKz8YJYeimwdBOA65YBtyDqZaJI9cn2MNQgA0tQokT0ttWgAAAABJRU5ErkJgggFOZAP//w==",
+                "sceneCode": 8135,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NHsg/wkAAxABAAcBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAzklEQVQ4EWNgGAWjITAaAoMpBCR1s8lzDgePE7NdzUqWP6Jv7u0j3ggODicWDkWGPwzMsrbxrAIiLMyykvr+ovJ2f379+PHpMS6DBGSsGH6pMvz5wcDAIqmpyWiYu5WBhUNSVhJIAvX8+PGD4fX9+we2Mbx/zsHJwQAU+8PwA4hef/j+5QeQwSEgIKlrxMDBIWnpxOjUdO7H9+/v33wQFBEQEBUE2cnC8eHx/ftH9glISP748uH97WsMHz4I6hoKqGgJikgALf0OtABk6g8AXl9EJkmf2OgAAAAASUVORK5CYIIEWGQC//8LAQACAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAMlJREFUOBFjYBgFQyQEGLG6c2+pk6Qkg4AAVPLDBwaton2YKrFo9jL1Unz/QYDhOycLVP37Hz8+MAjOfXAMTT8Wzf///0dTBOEyMmJRjKISqBOrZlzi6JpR+EgcTEOZkGTRmf+XKQIRuigSH6dmiDbGqPtIitGZODWjK8TGp41miIPx+xk96oBBOvUL1InPi6K1BF4wCEoc+6ylWVWdzcOAFtVYNAO11txgYOBgYPjDwMkDIr//YGhRAZlIQDNQBWZ8gvRh6ASKAAAC0USL020ycwAAAABJRU5ErkJgggAAZAH//2oAAGEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKElEQVQ4EWNgwAv+7/PCKz8YJYeimwdBOA65YBtyDqZaJI9cn2MNQgA0tQokT0ttWgAAAABJRU5ErkJgggFOZAP//w==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768279
+          },
+          {
+            "sceneId": 8945,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/edf4749807605715d42e75a56185b6d4-new_light_btn_scenes_meishi.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/84bfee9c586169807af9cae91395cc25-new_light_btn_scenes_meishi_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d53a7744ba4d2bb95a248dab60e37f78-new_light_btn_scenes_meishi_dark.png"
+            ],
+            "sceneName": "Gourmet",
+            "analyticName": "Gourmet",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14007,
+                "scenceName": "",
+                "scenceParam": "NAD//wABBSYBAB0BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA5ElEQVQ4EaWS0RHDIAiGsdcBXCOZoYu0W7SDtFskGyVrdAOLkiCCJA/1PAM/fMBFAf5Y4YBNe8xLuuwJ7tcjXYAC6X2ScN75oEB/KNszvDpFOrAlibO8hj2yy1/1NLcsrB8Ynjpi/abzcrcJWhnnqjR/mwLjVMPSRlWS6IrO/KAq27MEIUyAVHiUuA6HSQnsl7LN2BAibiYxgex8hqhIPVWCTG47ocFuxKFoLsm0c2QyyrC1A3ytuCnUoZ7YvPSk08UwgPeMSXjSZox0yzdjY5JawwTro2ruPRMpX8VSMFY2V7ywH7hKWVHLmJ/+AAAAAElFTkSuQmCCADxkASAD9wAA7gCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC1SURBVDgRpZGBEQIhDASDFdjSt/Cd2Idt2IiNWEo8ROFIIDMZ+Z8fCLe54xHJjOvrkZGTNk2qasNzJLBK4lHtpB4nRdlMP+D0gTBJHic32BhRGep7TerGrVZJuJo6SOU5aoYovKbeqK99ShnImKHLWs7tRRi4zFu5FTeqZGxu1JFzUcUbhNnCwBoX8FsYhggZ+c4/7xuwA81Tf3djDty620N12Gx4OIptYL/8C/ZZqoFPvtS9AYFIjGl6Oe7AAAAAAElFTkSuQmCCADxkASADhAEAewGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAFCSURBVDgRxVTLVcQwEFN4NMJ7XJY+KILjphX6yB63CPpYjpQSpNF4bIfcmbfPK4+l+cUJcGaPD/BnG/GB+3zYW3N5D/ddq/EjHG/hCahlElOZMmC5Amujrbhswgxx0DdG/O8b9h1ag01f4nBOVODJ+2psYbbbgQNcsd+go4jl1ohTTMSCnc0kEcsGZfkIJB5bPdVXTk+BaZy8Z87xsMLotvJ3JfP4iLMMG8SeUDRsfVKiT+GmYf//bQsL6ANbo5y5Z7p6FyTE6feXbsvQs1gh5vVylNxpqwtH81yafxZzElu/DOZkWpUY1sbW9lE501Z5BBNuFVFA/8kNGy9gPZUMf+uxesK/SDkVv7NdBZ1VS6mqFXk09lfgJU9zbAzEWYR5yLnhXAsZuB+91T9YPuVzQspoh5d5+hjUsb8bogOnMh/9AjylfUH30ttsAAAAAElFTkSuQmCCADxkASAD7QAA5ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACrSURBVDgRtZELDoQwCETReNE9mUdVkHakU1g3MdtoymfegFHkH+c4nl3XZ8mlSL0YJhGlNGmAIUWg6hh/g6lHqbtEr2FyqqZiTJeYRNdYp3jp0D25kbuIPnTSokgzsZ+q74yRi6YfgxwL8KyrK47da9fKsrMlHfuG67g/pb2p9wS7NGKIteVx51+t3eDRsTsXN8SvJsPFfvOPBwwCA4n3Xlr0MeXacEUw73UCHnAnjUSOITUAAAAASUVORK5CYIIAO2QBIAP7AADyAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAALlJREFUOBG1klEOAjEIRIvxanpo93CVdhqYpZCsGvfDTGHeQIit/enrvX+cDOYbEqOUBMxi30JCCUwo6lMkOrV4gy8wbGUdQhcMx4g4xoSVpfoQ6JCOFF/GyNF4rBSY+Fee/lqTvaCqJrXZX+7N4Lm5W6bSgTwTXYfLw+gixedwYWg4Ydq9AKfcLBZwvSpH3fnhersZH9lsxWTrqzhvwTcvJjM8t2DGmhcmm3cTP8H+30Zueph0Z/W/AbgVQYVe68oNAAAAAElFTkSuQmCCADxkASAD",
+                "sceneCode": 8136,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAD//wABBSYBAB0BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA5ElEQVQ4EaWS0RHDIAiGsdcBXCOZoYu0W7SDtFskGyVrdAOLkiCCJA/1PAM/fMBFAf5Y4YBNe8xLuuwJ7tcjXYAC6X2ScN75oEB/KNszvDpFOrAlibO8hj2yy1/1NLcsrB8Ynjpi/abzcrcJWhnnqjR/mwLjVMPSRlWS6IrO/KAq27MEIUyAVHiUuA6HSQnsl7LN2BAibiYxgex8hqhIPVWCTG47ocFuxKFoLsm0c2QyyrC1A3ytuCnUoZ7YvPSk08UwgPeMSXjSZox0yzdjY5JawwTro2ruPRMpX8VSMFY2V7ywH7hKWVHLmJ/+AAAAAElFTkSuQmCCADxkASAD9wAA7gCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC1SURBVDgRpZGBEQIhDASDFdjSt/Cd2Idt2IiNWEo8ROFIIDMZ+Z8fCLe54xHJjOvrkZGTNk2qasNzJLBK4lHtpB4nRdlMP+D0gTBJHic32BhRGep7TerGrVZJuJo6SOU5aoYovKbeqK99ShnImKHLWs7tRRi4zFu5FTeqZGxu1JFzUcUbhNnCwBoX8FsYhggZ+c4/7xuwA81Tf3djDty620N12Gx4OIptYL/8C/ZZqoFPvtS9AYFIjGl6Oe7AAAAAAElFTkSuQmCCADxkASADhAEAewGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAFCSURBVDgRxVTLVcQwEFN4NMJ7XJY+KILjphX6yB63CPpYjpQSpNF4bIfcmbfPK4+l+cUJcGaPD/BnG/GB+3zYW3N5D/ddq/EjHG/hCahlElOZMmC5Amujrbhswgxx0DdG/O8b9h1ag01f4nBOVODJ+2psYbbbgQNcsd+go4jl1ohTTMSCnc0kEcsGZfkIJB5bPdVXTk+BaZy8Z87xsMLotvJ3JfP4iLMMG8SeUDRsfVKiT+GmYf//bQsL6ANbo5y5Z7p6FyTE6feXbsvQs1gh5vVylNxpqwtH81yafxZzElu/DOZkWpUY1sbW9lE501Z5BBNuFVFA/8kNGy9gPZUMf+uxesK/SDkVv7NdBZ1VS6mqFXk09lfgJU9zbAzEWYR5yLnhXAsZuB+91T9YPuVzQspoh5d5+hjUsb8bogOnMh/9AjylfUH30ttsAAAAAElFTkSuQmCCADxkASAD7QAA5ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACrSURBVDgRtZELDoQwCETReNE9mUdVkHakU1g3MdtoymfegFHkH+c4nl3XZ8mlSL0YJhGlNGmAIUWg6hh/g6lHqbtEr2FyqqZiTJeYRNdYp3jp0D25kbuIPnTSokgzsZ+q74yRi6YfgxwL8KyrK47da9fKsrMlHfuG67g/pb2p9wS7NGKIteVx51+t3eDRsTsXN8SvJsPFfvOPBwwCA4n3Xlr0MeXacEUw73UCHnAnjUSOITUAAAAASUVORK5CYIIAO2QBIAP7AADyAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAALlJREFUOBG1klEOAjEIRIvxanpo93CVdhqYpZCsGvfDTGHeQIit/enrvX+cDOYbEqOUBMxi30JCCUwo6lMkOrV4gy8wbGUdQhcMx4g4xoSVpfoQ6JCOFF/GyNF4rBSY+Fee/lqTvaCqJrXZX+7N4Lm5W6bSgTwTXYfLw+gixedwYWg4Ydq9AKfcLBZwvSpH3fnhersZH9lsxWTrqzhvwTcvJjM8t2DGmhcmm3cTP8H+30Zueph0Z/W/AbgVQYVe68oNAAAAAElFTkSuQmCCADxkASAD",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768317
+          },
+          {
+            "sceneId": 8946,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/7f2367aa01423ac9c996ec6445c611f6-new_light_btn_scenes_shuidi.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/9111dc5df7d9b266fd0d4fc938c262b8-new_light_btn_scenes_shuidi_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/23dc6f27cec75d0111757c84945f0e73-new_light_btn_scenes_shuidi_dark.png"
+            ],
+            "sceneName": "Water Drop",
+            "analyticName": "Water Drop",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14008,
+                "scenceName": "",
+                "scenceParam": "NAEBAWQBBa4AAKUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbElEQVQ4EWNkAIH/DPvugxlIhJMiuiCyCJDNwAhX/R9kBBRBjLvndO7Z//9Ac+8hiYOlQMpAAKEbwkcioc7576jICFWFRzGSPhgTq7UwSQYGJgQTCwtuFSYDi2pMIaj3MCVGRUZDYDQEaBACAEjGIsGlWyrRAAAAAElFTkSuQmCCAABkASwB5AAA2wCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACiSURBVDgR3VLREYAgCM02cZQcvDZwhPyrMQwwTguzzJ8u71TkvQeKqA6Hx2V0uA66m8jAA4+T02gClGI83T1GA2icoxf0yIVJmegQUWERyQeqAJ85msTPUuRYN2l7oYkCY1eqWfQI8oXD2AWUHgqGNa/TA5tkRb28Nt8k9Az8rOwZpmSbJICQ2e00bKkCk4Md9zcPTiPUlSpVfsb+wROaa7kBSHY2YET5vaoAAAAASUVORK5CYIIAAGQBLAHvAADmAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAK1JREFUOBFjYACB/wz77oHI/2AGkA1EmGy4AiADhBgYwZrB+pHZ++7DxGG0kxKMBdKGpBEmjESDVQAtBwIIiSRHKhNiG6m6Bkr9gLp2QC1HDnF6OQSW5pHtRmIzIbHRmP+dzj0HCYHSOXbX4tIMVe0kwPHfURGXflyaoa7Y9+EH4/77IP3YAJpmuPNAWXWfkSRECyOIB8+8CGOwCCEkEV7FrwxJByoT7hZUYcp5AAQ1QaTvjp44AAAAAElFTkSuQmCCAABkASwB1gAAzQCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACUSURBVDgRY2QAgf8M++6DGUQTTooMDIyMGMr/Q0XQjAOpBgKIeqAaTI1QfWBq3z2wi4AkHMDMhQsQYpCsAWIgmdoIuWawy49QbwOjZcj5nICDmbAkNVB+ggOIfgKmAFVjqvjvdO4ZWBxZCsHGk6eBOp9DHLDPSBLMQFeM7GxgYQRxMNBsJJ0ffkAKqf//QeIwBDINAPFnMJEu0l7rAAAAAElFTkSuQmCCAABkAZAB4QAA2ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACfSURBVDgR1VRRDoAgCMVuUkfx4B2hI9Rf1yAQRW3oWltuucbw+XiPauiAF8J6hKQR/ALrXp35GcC5AkLas1CMUCkym5bwhRM3hUJOiZHqg0/SzYx+Rq9D3QYVizhZoGLSpEQFhyTNhoe4/81kyNf60MSUNkADevarbhPbK3rn0TaQASRHEq61Y42Aeoo6knoTaRn67aSHhfgyYByxpLkLfE83h8tpMMkAAAAASUVORK5CYIIAAGQBkAE=",
+                "sceneCode": 8137,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAEBAWQBBa4AAKUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbElEQVQ4EWNkAIH/DPvugxlIhJMiuiCyCJDNwAhX/R9kBBRBjLvndO7Z//9Ac+8hiYOlQMpAAKEbwkcioc7576jICFWFRzGSPhgTq7UwSQYGJgQTCwtuFSYDi2pMIaj3MCVGRUZDYDQEaBACAEjGIsGlWyrRAAAAAElFTkSuQmCCAABkASwB5AAA2wCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACiSURBVDgR3VLREYAgCM02cZQcvDZwhPyrMQwwTguzzJ8u71TkvQeKqA6Hx2V0uA66m8jAA4+T02gClGI83T1GA2icoxf0yIVJmegQUWERyQeqAJ85msTPUuRYN2l7oYkCY1eqWfQI8oXD2AWUHgqGNa/TA5tkRb28Nt8k9Az8rOwZpmSbJICQ2e00bKkCk4Md9zcPTiPUlSpVfsb+wROaa7kBSHY2YET5vaoAAAAASUVORK5CYIIAAGQBLAHvAADmAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAK1JREFUOBFjYACB/wz77oHI/2AGkA1EmGy4AiADhBgYwZrB+pHZ++7DxGG0kxKMBdKGpBEmjESDVQAtBwIIiSRHKhNiG6m6Bkr9gLp2QC1HDnF6OQSW5pHtRmIzIbHRmP+dzj0HCYHSOXbX4tIMVe0kwPHfURGXflyaoa7Y9+EH4/77IP3YAJpmuPNAWXWfkSRECyOIB8+8CGOwCCEkEV7FrwxJByoT7hZUYcp5AAQ1QaTvjp44AAAAAElFTkSuQmCCAABkASwB1gAAzQCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACUSURBVDgRY2QAgf8M++6DGUQTTooMDIyMGMr/Q0XQjAOpBgKIeqAaTI1QfWBq3z2wi4AkHMDMhQsQYpCsAWIgmdoIuWawy49QbwOjZcj5nICDmbAkNVB+ggOIfgKmAFVjqvjvdO4ZWBxZCsHGk6eBOp9DHLDPSBLMQFeM7GxgYQRxMNBsJJ0ffkAKqf//QeIwBDINAPFnMJEu0l7rAAAAAElFTkSuQmCCAABkAZAB4QAA2ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACfSURBVDgR1VRRDoAgCMVuUkfx4B2hI9Rf1yAQRW3oWltuucbw+XiPauiAF8J6hKQR/ALrXp35GcC5AkLas1CMUCkym5bwhRM3hUJOiZHqg0/SzYx+Rq9D3QYVizhZoGLSpEQFhyTNhoe4/81kyNf60MSUNkADevarbhPbK3rn0TaQASRHEq61Y42Aeoo6knoTaRn67aSHhfgyYByxpLkLfE83h8tpMMkAAAAASUVORK5CYIIAAGQBkAE=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768345
+          },
+          {
+            "sceneId": 8947,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d34cacea92522771c01a59ced64af6fe-new_light_btn_scenes_jiaotongguidao%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/17971453e8f17334eddefeea30d401ca-new_light_btn_scenes_jiaotongguidao_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/bdedbb05f34d4c78a64ad8289557d2ab-new_light_btn_scenes_jiaotongguidao_dark%403x.png"
+            ],
+            "sceneName": "Orbital Rail",
+            "analyticName": "Orbital Rail",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14009,
+                "scenceName": "",
+                "scenceParam": "NHz/1gcBBQ0BAAQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAy0lEQVQ4EWNgGAUkhQAjmup7j9+jiWBylWQFz0UyGC1nYMSlGqgCrg2XGrgC0hhAm4GAiTRNqKop0swCNAurl5D9jGofgsfIULgWwUNj9QejCcC5kNBmuXdkLlwIzlCySf7fF8TY////fwZGRvTohCtjUTq9FayCAZlksFkH1AIT+Y9LP+M9Uy+4SXAG0GY4G8gAuuIHww9ORk64INTZaOrg0siM+2bekqewBA3eAEMy4F6RExIPysSZPDGVYoowBp2zwhQlUoSiFAYAdS07XSgLyncAAAAASUVORK5CYIIAAGQByAAOAQAFAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAMxJREFUOBFjYBgFJIUAI5rqe4/fo4kAuUqygkDyXCSD0XIUSUasquEacMmimEEMB2gzGmBC45PEpUgzC9AqrB6DBBJ+hzAyFK7FqaI/GFkKM7RZ7h2Zi6wCwlaySf7fF8TY////fwZGRvTohKtnUTq9FayCAZlksFkH1AIT+Y9LP+M9Uy+4SXAG0GY4G+gEIPsHw4/rUZxoiYQFWR1cAzKDsWjd+/5gjv/fkQUhbLwBhqT8XpETEg/KxJk8MZViijAGnbPCFCVShKIUBgD8pT1d47xS+QAAAABJRU5ErkJgggAAZAHIAPkAAPAAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAt0lEQVQ4EWNgGAUkhQAjUPW9x++x6lGSFTwXyWC0HKskSJARrhOoFK4KLggXIYcBtBkPYMIjR1CKIs0sQOOx+hA5CHA5gZGhcC0uOYb+YEKhbeqFqVnJJvl/XxAjI8P//wyMQAonKFz7H6gEqAyJBDsHWQS7bsZ7OGyGKwc6Acj+wfCDk5ETLghh4PUzTO37/mCO/98xNYNCmyAQLFx778kPzEhBJE+CRmAqYAw6Z4UpSqQIRSkMAF3ERLmhn0+5AAAAAElFTkSuQmCCAABkAcgA/gAA9QCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC8SURBVDgRY2AYBSSFACOy6nORDEbLGe49fo8sCGcryQrC2RAGIy6lQGlk1XiUQU0E2kwSYCJJNZpiijSDAgyrf5A9jGYhnMvIULgWzkFn9Aeji6DyGe+ZeqGKgHhKNsn/+4IYGRn+/2dgBFK4wX8gYAAqQyLBzkEWwa4bp81w5UAnANk/GH5wMnLCBSEMvH6GqX3fH8zx/zumZhaYAny0YOHae09+YEYKvuSJzzywHGPQOSuCinApoCiFAQDv00KXRZ7AoAAAAABJRU5ErkJgggAAZAHIAPoAAPEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAuElEQVQ4EWNgGAUkhQAjUPW5SAaj5VBd9x6/x6NfSVYQWZYRTTWaNFApmgJkzSA20GbyABN52iC6KNIMCjCsvsL0PKYbGRkK12KKQkX6g3FKgSUY75l6YapQskn+3xfEyMjw/z8DI5DCDf4DAQNQGRIJdg6yCHbdOG2GKwc6Acj+wfCDk5ETLghh4PUzTO37/mCO/98xNbPAFOCjBQvX3nvyAzNS0JMnPjMw5BiDzllhCBIrQFEKAwAnQUKX8lPAGwAAAABJRU5ErkJgggAAZAHIAA==",
+                "sceneCode": 8138,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NHz/1gcBBQ0BAAQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAy0lEQVQ4EWNgGAUkhQAjmup7j9+jiWBylWQFz0UyGC1nYMSlGqgCrg2XGrgC0hhAm4GAiTRNqKop0swCNAurl5D9jGofgsfIULgWwUNj9QejCcC5kNBmuXdkLlwIzlCySf7fF8TY////fwZGRvTohCtjUTq9FayCAZlksFkH1AIT+Y9LP+M9Uy+4SXAG0GY4G8gAuuIHww9ORk64INTZaOrg0siM+2bekqewBA3eAEMy4F6RExIPysSZPDGVYoowBp2zwhQlUoSiFAYAdS07XSgLyncAAAAASUVORK5CYIIAAGQByAAOAQAFAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAMxJREFUOBFjYBgFJIUAI5rqe4/fo4kAuUqygkDyXCSD0XIUSUasquEacMmimEEMB2gzGmBC45PEpUgzC9AqrB6DBBJ+hzAyFK7FqaI/GFkKM7RZ7h2Zi6wCwlaySf7fF8TY////fwZGRvTohKtnUTq9FayCAZlksFkH1AIT+Y9LP+M9Uy+4SXAG0GY4G+gEIPsHw4/rUZxoiYQFWR1cAzKDsWjd+/5gjv/fkQUhbLwBhqT8XpETEg/KxJk8MZViijAGnbPCFCVShKIUBgD8pT1d47xS+QAAAABJRU5ErkJgggAAZAHIAPkAAPAAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAt0lEQVQ4EWNgGAUkhQAjUPW9x++x6lGSFTwXyWC0HKskSJARrhOoFK4KLggXIYcBtBkPYMIjR1CKIs0sQOOx+hA5CHA5gZGhcC0uOYb+YEKhbeqFqVnJJvl/XxAjI8P//wyMQAonKFz7H6gEqAyJBDsHWQS7bsZ7OGyGKwc6Acj+wfCDk5ETLghh4PUzTO37/mCO/98xNYNCmyAQLFx778kPzEhBJE+CRmAqYAw6Z4UpSqQIRSkMAF3ERLmhn0+5AAAAAElFTkSuQmCCAABkAcgA/gAA9QCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC8SURBVDgRY2AYBSSFACOy6nORDEbLGe49fo8sCGcryQrC2RAGIy6lQGlk1XiUQU0E2kwSYCJJNZpiijSDAgyrf5A9jGYhnMvIULgWzkFn9Aeji6DyGe+ZeqGKgHhKNsn/+4IYGRn+/2dgBFK4wX8gYAAqQyLBzkEWwa4bp81w5UAnANk/GH5wMnLCBSEMvH6GqX3fH8zx/zumZhaYAny0YOHae09+YEYKvuSJzzywHGPQOSuCinApoCiFAQDv00KXRZ7AoAAAAABJRU5ErkJgggAAZAHIAPoAAPEAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAuElEQVQ4EWNgGAUkhQAjUPW5SAaj5VBd9x6/x6NfSVYQWZYRTTWaNFApmgJkzSA20GbyABN52iC6KNIMCjCsvsL0PKYbGRkK12KKQkX6g3FKgSUY75l6YapQskn+3xfEyMjw/z8DI5DCDf4DAQNQGRIJdg6yCHbdOG2GKwc6Acj+wfCDk5ETLghh4PUzTO37/mCO/98xNbPAFOCjBQvX3nvyAzNS0JMnPjMw5BiDzllhCBIrQFEKAwAnQUKX8lPAGwAAAABJRU5ErkJgggAAZAHIAA==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768377
+          }
+        ]
+      },
+      {
+        "categoryId": 788,
+        "categoryName": "Funny",
+        "scenes": [
+          {
+            "sceneId": 8925,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8cb88b5bf153e1d040fff7403856ee1c-new_light_btn_scenes_taoquanquan.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/fc309366ce9a931268673a090a510135-new_light_btn_scenes_taoquanquan_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a195e0d53438de8076b3f71feb895da1-new_light_btn_scenes_taoquanquan_dark.png"
+            ],
+            "sceneName": "Ring Toss",
+            "analyticName": "Ring Toss",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13987,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 25,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767604
+          },
+          {
+            "sceneId": 8926,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/ad0b4ae9479e8dc996f59541554bc428-new_light_btn_scenes_kashapong%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/af89990e2598cfd86e8a4738c2dac2ae-new_light_btn_scenes_kashapong_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/d1ca2de54f3e7d0dff88616ff31d2ce0-new_light_btn_scenes_kashapong_dark%403x.png"
+            ],
+            "sceneName": "Bouncing Ball",
+            "analyticName": "Bouncing Ball",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13988,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 23,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767630
+          },
+          {
+            "sceneId": 8927,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/14c0563568e75589fb1b13d262e51263-new_light_btn_scenes_duobi.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5e91bf29810915f0cec8d37cbe9aeb86-new_light_btn_scenes_duobi_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f479b4ec065c559046ff188d678a9de9-new_light_btn_scenes_duobi_dark.png"
+            ],
+            "sceneName": "Dodging",
+            "analyticName": "Dodging",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13989,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 28,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767658
+          },
+          {
+            "sceneId": 8928,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5ea4750e23a2621a0555e0390973bc21-new_light_btn_scenes_saiche.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/61edf9ac536832b6168aed6708469100-new_light_btn_scenes_saiche_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/52d386593a7fdb3524ed8498e89bce0b-new_light_btn_scenes_saiche_dark.png"
+            ],
+            "sceneName": "Racing",
+            "analyticName": "Racing",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13990,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 26,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767682
+          },
+          {
+            "sceneId": 8929,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/4b78382f918c769c45dba850e6c2041a-new_light_btn_scenes_duidie.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/880d10089af7d694edf544902c7f3529-new_light_btn_scenes_duidie_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/38c16e7915fb4edbdb9cd169d0239f0e-new_light_btn_scenes_duidie_dark.png"
+            ],
+            "sceneName": "Stack",
+            "analyticName": "Stack",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13991,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 32,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767717
+          },
+          {
+            "sceneId": 8930,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f2e4192d5f9ab49987105473d48d7781-new_light_btn_scenes_chidouren.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/625b084ed3087c1275909fbbcf9198e2-new_light_btn_scenes_chidouren_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/4832fb0b8f33127e27dd128e1363b8cd-new_light_btn_scenes_chidouren_dark.png"
+            ],
+            "sceneName": "Dot Eater",
+            "analyticName": "Dot Eater",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13992,
+                "scenceName": "",
+                "scenceParam": "NP9/AAYBA9YAAM0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAlElEQVQ4EeWRSRLAIAgExcr/v2xUEAFBrVzjJSzTbEnpfw9uVi5axAwbOi88Q2IGsQPskswTXLQKeljHxDDDzNUwpBsZevWFlZx5HAsVOAwX7m7rvHmQClG9hHEzV9yUiFL+wUh9GpvgqnaWn0m/N+3skL5eRZ9vGNY4XFs1Wpzw2vIvRLu3zlKH1dcId40KseDWeAE4UiIaLQCR6AAAAABJRU5ErkJgggNcZAGIE9IAAMkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAkElEQVQ4Ee1R0RKAIAiTrt/22wlUMAHNHnrL6zyZG8yV0r9eJQCVjTiooMED6AtmGWUl7eghVDr9aCw1Y4c3o4j0NUq6b8hKXLp4ZW3O+KOYqZh7gPfz9M0S2Gwy9YR4sih57GIFYqOsPv3OTSlS/+k0zIUS7+mDN6sjsdDTppwE3PtVyjaH09Tzsg+cc97cXBynOV2RTd59AAAAAElFTkSuQmCCBF1kAYgTgwAAegCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAABBSURBVDgRY2CgKfhfS7Tx/4lWSb5CEpxDviWEdeJyBj2CgLDrqKCClh6hpdnkeR1XdJJnGqouWpqNahPdeVSLSAA+UAxoGsqUowAAAABJRU5ErkJgggBGZAK4Cw==",
+                "sceneCode": 8121,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NP9/AAYBA9YAAM0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAlElEQVQ4EeWRSRLAIAgExcr/v2xUEAFBrVzjJSzTbEnpfw9uVi5axAwbOi88Q2IGsQPskswTXLQKeljHxDDDzNUwpBsZevWFlZx5HAsVOAwX7m7rvHmQClG9hHEzV9yUiFL+wUh9GpvgqnaWn0m/N+3skL5eRZ9vGNY4XFs1Wpzw2vIvRLu3zlKH1dcId40KseDWeAE4UiIaLQCR6AAAAABJRU5ErkJgggNcZAGIE9IAAMkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAkElEQVQ4Ee1R0RKAIAiTrt/22wlUMAHNHnrL6zyZG8yV0r9eJQCVjTiooMED6AtmGWUl7eghVDr9aCw1Y4c3o4j0NUq6b8hKXLp4ZW3O+KOYqZh7gPfz9M0S2Gwy9YR4sih57GIFYqOsPv3OTSlS/+k0zIUS7+mDN6sjsdDTppwE3PtVyjaH09Tzsg+cc97cXBynOV2RTd59AAAAAElFTkSuQmCCBF1kAYgTgwAAegCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAABBSURBVDgRY2CgKfhfS7Tx/4lWSb5CEpxDviWEdeJyBj2CgLDrqKCClh6hpdnkeR1XdJJnGqouWpqNahPdeVSLSAA+UAxoGsqUowAAAABJRU5ErkJgggBGZAK4Cw==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767802
+          },
+          {
+            "sceneId": 8931,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/dc5bcb9818b6ad05f4e4c49c0c855a19-new_light_btn_scenes_huojian.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/c5ce8a1bc2d2d34aa0e486057e809c7c-new_light_btn_scenes_huojian_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/eeb86baaccc1fbcd77442d04228f773c-new_light_btn_scenes_huojian_dark.png"
+            ],
+            "sceneName": "Rocket",
+            "analyticName": "Rocket",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13993,
+                "scenceName": "",
+                "scenceParam": "NIsA/wAABcUAALwAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAg0lEQVQ4EaWTUQ6AIAxDO+7tDfTMcwOZCcSPVn4Ew1u7AjjhMUCOFwieZMf2pDxZHueJzaFLtkdQfFpPx9P3/G6uvn48ijRX9bKAFPaMSZLOuNwbDH6UFWISok24HqFgZpcRSsvW0a3U81KJXvbA+1HRaAGi8cC0c1LecJnNiaP9EMcNH9U3mdwQZyoAAAAASUVORK5CYIICZP8F//+rAACiAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAGlJREFUOBG9kuEOABAIhPHenj2babTOSoZfquu7WCl9OIQ8ypqkukZv7gTHsJ1hm3fEq2avyVY33cVvb/XBwrQJAlQbE62xWacAMIE3QErPiL3Xg5UmZxHz4apycSDVh+VsmgWebDJ/ChqBWhdshTFPSgAAAABJRU5ErkJgggJg/wT//6kAAKAAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAZ0lEQVQ4Ee1QQQ7AIAir+7cnH+4QjZYQY1x28CAnKbTUArduAscmENhZliYWICSGkRVEgtkGHrO12fxLVsPNpxrpnr0tc5m/VDmswtMq5BH02MYpF9WULAPDnzCHtH8JXzwXlW+1ZL4MoxN9VtpCeAAAAABJRU5ErkJgggBf/wP//4AAAHcAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAPklEQVQ4EWNgGAWjITAaAkSGwP//CIXIbIQomMWCxodz8eiBq2GCs8hgMOLSA7eZEacSXFrB4nD9eFUNiCQA0U0KAANkjU0AAAAASUVORK5CYIIAZP8D///lAADcAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAKNJREFUOBHtkmEOgzAIhR/LDrHt/mdTb4GvUwu+ti5Zsn9rSAr0fYBEYHx8/PTh5U36N/xGAryveOsOIA37IuDewiRfj2fO+zJ3+VsWiT8tM02SORzCxMydltXiK9zOTIBf0a2hcK1dADNazbTOaWFSXtcGSKXoLCT7tNsSTcBUW/kr9lMWBs98ft1EMUhwB0+166SnOOAD2e9aa6gQ4B/+eAMr15oyjaAINH0AAAAASUVORK5CYIIAAP8B//8=",
+                "sceneCode": 8122,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NIsA/wAABcUAALwAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAg0lEQVQ4EaWTUQ6AIAxDO+7tDfTMcwOZCcSPVn4Ew1u7AjjhMUCOFwieZMf2pDxZHueJzaFLtkdQfFpPx9P3/G6uvn48ijRX9bKAFPaMSZLOuNwbDH6UFWISok24HqFgZpcRSsvW0a3U81KJXvbA+1HRaAGi8cC0c1LecJnNiaP9EMcNH9U3mdwQZyoAAAAASUVORK5CYIICZP8F//+rAACiAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAGlJREFUOBG9kuEOABAIhPHenj2babTOSoZfquu7WCl9OIQ8ypqkukZv7gTHsJ1hm3fEq2avyVY33cVvb/XBwrQJAlQbE62xWacAMIE3QErPiL3Xg5UmZxHz4apycSDVh+VsmgWebDJ/ChqBWhdshTFPSgAAAABJRU5ErkJgggJg/wT//6kAAKAAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAZ0lEQVQ4Ee1QQQ7AIAir+7cnH+4QjZYQY1x28CAnKbTUArduAscmENhZliYWICSGkRVEgtkGHrO12fxLVsPNpxrpnr0tc5m/VDmswtMq5BH02MYpF9WULAPDnzCHtH8JXzwXlW+1ZL4MoxN9VtpCeAAAAABJRU5ErkJgggBf/wP//4AAAHcAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAPklEQVQ4EWNgGAWjITAaAkSGwP//CIXIbIQomMWCxodz8eiBq2GCs8hgMOLSA7eZEacSXFrB4nD9eFUNiCQA0U0KAANkjU0AAAAASUVORK5CYIIAZP8D///lAADcAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAKNJREFUOBHtkmEOgzAIhR/LDrHt/mdTb4GvUwu+ti5Zsn9rSAr0fYBEYHx8/PTh5U36N/xGAryveOsOIA37IuDewiRfj2fO+zJ3+VsWiT8tM02SORzCxMydltXiK9zOTIBf0a2hcK1dADNazbTOaWFSXtcGSKXoLCT7tNsSTcBUW/kr9lMWBs98ft1EMUhwB0+166SnOOAD2e9aa6gQ4B/+eAMr15oyjaAINH0AAAAASUVORK5CYIIAAP8B//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767889
+          },
+          {
+            "sceneId": 8932,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a3d8b965506722b6cc9edcf7baa63a58-%E4%BB%99%E4%BA%BA%E6%8E%8C.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a60b6a8be79eeaec99d4636631727024-%E4%BB%99%E4%BA%BA%E6%8E%8C_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/67c36c9fe4edbb6ac36fcf01b2b999af-%E4%BB%99%E4%BA%BA%E6%8E%8C_dark.png"
+            ],
+            "sceneName": "Cactus",
+            "analyticName": "Cactus",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13994,
+                "scenceName": "",
+                "scenceParam": "NPFzAAoBBN4AANUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAnElEQVQ4Ed2R0Q6AIAhFsfWzraf6kPpkwogrZmtaPeWaIt7DhUX0s8XENMpMurcMxxGSj4fINy4lxdn8L/mQsgLI0oTG+uYksR1oiDoVtO1W+hFsVgVsVU1wdzoYs1XzIHIHz0OCpGWcc47X3Poa0fGHVGq2cnOhL4MOfbLQVjgXDAq+mvlrmCf0FYPT1b+dB4I0LDs5J3FYU6zRBh8nH3B08mAAAAAAAElFTkSuQmCCAABkAfQB6AAA3wCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACmSURBVDgR3ZBNGkAwDERbn0s4Y1ccwQG4qhtUNKSTNujCCgv5mTdJOPezJzoX6Q0PZ3V2j0hifdjm4Zm38DT2dbIv0TRTFUnCxUqr174RnV68DhhrGBotYRuMC8NdGmYRtPN85K+qhqlKIkt3/rML428F67aRgXUbLIcASb46k0Giloql7bFrxzf+JG5b23b9HI6jGlSk2CsPEqlfDlmcstivOeZoB0kUHi4KPIS4AAAAAElFTkSuQmCCAABkAVgC4gAA2QCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACgSURBVDgRzZFLDoAgDETBeFtXegTjWo/qEbBIOgyiBD8LicHSzusUNeaPy5lOxgr7zfmc59ZxuontdkJ6z7BfNLDnebHFupBIvYFGTPxTXqmG4DLGVfV4BGujDNauKii9CcaHqeZBpA7MQ4KkZsg5xWtObY0o+YVqKyCF3AYTcjLTVjhnDBq+uvPXsOsxlw8OR64dLwSpnXdyiGK7xDhEG5t3H5IH7qWKAAAAAElFTkSuQmCCAABkAfQB6wAA4gCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACpSURBVDgRzZHRDYRACETZi01Yo19nCRagrdoB4irIIhBN7uOMicDMc1gF+NMLYUg2+4QaApHr1Oe8hyMQSndOFg+tpAiBhfR4bYHjooulVKFDncm1Sr2tyH5em/vW5XXKqdZWUw9yZjXZfE/TCkVv1wEFODkChDRF9TNsNNPqQJI4iZ+5+1Bv3gfJN0aC+FfJ4E3xaxi/TbpptWYPJNYy7zYcL3NZrvqoNjd4HTUFTLZpAAAAAElFTkSuQmCCAABkAZAB",
+                "sceneCode": 8123,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NPFzAAoBBN4AANUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAnElEQVQ4Ed2R0Q6AIAhFsfWzraf6kPpkwogrZmtaPeWaIt7DhUX0s8XENMpMurcMxxGSj4fINy4lxdn8L/mQsgLI0oTG+uYksR1oiDoVtO1W+hFsVgVsVU1wdzoYs1XzIHIHz0OCpGWcc47X3Poa0fGHVGq2cnOhL4MOfbLQVjgXDAq+mvlrmCf0FYPT1b+dB4I0LDs5J3FYU6zRBh8nH3B08mAAAAAAAElFTkSuQmCCAABkAfQB6AAA3wCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACmSURBVDgR3ZBNGkAwDERbn0s4Y1ccwQG4qhtUNKSTNujCCgv5mTdJOPezJzoX6Q0PZ3V2j0hifdjm4Zm38DT2dbIv0TRTFUnCxUqr174RnV68DhhrGBotYRuMC8NdGmYRtPN85K+qhqlKIkt3/rML428F67aRgXUbLIcASb46k0Giloql7bFrxzf+JG5b23b9HI6jGlSk2CsPEqlfDlmcstivOeZoB0kUHi4KPIS4AAAAAElFTkSuQmCCAABkAVgC4gAA2QCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACgSURBVDgRzZFLDoAgDETBeFtXegTjWo/qEbBIOgyiBD8LicHSzusUNeaPy5lOxgr7zfmc59ZxuontdkJ6z7BfNLDnebHFupBIvYFGTPxTXqmG4DLGVfV4BGujDNauKii9CcaHqeZBpA7MQ4KkZsg5xWtObY0o+YVqKyCF3AYTcjLTVjhnDBq+uvPXsOsxlw8OR64dLwSpnXdyiGK7xDhEG5t3H5IH7qWKAAAAAElFTkSuQmCCAABkAfQB6wAA4gCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACpSURBVDgRzZHRDYRACETZi01Yo19nCRagrdoB4irIIhBN7uOMicDMc1gF+NMLYUg2+4QaApHr1Oe8hyMQSndOFg+tpAiBhfR4bYHjooulVKFDncm1Sr2tyH5em/vW5XXKqdZWUw9yZjXZfE/TCkVv1wEFODkChDRF9TNsNNPqQJI4iZ+5+1Bv3gfJN0aC+FfJ4E3xaxi/TbpptWYPJNYy7zYcL3NZrvqoNjd4HTUFTLZpAAAAAElFTkSuQmCCAABkAZAB",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767917
+          }
+        ]
+      },
+      {
+        "categoryId": 794,
+        "categoryName": "Animals",
+        "scenes": [
+          {
+            "sceneId": 8933,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/16794cf044ab80f5a2a89ab90d7c30ed-new_light_btn_scenes_shuimu.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5224363432ea9c79a981ab05a7f85043-new_light_btn_scenes_shuimu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/4e9295f3d5f288f1aad92ab9c4cd7948-new_light_btn_scenes_shuimu_dark.png"
+            ],
+            "sceneName": "Jellyfish",
+            "analyticName": "Jellyfish",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13995,
+                "scenceName": "",
+                "scenceParam": "NFgA/wcAAo8BAIYBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABTUlEQVQ4EY2TsU3EQBBF/xDRAAWcRErggITrwCEBObIIQNAAxLgCRIJowNJBdFcCBeACKIAGyD5/x7vceW18Xq1uvbP/zZ9Z+4C5g3OFM3U2oSPOu1PD26hsHPYSFwn4SilSYGIVyWcQa58VUVWK+Jyg4pGTC0IzkOlhzeuczcuWg9Xku+Eyl+ImRHLgT1XhMDzXREOeIk6m4bqo8ec80e6ZC/KfV/zkod6+5gP4BBKl3haxCpd1RZyop9446O20Uc339tjkYe3ZLjN+AB9H7BZm2MCLJJaKGj7Q9tocwBem25JUZcc0vhR3vqiV/ePbLzz1TJyFngfkwFmJRR71ygtmL1a06nuvs5etFGW88FWw7UYfHnOOwrhY+m8VnwzmU6OzlaKJztjIduuoFP/g6hZQteHYs+g72dasYEiEMd5JnUU4fFZlhJ3Zdez4X3s8lmUM+iBSAAAAAElFTkSuQmCCAWBkAf//jQAAhACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAABLSURBVDgRY2AgA/zHpuf/MmyitBT7j9Ud2GwkWiE2zdQX+0+8y9Es/89ghSZCWy4tI5X8UKCtn4GmE+U0ohTR3KmDygLqBQkpORYAvLkYcOhBftcAAAAASUVORK5CYIICXVwC//8=",
+                "sceneCode": 8124,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NFgA/wcAAo8BAIYBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABTUlEQVQ4EY2TsU3EQBBF/xDRAAWcRErggITrwCEBObIIQNAAxLgCRIJowNJBdFcCBeACKIAGyD5/x7vceW18Xq1uvbP/zZ9Z+4C5g3OFM3U2oSPOu1PD26hsHPYSFwn4SilSYGIVyWcQa58VUVWK+Jyg4pGTC0IzkOlhzeuczcuWg9Xku+Eyl+ImRHLgT1XhMDzXREOeIk6m4bqo8ec80e6ZC/KfV/zkod6+5gP4BBKl3haxCpd1RZyop9446O20Uc339tjkYe3ZLjN+AB9H7BZm2MCLJJaKGj7Q9tocwBem25JUZcc0vhR3vqiV/ePbLzz1TJyFngfkwFmJRR71ygtmL1a06nuvs5etFGW88FWw7UYfHnOOwrhY+m8VnwzmU6OzlaKJztjIduuoFP/g6hZQteHYs+g72dasYEiEMd5JnUU4fFZlhJ3Zdez4X3s8lmUM+iBSAAAAAElFTkSuQmCCAWBkAf//jQAAhACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAABLSURBVDgRY2AgA/zHpuf/MmyitBT7j9Ud2GwkWiE2zdQX+0+8y9Es/89ghSZCWy4tI5X8UKCtn4GmE+U0ohTR3KmDygLqBQkpORYAvLkYcOhBftcAAAAASUVORK5CYIICXVwC//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767940
+          },
+          {
+            "sceneId": 8934,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/36555a4609bb65065175d99f89daf4cb-new_light_btn_scenes_feiniao.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ba594b2259fb9d9d6cd4679212a0dfde-new_light_btn_scenes_feiniao_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/6661098bac3bc83c85ca1bc9e2322110-new_light_btn_scenes_feiniao_dark.png"
+            ],
+            "sceneName": "Birds Flying",
+            "analyticName": "Birds Flying",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13996,
+                "scenceName": "",
+                "scenceParam": "NAAA/xoABKgAAJ8AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAZklEQVQ4Ee2QMQ7AIAwDicTQt/H//wR3cYOJgLEDTIb4jJVS7rkb+O0GbN3M3aPBbPAPl+gTDCMh35cIUJ+QOXxIAq78DcKfFq/UjJPmSW1aCVPsYViFF+bLohIhPKZzRFKbKVu+A/bGHF75sFcIAAAAAElFTkSuQmCCA2FkAv//NwEALgGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAD1SURBVDgRjVLJDcMwDFODLNR18u8jHaif/rtOR2oZ0Tp8BLEQGDRFSpYdEY+XozlQ6avNlH+ZUvUi7XQrPDZfkbvIUwmegrh3GqOdKYUTfgS3GSgdiwmWkCL5VmduaLpwArGHSJoZHkjp1HXb1dL4HzpdKYZcTmcssv2OrwoK1LWWVlU+Nh+70KDszGDWYGcQGtKsc6WZL81wwoNHGYfP06TB454QFFg2dUYCR6LI0sUAftTQzF6SP5lvWWXkRMbMgKPy8U7+/l6XoDyms+ym62HueTD8oDlVpCoB/eb6oiE6Q+lG08xn6obH5V30TOUrr4+q7B9Y0DV1eG/xOAAAAABJRU5ErkJgggAAUwP//64AAKUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbElEQVQ4EWNgoAAw4tH7//9/uCwjIxaVTHBp/Axkg+AqsZgHl4MwkLWh2U+szZgGAUVY0OxB5iLbCRf/z+EFZDP+2AYi4aKYDKyakV2OTzPEOGQjkHWSZjOaTqBmYgMMUyemN0dFRkOAyiEAAKu6GwqMjgeRAAAAAElFTkSuQmCCBGBkAf//QgEAOQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEASURBVDgRlVJbDsIwDPMQF+J3R+GfDzjQkLgURxpu3KbpQ9OIpi0PO06bAW6be+ecDddzwAG1AwsuQ/pc4p1gS8Zy5i9wA16W0BHkZ0T4mCxjUxaUTPJpfnh3LF1fJmvhhjs7ESdoea87+NRGlQowLyMzkxkHKZEn/EdLjpzGRxJPraMp9EljqSM3JQVO7pqmaph8wmSVYxf7Z89kcnlcytwkO4q7YFsKyixwz2GqLMCzPYsgnWCFbC3XT/nJWoWKr79HzaWV5JWK5mTK8vGQFL9kJcVM5NFE7vKkeccsOyK6jEJdivhTwFEy3Gi5sCN4W+Oe4xW0RYtC+6bqR7XsD9x9S0HUg3AvAAAAAElFTkSuQmCCAABYA///",
+                "sceneCode": 8125,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAA/xoABKgAAJ8AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAZklEQVQ4Ee2QMQ7AIAwDicTQt/H//wR3cYOJgLEDTIb4jJVS7rkb+O0GbN3M3aPBbPAPl+gTDCMh35cIUJ+QOXxIAq78DcKfFq/UjJPmSW1aCVPsYViFF+bLohIhPKZzRFKbKVu+A/bGHF75sFcIAAAAAElFTkSuQmCCA2FkAv//NwEALgGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAD1SURBVDgRjVLJDcMwDFODLNR18u8jHaif/rtOR2oZ0Tp8BLEQGDRFSpYdEY+XozlQ6avNlH+ZUvUi7XQrPDZfkbvIUwmegrh3GqOdKYUTfgS3GSgdiwmWkCL5VmduaLpwArGHSJoZHkjp1HXb1dL4HzpdKYZcTmcssv2OrwoK1LWWVlU+Nh+70KDszGDWYGcQGtKsc6WZL81wwoNHGYfP06TB454QFFg2dUYCR6LI0sUAftTQzF6SP5lvWWXkRMbMgKPy8U7+/l6XoDyms+ym62HueTD8oDlVpCoB/eb6oiE6Q+lG08xn6obH5V30TOUrr4+q7B9Y0DV1eG/xOAAAAABJRU5ErkJgggAAUwP//64AAKUAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAbElEQVQ4EWNgoAAw4tH7//9/uCwjIxaVTHBp/Axkg+AqsZgHl4MwkLWh2U+szZgGAUVY0OxB5iLbCRf/z+EFZDP+2AYi4aKYDKyakV2OTzPEOGQjkHWSZjOaTqBmYgMMUyemN0dFRkOAyiEAAKu6GwqMjgeRAAAAAElFTkSuQmCCBGBkAf//QgEAOQGJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAEASURBVDgRlVJbDsIwDPMQF+J3R+GfDzjQkLgURxpu3KbpQ9OIpi0PO06bAW6be+ecDddzwAG1AwsuQ/pc4p1gS8Zy5i9wA16W0BHkZ0T4mCxjUxaUTPJpfnh3LF1fJmvhhjs7ESdoea87+NRGlQowLyMzkxkHKZEn/EdLjpzGRxJPraMp9EljqSM3JQVO7pqmaph8wmSVYxf7Z89kcnlcytwkO4q7YFsKyixwz2GqLMCzPYsgnWCFbC3XT/nJWoWKr79HzaWV5JWK5mTK8vGQFL9kJcVM5NFE7vKkeccsOyK6jEJdivhTwFEy3Gi5sCN4W+Oe4xW0RYtC+6bqR7XsD9x9S0HUg3AvAAAAAElFTkSuQmCCAABYA///",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283767967
+          },
+          {
+            "sceneId": 8935,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ad10ed808c4e20cb0d7ca9c6b0461f29-new_light_btn_scenes_boshiya.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/452962a1cb468cf8333bc49594be815f-new_light_btn_scenes_boshiya_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/facf53eda2828e5b338be06aa657c102-new_light_btn_scenes_boshiya_dark.png"
+            ],
+            "sceneName": "Dr. Duck",
+            "analyticName": "Dr. Duck",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13997,
+                "scenceName": "",
+                "scenceParam": "NAAA/xQAAToBADEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA+ElEQVQ4EeWSvQ0CMQyFHZSCNRjjGAEJOkqGQJTMwBR0lBS0dLAFFTvQIIXncxL7fLkJSEHsl/f55wTR/50wXjkNpYajGGYl0Nu6ESdXTI1knSqn61KSsHkgAB9axoZWSctrYRP5sdOe6MzdpKdxNkKFXxhvS/TOJte/gaKBVcHLWaDKrl87dqKE1QlBuh0kyKJc9jddjjS/swLy+8xPUgVp7Co/6AyfkhlqXYXXnbNLekpSZtYCpT/mhziC1Ug8s+UR1y16W7Rmjp3D8pUsY/udgfNI1edrc/XJDyZmWWkMQqlk81VF/reZ41K8TH6wz5q5CrhUav4Aw2hGVLZXpeUAAAAASUVORK5CYIIDWf8B//8=",
+                "sceneCode": 8126,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAA/xQAAToBADEBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA+ElEQVQ4EeWSvQ0CMQyFHZSCNRjjGAEJOkqGQJTMwBR0lBS0dLAFFTvQIIXncxL7fLkJSEHsl/f55wTR/50wXjkNpYajGGYl0Nu6ESdXTI1knSqn61KSsHkgAB9axoZWSctrYRP5sdOe6MzdpKdxNkKFXxhvS/TOJte/gaKBVcHLWaDKrl87dqKE1QlBuh0kyKJc9jddjjS/swLy+8xPUgVp7Co/6AyfkhlqXYXXnbNLekpSZtYCpT/mhziC1Ug8s+UR1y16W7Rmjp3D8pUsY/udgfNI1edrc/XJDyZmWWkMQqlk81VF/reZ41K8TH6wz5q5CrhUav4Aw2hGVLZXpeUAAAAASUVORK5CYIIDWf8B//8=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768000
+          },
+          {
+            "sceneId": 8936,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8790f4071be3d97350961ba2d013edc5-new_light_btn_scenes_baitiane.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/99e0aca5e495d78efb685ac38b08fe9e-new_light_btn_scenes_baitiane_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e9af06ab74b868ee22f93c1c237c9a33-new_light_btn_scenes_baitiane_dark.png"
+            ],
+            "sceneName": "White Swan",
+            "analyticName": "White Swan",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13998,
+                "scenceName": "",
+                "scenceParam": "NABe/xwAArgAAK8AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAdklEQVQ4Ee2QUQrAMAhDdez+V97SCWLTBvwbg/Wrap5Ja/afV3/gek4nwqFE2KBGsp9EBz5pjVNtVre4T/N9bAChI7KWcJk2hasiKRNkHDsV1WRNMWzpDWiFbYccfFoFWUt1T8v9hykM/STHnXQ1MI2IXKdf6dzG4TcEZm3q9wAAAABJRU5ErkJgggNcZAH//88AAMYAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAjUlEQVQ4Ee2QMQ6AIAxFP4mDZ+Eajp7X0WtwFjcslNaCibBqNA6f39fSD/B/n32BuL012vPmIe4jwVwX0kHeLV14FMhDmwD2SNoeb2PrtRl1a8JIs9AeO6gplWyWyG3ka+yyiDBTuQSo3kPKVL18Y8o2arHQo9TTbfyrQyJjkpl7NK1wATNLj6N4xDAMnCrrPs6nWqhtAAAAAElFTkSuQmCCBF1kA///",
+                "sceneCode": 8127,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NABe/xwAArgAAK8AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAdklEQVQ4Ee2QUQrAMAhDdez+V97SCWLTBvwbg/Wrap5Ja/afV3/gek4nwqFE2KBGsp9EBz5pjVNtVre4T/N9bAChI7KWcJk2hasiKRNkHDsV1WRNMWzpDWiFbYccfFoFWUt1T8v9hykM/STHnXQ1MI2IXKdf6dzG4TcEZm3q9wAAAABJRU5ErkJgggNcZAH//88AAMYAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAjUlEQVQ4Ee2QMQ6AIAxFP4mDZ+Eajp7X0WtwFjcslNaCibBqNA6f39fSD/B/n32BuL012vPmIe4jwVwX0kHeLV14FMhDmwD2SNoeb2PrtRl1a8JIs9AeO6gplWyWyG3ka+yyiDBTuQSo3kPKVL18Y8o2arHQo9TTbfyrQyJjkpl7NK1wATNLj6N4xDAMnCrrPs6nWqhtAAAAAElFTkSuQmCCBF1kA///",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768025
+          },
+          {
+            "sceneId": 8937,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3bf5738046459f1dd6e4cf72be36dc6d-new_light_btn_scenes_xiaochouyu.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/016d3019c2927be8ef2db893ce9d17d0-new_light_btn_scenes_xiaochouyu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/323ebc24393909e22da0d260db8e0e2d-new_light_btn_scenes_xiaochouyu_dark.png"
+            ],
+            "sceneName": "Clownfish",
+            "analyticName": "Clownfish",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 13999,
+                "scenceName": "",
+                "scenceParam": "NAAA/ygBAzQBACsBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA8klEQVQ4Ea1RSw6CMBClhgUkegCPwNIruOQemigcR2Kih3LJ0iUH0IQuTOrQR6YyVBADgcl03q8TgmCex5h5fOBSLyN6/3H8RbnoG0MWPTVB0zaB0tBDSlsHbt5J9vKiR835guDEAhDreNFWzFhsVxVKHO0SHcQlY8wunyz95Ye14oFAdlFKcY/GJQs90jhToFJMZy9Dr2KecwOxvAlNxdpCANlIJQvhMiIQ8AT9xpyEmI7eIWgNRF+6S9y5Z0AEWKB2mDRKDlmfgQl8qaemnxHqY1mei/SV3MMtwZW96npfUHNTuW58M0qrLk0Nrjk4MHoDX5B0glFtB4IAAAAASUVORK5CYIIDAP8BkAEpAQAgAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAOdJREFUOBGtUUsOgjAQpcRFSfQgLL2G93Dh5zh+Ft7Da7jkIJrQXX34yJROixIDKc3M+02bFsWcn/fzpLVLi/VP1hRnmQbTZl8OVHqH4Vm0mZx9tnByH6rVpMic1SFC5itBMCtCDcmyvVm46nNV5WTrk1cMk6mQlKHfjTxYb/4yUFKMMVKzCJOVn9NkpmK1GX1W4VaV4FLQrE8CVF1bGcAqhEHRDpFKieifzVT/2p+wsnFjeCRORfXuQIVQRKQtUW22NUQPc0QtBBB7qaUVCn4qIVjgv98a7IIyvrme3b7DYYMaBWuC3N81/W0sssvo/QAAAABJRU5ErkJgggMA/wEsAR0BABQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA20lEQVQ4EcWRTQ6CQAyFwdWQ6EFYeix/jqN4LJccRBNmNz58pB3bEWElIZNH3/vaOlbVv5+U/AbDNuD19d+VJeTGtyEWnhGW3yffxcL0wmMAyTNP5xqBD9h4XAotON+7CnuPMM+iO8HiNe+fmmMzWifPTIhf/rAJXjVQdtHJhuc0mWlc8grju5iIu4Z179aygwi5PFYMA9dUBFSBkOmi3hK1gt+ny0zHstseTsJIQgQsCeRFIuNtix2PPT4RomC9v11ZvNdnCp6IjbeNUOhaCDzEqHGC9AORQR69XtBNYesH85EfAAAAAElFTkSuQmCCAwD/AZAB",
+                "sceneCode": 8128,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAA/ygBAzQBACsBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA8klEQVQ4Ea1RSw6CMBClhgUkegCPwNIruOQemigcR2Kih3LJ0iUH0IQuTOrQR6YyVBADgcl03q8TgmCex5h5fOBSLyN6/3H8RbnoG0MWPTVB0zaB0tBDSlsHbt5J9vKiR835guDEAhDreNFWzFhsVxVKHO0SHcQlY8wunyz95Ye14oFAdlFKcY/GJQs90jhToFJMZy9Dr2KecwOxvAlNxdpCANlIJQvhMiIQ8AT9xpyEmI7eIWgNRF+6S9y5Z0AEWKB2mDRKDlmfgQl8qaemnxHqY1mei/SV3MMtwZW96npfUHNTuW58M0qrLk0Nrjk4MHoDX5B0glFtB4IAAAAASUVORK5CYIIDAP8BkAEpAQAgAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAOdJREFUOBGtUUsOgjAQpcRFSfQgLL2G93Dh5zh+Ft7Da7jkIJrQXX34yJROixIDKc3M+02bFsWcn/fzpLVLi/VP1hRnmQbTZl8OVHqH4Vm0mZx9tnByH6rVpMic1SFC5itBMCtCDcmyvVm46nNV5WTrk1cMk6mQlKHfjTxYb/4yUFKMMVKzCJOVn9NkpmK1GX1W4VaV4FLQrE8CVF1bGcAqhEHRDpFKieifzVT/2p+wsnFjeCRORfXuQIVQRKQtUW22NUQPc0QtBBB7qaUVCn4qIVjgv98a7IIyvrme3b7DYYMaBWuC3N81/W0sssvo/QAAAABJRU5ErkJgggMA/wEsAR0BABQBiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA20lEQVQ4EcWRTQ6CQAyFwdWQ6EFYeix/jqN4LJccRBNmNz58pB3bEWElIZNH3/vaOlbVv5+U/AbDNuD19d+VJeTGtyEWnhGW3yffxcL0wmMAyTNP5xqBD9h4XAotON+7CnuPMM+iO8HiNe+fmmMzWifPTIhf/rAJXjVQdtHJhuc0mWlc8grju5iIu4Z179aygwi5PFYMA9dUBFSBkOmi3hK1gt+ny0zHstseTsJIQgQsCeRFIuNtix2PPT4RomC9v11ZvNdnCp6IjbeNUOhaCDzEqHGC9AORQR69XtBNYesH85EfAAAAAElFTkSuQmCCAwD/AZAB",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768073
+          },
+          {
+            "sceneId": 8938,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/b4d3a3bfcc18df3e76a0a3765d9149df-new_light_btn_scenes_milu.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d9d70fa44b29c2df6b7eb6563660e8b6-new_light_btn_scenes_milu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/50fd6c9a5dff8f4ee996a6e7b323ad7a-new_light_btn_scenes_milu_dark.png"
+            ],
+            "sceneName": "Elk",
+            "analyticName": "Elk",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14000,
+                "scenceName": "",
+                "scenceParam": "NAAPrQ8ABWYAAF0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAJElEQVQ4EWNgGCxg72uauYSGRtPMzUPO4NFAxh1lwyZsBqVHAL9JCEkdzDm3AAAAAElFTkSuQmCCAAZJAv//ZwAAXgCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAAlSURBVDgRY2AYFuD/9WHhjQH2xJzrAgPsgqFk/Who4YgtemdGAI7YBrN9/06tAAAAAElFTkSuQmCCAU3/Av//XgAAVQCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAAcSURBVDgRY2AYBaMhMBoCNAyBva9paPio0QwMAEyfAaljSRJRAAAAAElFTkSuQmCCBVb/Av//zAAAwwCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACKSURBVDgR7ZFBDoAwCARb47v9esVixi2lB48melBYdtiqpfzXh75Aa+8Oi39TDlVF6nzqaj4D7UXiNCmQ2mptG2bzI2H1Ym5RbNHu56r1eurAdb3b1G2IHaIbebPqukAaFGH2gM0MnuFXoV7k0btjCMfgRZ5M7G3KXSVPDgmrdrFTvtzrd15FBf0EhXM+3bVEWvMAAAAASUVORK5CYIIAAGQE//+BAAB4AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAD9JREFUOBFjYBgFoyEwGgLDJQQYGSIVQX5Zfp80H4F1wTSj6YeYiCYINx4mi6QZrhQmB1eM4i4kWVTNCOVEsQDPsgvtDJ81owAAAABJRU5ErkJgggNaFQX//w==",
+                "sceneCode": 8129,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAPrQ8ABWYAAF0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAJElEQVQ4EWNgGCxg72uauYSGRtPMzUPO4NFAxh1lwyZsBqVHAL9JCEkdzDm3AAAAAElFTkSuQmCCAAZJAv//ZwAAXgCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAAlSURBVDgRY2AYFuD/9WHhjQH2xJzrAgPsgqFk/Who4YgtemdGAI7YBrN9/06tAAAAAElFTkSuQmCCAU3/Av//XgAAVQCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAAcSURBVDgRY2AYBaMhMBoCNAyBva9paPio0QwMAEyfAaljSRJRAAAAAElFTkSuQmCCBVb/Av//zAAAwwCJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAACKSURBVDgR7ZFBDoAwCARb47v9esVixi2lB48melBYdtiqpfzXh75Aa+8Oi39TDlVF6nzqaj4D7UXiNCmQ2mptG2bzI2H1Ym5RbNHu56r1eurAdb3b1G2IHaIbebPqukAaFGH2gM0MnuFXoV7k0btjCMfgRZ5M7G3KXSVPDgmrdrFTvtzrd15FBf0EhXM+3bVEWvMAAAAASUVORK5CYIIAAGQE//+BAAB4AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAD9JREFUOBFjYBgFoyEwGgLDJQQYGSIVQX5Zfp80H4F1wTSj6YeYiCYINx4mi6QZrhQmB1eM4i4kWVTNCOVEsQDPsgvtDJ81owAAAABJRU5ErkJgggNaFQX//w==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768103
+          },
+          {
+            "sceneId": 8939,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/448617b327b27a6130bc8ad9a1585cea-new_light_btn_scenes_tuzipao.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/03329052d1980a5d4913f48bedec6e74-new_light_btn_scenes_tuzipao_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/bb311ef13e69a7be1e816a9a1a1dcf18-new_light_btn_scenes_tuzipao_dark.png"
+            ],
+            "sceneName": "Rabbit Running",
+            "analyticName": "Rabbit Running",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14001,
+                "scenceName": "",
+                "scenceParam": "NAC7XRcBBPsAAPIAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAuUlEQVQ4EeWQwQ7DIAxDYeqB///ZVWolZpLUCV3GjjuMA0SOnwOU8n+rrp/ce1dDrYnzsYbZZQoVFPe8aOI0ilQ0YoLNdO7Sa2UbpwIpL33x9uMpJ7d9lxBg4LGGYWtso/DJzDYous6CW7TmJLLQtw8jGRGvlUIElmDqt8kTPN7sQ/TlHnRV4yVXPU6LkEtGPa3vsPOpXcQ4z3/7s986EVNpujb56QtEfSch57CmMCIlV/BXUgf8aH8BRpVC8NMvGc0AAAAASUVORK5CYIIAAGQBLAHwAADnAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAK5JREFUOBHNkMEOwyAMQ8O0//9dKnUStZrIISnQ7jBpnGLwixNE/vE0PXu1orU0ZUm6l2B6qXUpK+TqtxvNr3ul46bNMByw5md45mYaODnXAf/m7T2m1u4jXoS9+Hi5rgbwJtuCwbR64LGdw8xI9m1EogTJ1iOYj7HoMX2xse0hbqvjXRn29J2TiTJsRO4sfAFI+khGc1aeTDJb5jp/2MNMbejJ0F+R8Ad4PuAPXg5WzULaIbzJLQAAAABJRU5ErkJgggAAZAHIAMYAAL0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAhElEQVQ4Ee1Qyw7AIAiby/7/l10jhhYWnZ52mSegL+Q4vnplHlxrVUIpgR8a5VmdxDZ0ixdxsnMv0wexYykBLSFs3v4CPcWEU9yghfYcQEvja4klJF22J+/ubG7ba2vM7GC6IaKCrF26i5+AfJOl0+iLkT2yphXIxLeUlFkVnDL49/ECNxBWOvpf5lhdAAAAAElFTkSuQmCCAABkAcgA+QAA8ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC3SURBVDgR3ZC9DsMgDIRNxBDe/0EzdChDJHop5DgcpEaqutSKVHy+zz81+8co79gez+lxYapSBMt3CN485GoFU90qOr7DanLTtKT8Ql977Gb4zqiYAmfl+G2w9raoBlM+7xlpVWBqazOHBEel17gObbAR+uJvKyXnnFKa3Ey47R8NPdDP9cItE9hPYz6e02Gu/bGdGo7JU5LzWKVCvsOUaHIP7dLNqjrgmsJc41q6pXwF35rwW9MLRY1nrgRGkn0AAAAASUVORK5CYIIAAEcBLAE=",
+                "sceneCode": 8130,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAC7XRcBBPsAAPIAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAuUlEQVQ4EeWQwQ7DIAxDYeqB///ZVWolZpLUCV3GjjuMA0SOnwOU8n+rrp/ce1dDrYnzsYbZZQoVFPe8aOI0ilQ0YoLNdO7Sa2UbpwIpL33x9uMpJ7d9lxBg4LGGYWtso/DJzDYous6CW7TmJLLQtw8jGRGvlUIElmDqt8kTPN7sQ/TlHnRV4yVXPU6LkEtGPa3vsPOpXcQ4z3/7s986EVNpujb56QtEfSch57CmMCIlV/BXUgf8aH8BRpVC8NMvGc0AAAAASUVORK5CYIIAAGQBLAHwAADnAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAK5JREFUOBHNkMEOwyAMQ8O0//9dKnUStZrIISnQ7jBpnGLwixNE/vE0PXu1orU0ZUm6l2B6qXUpK+TqtxvNr3ul46bNMByw5md45mYaODnXAf/m7T2m1u4jXoS9+Hi5rgbwJtuCwbR64LGdw8xI9m1EogTJ1iOYj7HoMX2xse0hbqvjXRn29J2TiTJsRO4sfAFI+khGc1aeTDJb5jp/2MNMbejJ0F+R8Ad4PuAPXg5WzULaIbzJLQAAAABJRU5ErkJgggAAZAHIAMYAAL0AiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAhElEQVQ4Ee1Qyw7AIAiby/7/l10jhhYWnZ52mSegL+Q4vnplHlxrVUIpgR8a5VmdxDZ0ixdxsnMv0wexYykBLSFs3v4CPcWEU9yghfYcQEvja4klJF22J+/ubG7ba2vM7GC6IaKCrF26i5+AfJOl0+iLkT2yphXIxLeUlFkVnDL49/ECNxBWOvpf5lhdAAAAAElFTkSuQmCCAABkAcgA+QAA8ACJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIAgAAAALriloAAAC3SURBVDgR3ZC9DsMgDIRNxBDe/0EzdChDJHop5DgcpEaqutSKVHy+zz81+8co79gez+lxYapSBMt3CN485GoFU90qOr7DanLTtKT8Ql977Gb4zqiYAmfl+G2w9raoBlM+7xlpVWBqazOHBEel17gObbAR+uJvKyXnnFKa3Ey47R8NPdDP9cItE9hPYz6e02Gu/bGdGo7JU5LzWKVCvsOUaHIP7dLNqjrgmsJc41q6pXwF35rwW9MLRY1nrgRGkn0AAAAASUVORK5CYIIAAEcBLAE=",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768131
+          }
+        ]
+      },
+      {
+        "categoryId": 800,
+        "categoryName": "Night Scene",
+        "scenes": [
+          {
+            "sceneId": 8948,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/b1a88003faf28f9db42cfcee07226812-new_light_btn_scenes_yinghuozhisen.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/4c66031bc12468dc8912d17401df0030-new_light_btn_scenes_yinghuozhisen_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/2af27003bbf3523f20bee3aa15c86a1c-new_light_btn_scenes_yinghuozhisen_dark.png"
+            ],
+            "sceneName": "Forest Fireflies",
+            "analyticName": "Forest Fireflies",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14010,
+                "scenceName": "",
+                "scenceParam": "NAEA/zIAA3oCAHECiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAACOElEQVQ4Ee1Tv2sUQRR+ezd7vgl7MAMX2INDHNFC0OIKCwP5A4zYmDpY2NoJ1haWipV/gWBpaWnjj3S5LlsEPNFwu4TAbrGwQzLJ+c3u3iaKf4LD8PbNm+9733szs0Ri2U5a8o19nnwnWkWwBT+qeLRog1he2g08sxuu9kS7ZkEWkToI3w9haZTazDSIOrZCE5yG74iJ2JGGbYB1hFRKt3bp0Ng6WCt3ZITYkmUYcKTw/JpsaTJnyP4wXoBQkQ/3+fyFg1rDd2SePabFdXE8hmZ0ToIL3vwwzJTuOXniZA8ZLeawV4bCBYqWqMGXUfPVtZnMDJeKUYCwmnM0yYX0QqKCaYeTEA8MLXOV2NLYCCADUN2np4HMomBRwYHaiue/FZQc9+Xd0A32xMk63XzJi+1LzEJxGQ3y4drxUNioV/JazoOS4dBZqNPgShl0+XjT8MGrcfZIe7VcRQVzqiHuDzCXIU6uFfefU66g3JHdz4KNWD/aDq/uiTuf1VGkuUQWPSiHskAJke/CTziifxb2XXPKbQZ5aiRkhwXHc3lggIOykr5tH/dYm0xSc2iktRXpP8gU4jIr9Wus0y2OMshyzdS4MMoZNraqRIo8Y7kbJRc9N+obo6+xkzpKFRqWRYxz5lSJfHw7m+5MG8zHL7MHzz/B7zXrzuY7Tynyjwl3hlnEKd6cGl0wgWyY/yAnb2bzh2/bnwH7bNlVMu6SU7Dxulv8XXazsXX/yTS5Z81uOknev/vWof879Bvpt+NvzW1a9AAAAABJRU5ErkJgggAAZAP//6gBAJ8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABZklEQVQ4Ee2RsUoDQRCGf5MF5yDKrpyQgwg5UPAa8QiCCmnSmU5bCxErS0t7Kx9AH0GwsbO0sQkIphBci+CJBHJgYBcSuCm28DrFnOYFnGaG//9mBmaA//i/wJQLlIONMzG/xcP7KWCRXZ7bf3SjHoJQhJ57t0XMr1rZzZKDBfUh2L26X8Eio0RgJQhO5rkI+EsrbR8q1JkkBzL7C5zwjnbaIm5mtq+qSxmvAqKV3NxNYAVC+1Tq6La8dpCvFa4G4WOmYSsLK8NOWoB/k9rXoWxy3FAlBlLL2loIZMNM7abxcesb+bOMz0NbMV7eNYQwTCTAD6SWYSvMDHWocfnVs3cSWWXJr4a1KEnfBvK5Lpk80iOIQFH3DeaFdQfxJnQPsprFF6H3JM1GN1yWNh/oyFidWE0+KVKcJrwUYGSEJB50wZazAdhTzIbGKlo3enUQEYJFGJL2g2X+Tt+jxaq+StgPaMwh+BNNAIzw/mBMJQAAAABJRU5ErkJgggAAZAH//3IAAGkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAMElEQVQ4EWNgGErg3n9auJY2ptLCpUSZOQi9Q1cn0dUyomKEYTA5aTC5hbjQI6QKAC8ZDQxfa3TOAAAAAElFTkSuQmCCAVdkAv//",
+                "sceneCode": 8139,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAEA/zIAA3oCAHECiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAACOElEQVQ4Ee1Tv2sUQRR+ezd7vgl7MAMX2INDHNFC0OIKCwP5A4zYmDpY2NoJ1haWipV/gWBpaWnjj3S5LlsEPNFwu4TAbrGwQzLJ+c3u3iaKf4LD8PbNm+9733szs0Ri2U5a8o19nnwnWkWwBT+qeLRog1he2g08sxuu9kS7ZkEWkToI3w9haZTazDSIOrZCE5yG74iJ2JGGbYB1hFRKt3bp0Ng6WCt3ZITYkmUYcKTw/JpsaTJnyP4wXoBQkQ/3+fyFg1rDd2SePabFdXE8hmZ0ToIL3vwwzJTuOXniZA8ZLeawV4bCBYqWqMGXUfPVtZnMDJeKUYCwmnM0yYX0QqKCaYeTEA8MLXOV2NLYCCADUN2np4HMomBRwYHaiue/FZQc9+Xd0A32xMk63XzJi+1LzEJxGQ3y4drxUNioV/JazoOS4dBZqNPgShl0+XjT8MGrcfZIe7VcRQVzqiHuDzCXIU6uFfefU66g3JHdz4KNWD/aDq/uiTuf1VGkuUQWPSiHskAJke/CTziifxb2XXPKbQZ5aiRkhwXHc3lggIOykr5tH/dYm0xSc2iktRXpP8gU4jIr9Wus0y2OMshyzdS4MMoZNraqRIo8Y7kbJRc9N+obo6+xkzpKFRqWRYxz5lSJfHw7m+5MG8zHL7MHzz/B7zXrzuY7Tynyjwl3hlnEKd6cGl0wgWyY/yAnb2bzh2/bnwH7bNlVMu6SU7Dxulv8XXazsXX/yTS5Z81uOknev/vWof879Bvpt+NvzW1a9AAAAABJRU5ErkJgggAAZAP//6gBAJ8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABZklEQVQ4Ee2RsUoDQRCGf5MF5yDKrpyQgwg5UPAa8QiCCmnSmU5bCxErS0t7Kx9AH0GwsbO0sQkIphBci+CJBHJgYBcSuCm28DrFnOYFnGaG//9mBmaA//i/wJQLlIONMzG/xcP7KWCRXZ7bf3SjHoJQhJ57t0XMr1rZzZKDBfUh2L26X8Eio0RgJQhO5rkI+EsrbR8q1JkkBzL7C5zwjnbaIm5mtq+qSxmvAqKV3NxNYAVC+1Tq6La8dpCvFa4G4WOmYSsLK8NOWoB/k9rXoWxy3FAlBlLL2loIZMNM7abxcesb+bOMz0NbMV7eNYQwTCTAD6SWYSvMDHWocfnVs3cSWWXJr4a1KEnfBvK5Lpk80iOIQFH3DeaFdQfxJnQPsprFF6H3JM1GN1yWNh/oyFidWE0+KVKcJrwUYGSEJB50wZazAdhTzIbGKlo3enUQEYJFGJL2g2X+Tt+jxaq+StgPaMwh+BNNAIzw/mBMJQAAAABJRU5ErkJgggAAZAH//3IAAGkAiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAMElEQVQ4EWNgGErg3n9auJY2ptLCpUSZOQi9Q1cn0dUyomKEYTA5aTC5hbjQI6QKAC8ZDQxfa3TOAAAAAElFTkSuQmCCAVdkAv//",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768402
+          },
+          {
+            "sceneId": 8949,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/161a551d353e5a9fe70248db1c8d9d5d-new_light_btn_scenes_taikong.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d54ee6c5162e485bdb8101273a380ccb-new_light_btn_scenes_taikong_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d1b908127609923578c36524f847c167-new_light_btn_scenes_taikong_dark.png"
+            ],
+            "sceneName": "Space",
+            "analyticName": "Space",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14011,
+                "scenceName": "",
+                "scenceParam": "NAAN/w8AAn0DAHQDiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAADO0lEQVQ4EZVTUWgcZRCeu/yB2bjRf0OP3i8XzUYPetWIp7bQq0pz9mkRoSk+tHmQEkEkimD6UEhfhPjWPBQJPhZfIiptQPEe8pCAkRMa8cBArpDSPZrALuYgP9cfdjgXdTabJqmI0I9l/n/nn29m/pn5M7CLv29f5DVzcp5lGaeq8TjEQBABiwQIoH2sB9hs6Fu7mkRkSqfG1q/z2R5mFyq8o5YXfO1jwrFIBL5o1OjqQ5ODVUycqQLUDxQA/kIFt7QEpSFo2vNLZo6zOAzvwrSUzvyXl7OsTaPtb8gBRNkUtTl4K2E+CjzhqXLFGnHHPpzOuMc82S/HzybZMsjC+poC26/d+Mgbld5rjutKEBCEtNSgWuxZL3unTpQdQS6AoFZT0ZQ8Eyx950Kr1ILlOrzPXq59rLx3XZUDjHaSsgnpva2qd/y5LR1qwrwT2dDzjpx5pTu++DMpfVzjymJ8ZZfpjl0qDmY37d83xLoWd41ot/v7todHcnbHb3SK+KTKMfmTgR+FwcGsWs7OLXY/Y6Y36k5+oAZxk1sDvzhw34KQP4AHhH3b6gW1cZ9WuuWftkyW2sBVreFMPZ5lJqP6IigF2AqgiWB2VVxtY4HvwF1yYr86FErQutkQOvZv2pcPt56Dwp8RtJPqJdS0TyK5OASIOzrP5VuYgbVQXI2HOfQjYDsGc1IaS9bsSz4yQbBQ4zXp878Q+BSBBUcAjkQJLfXFRhjBIBFiGKYzC9lqXqkLU+rc5L6LpV9Jcy4FB1wC+ZDPk1oAGIIdoX5b3SP3TBdM+Mb53LUZ6b4U/vAtu9jYMuW8UK8W+6WBXsPTDTmCZwlGYv1cafW2uf5V3E7cQ897Jfk9FU0nbt/8xtxbS+NvtKxnnjD2sWJmyIZCrxjupefV9sAwM2e/0Kt3NlOzzBi6Ieys512LyNVBnQ6qN3lOVUdlvoB8bd2m+gp9fsNPaTJfVqVSJv15LCkLZedTb+L18/9R7SrKMqr/ccdvZeJsJcrVew4bTQgcH8i9+XSvKyK7C1rYObvkiuNhdy/b1Nh6SpmjztqyOSBfRDw54BSPIvwlKqct6sRO15F2abmdzMNhmD986NjUF/wD5+dIywf7dssAAAAASUVORK5CYIIAAGQB//+BAAB4AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAD9JREFUOBFjYKA6+M9QTKaZdNcJtJBMO+mq838qOEDJsBOqE6idJH8CtSF0khSZI0UnKEQhsUJS8IwqpkEIAABlxCNtiQJ3SgAAAABJRU5ErkJgggdhZAH//w==",
+                "sceneCode": 8140,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAAN/w8AAn0DAHQDiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAADO0lEQVQ4EZVTUWgcZRCeu/yB2bjRf0OP3i8XzUYPetWIp7bQq0pz9mkRoSk+tHmQEkEkimD6UEhfhPjWPBQJPhZfIiptQPEe8pCAkRMa8cBArpDSPZrALuYgP9cfdjgXdTabJqmI0I9l/n/nn29m/pn5M7CLv29f5DVzcp5lGaeq8TjEQBABiwQIoH2sB9hs6Fu7mkRkSqfG1q/z2R5mFyq8o5YXfO1jwrFIBL5o1OjqQ5ODVUycqQLUDxQA/kIFt7QEpSFo2vNLZo6zOAzvwrSUzvyXl7OsTaPtb8gBRNkUtTl4K2E+CjzhqXLFGnHHPpzOuMc82S/HzybZMsjC+poC26/d+Mgbld5rjutKEBCEtNSgWuxZL3unTpQdQS6AoFZT0ZQ8Eyx950Kr1ILlOrzPXq59rLx3XZUDjHaSsgnpva2qd/y5LR1qwrwT2dDzjpx5pTu++DMpfVzjymJ8ZZfpjl0qDmY37d83xLoWd41ot/v7todHcnbHb3SK+KTKMfmTgR+FwcGsWs7OLXY/Y6Y36k5+oAZxk1sDvzhw34KQP4AHhH3b6gW1cZ9WuuWftkyW2sBVreFMPZ5lJqP6IigF2AqgiWB2VVxtY4HvwF1yYr86FErQutkQOvZv2pcPt56Dwp8RtJPqJdS0TyK5OASIOzrP5VuYgbVQXI2HOfQjYDsGc1IaS9bsSz4yQbBQ4zXp878Q+BSBBUcAjkQJLfXFRhjBIBFiGKYzC9lqXqkLU+rc5L6LpV9Jcy4FB1wC+ZDPk1oAGIIdoX5b3SP3TBdM+Mb53LUZ6b4U/vAtu9jYMuW8UK8W+6WBXsPTDTmCZwlGYv1cafW2uf5V3E7cQ897Jfk9FU0nbt/8xtxbS+NvtKxnnjD2sWJmyIZCrxjupefV9sAwM2e/0Kt3NlOzzBi6Ieys512LyNVBnQ6qN3lOVUdlvoB8bd2m+gp9fsNPaTJfVqVSJv15LCkLZedTb+L18/9R7SrKMqr/ccdvZeJsJcrVew4bTQgcH8i9+XSvKyK7C1rYObvkiuNhdy/b1Nh6SpmjztqyOSBfRDw54BSPIvwlKqct6sRO15F2abmdzMNhmD986NjUF/wD5+dIywf7dssAAAAASUVORK5CYIIAAGQB//+BAAB4AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAD9JREFUOBFjYKA6+M9QTKaZdNcJtJBMO+mq838qOEDJsBOqE6idJH8CtSF0khSZI0UnKEQhsUJS8IwqpkEIAABlxCNtiQJ3SgAAAABJRU5ErkJgggdhZAH//w==",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768431
+          },
+          {
+            "sceneId": 8950,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/28efdc6728a7b217927a0190f34c7f34-new_light_btn_scenes_taikongmanbu%E5%A4%87%E4%BB%BD.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/045ab94484cd7aeabd189a49f6c65174-new_light_btn_scenes_taikongmanbu_press%E5%A4%87%E4%BB%BD.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/bbb2dc3166c8faa45e4d307ab9b6200d-new_light_btn_scenes_taikongmanbu_dark%E5%A4%87%E4%BB%BD.png"
+            ],
+            "sceneName": "Space Walk",
+            "analyticName": "Space Walk",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14012,
+                "scenceName": "",
+                "scenceParam": "NAIA/ysAA0sCAEICiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAACCUlEQVQ4EaWTMWgUURCG52SL9+CEXbDIioIrWlxpkSLthhQqNjkIWBgIwSJg0kTSGGw8UkjSJIiFopUWOe4EYc8iZC2CKTeFcFsEbgvlTjCwDwzsKxbOmXuut29vKx0eb97M/d/Mu91ZgP+wSimbJEkhzzkvZDC8MJnqBl2ZsjCMg68DtcBgrX1vUlnM9KJ+HCdep7u8+g7MbbW8dpD8SryPhwW11rn/M7anLOspQ9H83DUH/Bqj1Zn3/Q/hndvul+Mgz2sw/i2+wYKlgfgeba7tMGOs7Cz60QnwXAZ/06ORePvZG4SFkIxuAJCOdtwkgMpkiRL4/WeU1GrGgDAD3DM3Exe9du1YgncvhAfrqApTF5f7Y0za0xIFedM6X39uxlvMS8O7QDzZ3o7yT07X+QYsXzVVqPaSIenHiVVlkOa6GBROzkkJTFVXh/kOdN4rUWrXVlPJXuErq4iV4fg5G2DepAryYZLvr9VDWKZgVpl/FM02ndbcCREA9YNbh/cjd8bBszyX/OKfOdc6Y1XkhRAjBGamSU12QC9YnAlWZX9JTGswxoq3RsNweWv8bHkV/E9+fbFOtTLTrq2Sw13yYkn7Ks23vLKWQZkvdu6d9uCGA+cDVD8KGyZjDecxiVfi1lRQX5jNQPJFuN1s21dsTAffGi9ebqLC2n1tX7Kg2Tk+0j6pfJV/Of8Gp7e1fPEVbJ8AAAAASUVORK5CYIIGXWQB//+FAAB8AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAENJREFUOBFjYBgy4P85cp0K0UmpfnJtp74+Sn1CqX7q+wjTRPLdiGkWtUUIuo0Rl41wnYxGuJTgFYfrx6tqKEuS4UMAySYXnmfu34MAAAAASUVORK5CYIIAKGQC//90AABrAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAADJJREFUOBFjYCAL/D9HljagJohOSvWTazuyPvLdgGzKKBsapaMBMRoCRIYA+TkPa+kBADDXEDaEO9mEAAAAAElFTkSuQmCCAAtkAf//",
+                "sceneCode": 8141,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NAIA/ysAA0sCAEICiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAACCUlEQVQ4EaWTMWgUURCG52SL9+CEXbDIioIrWlxpkSLthhQqNjkIWBgIwSJg0kTSGGw8UkjSJIiFopUWOe4EYc8iZC2CKTeFcFsEbgvlTjCwDwzsKxbOmXuut29vKx0eb97M/d/Mu91ZgP+wSimbJEkhzzkvZDC8MJnqBl2ZsjCMg68DtcBgrX1vUlnM9KJ+HCdep7u8+g7MbbW8dpD8SryPhwW11rn/M7anLOspQ9H83DUH/Bqj1Zn3/Q/hndvul+Mgz2sw/i2+wYKlgfgeba7tMGOs7Cz60QnwXAZ/06ORePvZG4SFkIxuAJCOdtwkgMpkiRL4/WeU1GrGgDAD3DM3Exe9du1YgncvhAfrqApTF5f7Y0za0xIFedM6X39uxlvMS8O7QDzZ3o7yT07X+QYsXzVVqPaSIenHiVVlkOa6GBROzkkJTFVXh/kOdN4rUWrXVlPJXuErq4iV4fg5G2DepAryYZLvr9VDWKZgVpl/FM02ndbcCREA9YNbh/cjd8bBszyX/OKfOdc6Y1XkhRAjBGamSU12QC9YnAlWZX9JTGswxoq3RsNweWv8bHkV/E9+fbFOtTLTrq2Sw13yYkn7Ks23vLKWQZkvdu6d9uCGA+cDVD8KGyZjDecxiVfi1lRQX5jNQPJFuN1s21dsTAffGi9ebqLC2n1tX7Kg2Tk+0j6pfJV/Of8Gp7e1fPEVbJ8AAAAASUVORK5CYIIGXWQB//+FAAB8AIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAAENJREFUOBFjYBgy4P85cp0K0UmpfnJtp74+Sn1CqX7q+wjTRPLdiGkWtUUIuo0Rl41wnYxGuJTgFYfrx6tqKEuS4UMAySYXnmfu34MAAAAASUVORK5CYIIAKGQC//90AABrAIlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAADJJREFUOBFjYCAL/D9HljagJohOSvWTazuyPvLdgGzKKBsapaMBMRoCRIYA+TkPa+kBADDXEDaEO9mEAAAAAElFTkSuQmCCAAtkAf//",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768458
+          },
+          {
+            "sceneId": 8951,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f0b78b801f8372d9cf8532bce4bedc96-new_light_btn_scenes_dengta%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/091a2d3e7a5abf9861fe6c720c88c4b1-new_light_btn_scenes_dengta_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a3f7e5b9cb6f43d923700b06d6054058-new_light_btn_scenes_dengta_dark%403x.png"
+            ],
+            "sceneName": "Lighthouse",
+            "analyticName": "Lighthouse",
+            "sceneType": 5,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 14013,
+                "scenceName": "",
+                "scenceParam": "NABA/w8BBFgBAE8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABFklEQVQ4EY2UIRLCMBBFE4ZDFI/FIGsZDAwGNNygXIBbgMZwAAQCw1RSxYDoIbgCrmyySboJm5QOA7+bfbufbVIh/r/2TwEfckmik5Ji2zGmytlo+Qtd67MXpCQuaF42l9zL0zfzXUaDUKtp2oC0dnm4TXRqcRfCQA7uudWE0EZsO5LXJ5qR6F+PgPi2FlKdCcnUhVAU7iQBjtoOn5abEjERwv80dLgHp0juQbf/GchB9gndui6cMJ2BVFjNpcRjCka38Ry9wg3MHIxOt8wWcduVb3uy4Y1oyMCkdQE7FosGW9d0KterydQ/nrYg/Mq8UC+H6oDnWzF58cKE6vEGUQ6PeIvfUKu8qVcACDNtLCGEwWh2Qn8Bg31O/JNtsZ0AAAAASUVORK5CYIIAAGQB9AF7AQByAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAATlJREFUOBGNlDFuAjEQRceIQyR9LkCUBrcRLQX0OUHIFSKuEOo06dmCIg2i3K1Q9hjJLTbfa8/3sCwLI8v6a8+b+RpZK3J7fPwIlgln9KC02NtjTL0NtmTklB9s2F4uJoumEa7rADMCufMkIRgjql4Bcrv+673C4RBMcvl+J4KOXJeq6Xlyu/MQOGtMaIr0T5s9kefmVYQz4xI15hGFJVvD7Y0CTIPodrZkuG7bQpgZZ+akc4fMbQNtcHWRp31OFnUBaiCS7Q4JgIYjjGGzitPOwfY5eWI4QgqwBMSol7xqOBXEu7XFoLPhL715CY9EP4S2HWFYxTPGXtTbkDf9xnZ4+HyeXRwbBtb4VV3OXpHq5iU2vwq/i+r4ix0BPoq4o9ZhHx4sxBhktZm4TQmBJZJ+NP7pnryFrf4HPkePcLxvPewAAAAASUVORK5CYIIAAGQB9AFTAQBKAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAARFJREFUOBGllDEOgjAUhl8NR3F1wE1Ww+LAgLOeQL2DgxeQ2SPoYKKLYYTJ6DUcvQH+UFpeSikkNh1+Xvu99/e1gWj4OL4Ikw3BtFNybDeVW4fBnJRcxQ+DiYqi8SUUNGpi3WoxibsXnSsgi2uAynrq7Z5WXeJ2+FRLzDfVvntsx77LsAsGed7LsnZb/bZrTreY5VFdZyEp0Sd1WhJRbjkxkd02DGuyTqt7zW7cDrd82AMW2OgTPNtRor8aZlY2ynbVlHGz23iJGhBfZXiNt9n0W6hrA4yoaBcUUYYs6Wo5Dy86nSEkjGAtgu07CzflN+DZHSIdnziDXOmjfLMQHnZXa/i/lCJPfJFkCGLmT05Z9A/N21fTkELD0gAAAABJRU5ErkJgggAAZAH0ARcBAA4BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA1UlEQVQ4EWNgIB5MOscAREiAEYmNl4msLc8IopQ4zcg6IfrA+onTzMDw/z/CXYwwTUwIMdJZ5Gj+v8kKYhHxmoHuhiOoI4nXjMVX9NEMDGI4gjmCPjYDIxqOgEEHDnD62AzzJzJNtM3w0IInTgYGojUj2whjw9I4jI9CL4Lx4oCBhZQzNltDJICagaKYRoCVWm7bqzLX2XUdzAx0msUq9/yxySClQAaQPDYZmNFhlhz3cmZg2IuqBWjW3t1BQDEggwWuDaLGKhdY0IBMAYJjZ55DGLhIAMiKN5VlVXEZAAAAAElFTkSuQmCCAABkAfQB",
+                "sceneCode": 8142,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 5,
+                "diyEffectCode": [
+                  645
+                ],
+                "diyEffectStr": "NABA/w8BBFgBAE8BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAABFklEQVQ4EY2UIRLCMBBFE4ZDFI/FIGsZDAwGNNygXIBbgMZwAAQCw1RSxYDoIbgCrmyySboJm5QOA7+bfbufbVIh/r/2TwEfckmik5Ji2zGmytlo+Qtd67MXpCQuaF42l9zL0zfzXUaDUKtp2oC0dnm4TXRqcRfCQA7uudWE0EZsO5LXJ5qR6F+PgPi2FlKdCcnUhVAU7iQBjtoOn5abEjERwv80dLgHp0juQbf/GchB9gndui6cMJ2BVFjNpcRjCka38Ry9wg3MHIxOt8wWcduVb3uy4Y1oyMCkdQE7FosGW9d0KterydQ/nrYg/Mq8UC+H6oDnWzF58cKE6vEGUQ6PeIvfUKu8qVcACDNtLCGEwWh2Qn8Bg31O/JNtsZ0AAAAASUVORK5CYIIAAGQB9AF7AQByAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAATlJREFUOBGNlDFuAjEQRceIQyR9LkCUBrcRLQX0OUHIFSKuEOo06dmCIg2i3K1Q9hjJLTbfa8/3sCwLI8v6a8+b+RpZK3J7fPwIlgln9KC02NtjTL0NtmTklB9s2F4uJoumEa7rADMCufMkIRgjql4Bcrv+673C4RBMcvl+J4KOXJeq6Xlyu/MQOGtMaIr0T5s9kefmVYQz4xI15hGFJVvD7Y0CTIPodrZkuG7bQpgZZ+akc4fMbQNtcHWRp31OFnUBaiCS7Q4JgIYjjGGzitPOwfY5eWI4QgqwBMSol7xqOBXEu7XFoLPhL715CY9EP4S2HWFYxTPGXtTbkDf9xnZ4+HyeXRwbBtb4VV3OXpHq5iU2vwq/i+r4ix0BPoq4o9ZhHx4sxBhktZm4TQmBJZJ+NP7pnryFrf4HPkePcLxvPewAAAAASUVORK5CYIIAAGQB9AFTAQBKAYlQTkcNChoKAAAADUlIRFIAAAAUAAAAFAgCAAAAAuuKWgAAARFJREFUOBGllDEOgjAUhl8NR3F1wE1Ww+LAgLOeQL2DgxeQ2SPoYKKLYYTJ6DUcvQH+UFpeSikkNh1+Xvu99/e1gWj4OL4Ikw3BtFNybDeVW4fBnJRcxQ+DiYqi8SUUNGpi3WoxibsXnSsgi2uAynrq7Z5WXeJ2+FRLzDfVvntsx77LsAsGed7LsnZb/bZrTreY5VFdZyEp0Sd1WhJRbjkxkd02DGuyTqt7zW7cDrd82AMW2OgTPNtRor8aZlY2ynbVlHGz23iJGhBfZXiNt9n0W6hrA4yoaBcUUYYs6Wo5Dy86nSEkjGAtgu07CzflN+DZHSIdnziDXOmjfLMQHnZXa/i/lCJPfJFkCGLmT05Z9A/N21fTkELD0gAAAABJRU5ErkJgggAAZAH0ARcBAA4BiVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAA1UlEQVQ4EWNgIB5MOscAREiAEYmNl4msLc8IopQ4zcg6IfrA+onTzMDw/z/CXYwwTUwIMdJZ5Gj+v8kKYhHxmoHuhiOoI4nXjMVX9NEMDGI4gjmCPjYDIxqOgEEHDnD62AzzJzJNtM3w0IInTgYGojUj2whjw9I4jI9CL4Lx4oCBhZQzNltDJICagaKYRoCVWm7bqzLX2XUdzAx0msUq9/yxySClQAaQPDYZmNFhlhz3cmZg2IuqBWjW3t1BQDEggwWuDaLGKhdY0IBMAYJjZ55DGLhIAMiKN5VlVXEZAAAAAElFTkSuQmCCAABkAfQB",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704283768488
+          }
+        ]
+      }
+    ],
+    "supportSpeed": 0
+  }
+}
