@@ -1,0 +1,56 @@
+{
+	"1":	{
+		"models": [
+			"H6079"
+		],
+		"scenceParam_prefix": "",
+		"MultiLine_prefix": "",
+		"MultiLine_suffix": "02"
+	},
+	"2":	{
+		"models": [
+			"H61A8",
+			"H7039",
+			"H805A",
+			"H6172",
+			"H619C",
+			"H61A8",
+			"H7039",
+			"H805A",
+			"H6172",
+			"H619C",
+			"H70C2",
+			"H6072",
+			"H61A2",
+			"H7075",
+			"H6039"
+			],
+		"scenceParam_prefix": "",
+		"MultiLine_prefix": "02",
+		"MultiLine_suffix": ""
+	},
+	"3":	{
+		"models": [
+			"H6066"
+			],
+		"scenceParam_prefix": "1200000000",
+		"MultiLine_prefix": "04",
+		"MultiLine_suffix": "1d"
+	},
+	"4":	{
+		"models": [
+			"H6022"
+			],
+		"scenceParam_prefix": "41",
+		"MultiLine_prefix": "585a",
+		"MultiLine_suffix": "!!!!! check this one !!!!!"
+	},
+	"5":	{
+		"models": [
+			"H6092"
+			],
+		"scenceParam_prefix": "21",
+		"MultiLine_prefix": "02560b",
+		"MultiLine_suffix": ""
+	}
+}
