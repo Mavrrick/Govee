@@ -1,5 +1,5 @@
-{
-	"1":	{
+[
+	{
 		"models": [
 			"H6079"
 		],
@@ -7,7 +7,7 @@
 		"MultiLine_prefix": "",
 		"MultiLine_suffix": "02"
 	},
-	"2":	{
+	{
 		"models": [
 			"H61A8",
 			"H7039",
@@ -29,7 +29,7 @@
 		"MultiLine_prefix": "02",
 		"MultiLine_suffix": ""
 	},
-	"3":	{
+	{
 		"models": [
 			"H6066"
 			],
@@ -37,7 +37,7 @@
 		"MultiLine_prefix": "04",
 		"MultiLine_suffix": "1d"
 	},
-	"4":	{
+	{
 		"models": [
 			"H6022"
 			],
@@ -45,7 +45,7 @@
 		"MultiLine_prefix": "585a",
 		"MultiLine_suffix": "!!!!! check this one !!!!!"
 	},
-	"5":	{
+	{
 		"models": [
 			"H6092"
 			],
@@ -53,4 +53,4 @@
 		"MultiLine_prefix": "02560b",
 		"MultiLine_suffix": ""
 	}
-}
+]
