@@ -6,7 +6,7 @@
 		"scenceParam_prefix": "",
 		"MultiLine_prefix": "",
 		"MultiLine_suffix": "02",
-		"on_command": false
+		"on_command": "false"
 	},
 	{
 		"models": [
@@ -24,7 +24,7 @@
 		"scenceParam_prefix": "",
 		"MultiLine_prefix": "02",
 		"MultiLine_suffix": "",
-		"on_command": false
+		"on_command": "false"
 	},
 	{
 		"models": [
@@ -33,7 +33,7 @@
 		"scenceParam_prefix": "1200000000",
 		"MultiLine_prefix": "04",
 		"MultiLine_suffix": "1d",
-		"on_command": false
+		"on_command": "false"
 	},
 	{
 		"models": [
@@ -42,7 +42,7 @@
 		"scenceParam_prefix": "41",
 		"MultiLine_prefix": "585a",
 		"MultiLine_suffix": "TBD",
-		"on_command": false
+		"on_command": "false"
 	},
 	{
 		"models": [
@@ -51,7 +51,7 @@
 		"scenceParam_prefix": "21",
 		"MultiLine_prefix": "02560b",
 		"MultiLine_suffix": "",
-		"on_command": false
+		"on_command": "false"
 	},
 	{
 		"models": [
@@ -60,6 +60,6 @@
 		"scenceParam_prefix": "TBD",
 		"MultiLine_prefix": "TBD",
 		"MultiLine_suffix": "TBD",
-		"on_command": true
+		"on_command": "true"
 	}
 ]
