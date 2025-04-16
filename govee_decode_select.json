@@ -3,9 +3,9 @@
 		"models": [
 			"H6079"
 		],
-		"scenceParam_prefix": "",
-		"MultiLine_prefix": "",
-		"MultiLine_suffix": "02",
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "",
+		"hex_suffix_add": "02",
 		"on_command": false
 	},
 	{
@@ -21,45 +21,45 @@
 			"H70C2",
 			"H805A"
 			],
-		"scenceParam_prefix": "",
-		"MultiLine_prefix": "02",
-		"MultiLine_suffix": "",
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "02",
+		"hex_suffix_add": "",
 		"on_command": false
 	},
 	{
 		"models": [
 			"H6066"
 			],
-		"scenceParam_prefix": "1200000000",
-		"MultiLine_prefix": "04",
-		"MultiLine_suffix": "1d",
+		"hex_prefix_remove": "1200000000",
+		"hex_prefix_add": "04",
+		"hex_suffix_add": "1d",
 		"on_command": false
 	},
 	{
 		"models": [
 			"H6022"
 			],
-		"scenceParam_prefix": "41",
-		"MultiLine_prefix": "58 5A",
-		"MultiLine_suffix": "TBD",
+		"hex_prefix_remove": "41",
+		"hex_prefix_add": "585a",
+		"hex_suffix_add": "TBD",
 		"on_command": false
 	},
 	{
 		"models": [
 			"H6092"
 			],
-		"scenceParam_prefix": "21",
-		"MultiLine_prefix": "02 56 0B",
-		"MultiLine_suffix": "",
+		"hex_prefix_remove": "21",
+		"hex_prefix_add": "02560b",
+		"hex_suffix_add": "",
 		"on_command": false
 	},
 	{
 		"models": [
 			"H6127"
 			],
-		"scenceParam_prefix": "TBD",
-		"MultiLine_prefix": "TBD",
-		"MultiLine_suffix": "TBD",
+		"hex_prefix_remove": "TBD",
+		"hex_prefix_add": "TBD",
+		"hex_suffix_add": "TBD",
 		"on_command": true
 	}
 ]
