@@ -41,7 +41,7 @@
 			],
 		"hex_prefix_remove": "41",
 		"hex_prefix_add": "585a",
-		"hex_suffix_add": "TBD",
+		"hex_suffix_add": "",
 		"on_command": false
 	},
 	{
