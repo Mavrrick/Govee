@@ -1,6 +1,15 @@
 [
 	{
 		"models": [
+			"null"
+		],
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "",
+		"hex_suffix_add": "",
+		"on_command": false
+	},
+	{
+		"models": [
 			"H6079"
 		],
 		"hex_prefix_remove": "",
