@@ -1,0 +1,74 @@
+[
+	{
+		"models": [
+			"null"
+		],
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "",
+		"hex_suffix_add": "",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6079"
+		],
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "",
+		"hex_suffix_add": "02",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6039",
+			"H6072",
+			"H6172",
+			"H619C",
+			"H61A2",
+			"H61A8",
+			"H7039",
+			"H7075",
+			"H70C2",
+			"H805A"
+			],
+		"hex_prefix_remove": "",
+		"hex_prefix_add": "02",
+		"hex_suffix_add": "",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6066"
+			],
+		"hex_prefix_remove": "1200000000",
+		"hex_prefix_add": "04",
+		"hex_suffix_add": "1d",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6022"
+			],
+		"hex_prefix_remove": "41",
+		"hex_prefix_add": "585a",
+		"hex_suffix_add": "",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6092"
+			],
+		"hex_prefix_remove": "21",
+		"hex_prefix_add": "02560b",
+		"hex_suffix_add": "",
+		"on_command": false
+	},
+	{
+		"models": [
+			"H6127"
+			],
+		"hex_prefix_remove": "TBD",
+		"hex_prefix_add": "TBD",
+		"hex_suffix_add": "TBD",
+		"on_command": true
+	}
+]

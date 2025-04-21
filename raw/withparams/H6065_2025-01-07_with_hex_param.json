@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Flow",
+    "subname": "",
+    "code": 7381,
+    "params_b64": "EgAMAA8mGjIDFAwDAP8BBQAEMf+TAA+t//8A/wBu",
+    "params_hex": "12000c000f261a3203140c0300ff0105000431ff93000fadffff00ff006e"
+  },
+  {
+    "name": "Crossing",
+    "subname": "",
+    "code": 7382,
+    "params_b64": "EgAAAABYADIBZAMIAgAgAAQBBAAACgEDExQCAP///wBu",
+    "params_hex": "1200000000580032016403080200200004010400000a010313140200ffffff006e"
+  },
+  {
+    "name": "Split",
+    "subname": "",
+    "code": 7383,
+    "params_b64": "EgAAAABYAE0BZAMKAQAMAAoBABIACgEAAwAEIS2+/+YA/wBuMf+T",
+    "params_hex": "120000000058004d0164030a01000c000a010012000a0100030004212dbeffe600ff006e31ff93"
+  },
+  {
+    "name": "Spin",
+    "subname": "",
+    "code": 7384,
+    "params_b64": "EgAAAABYAFEAZAMMAQQQAAwBBCAADAIEAgAFgzjsby29pmPMspjcuNDr",
+    "params_hex": "12000000005800510064030c010410000c010420000c02040200058338ec6f2dbda663ccb298dcb8d0eb"
+  },
+  {
+    "name": "Thunderclap",
+    "subname": "",
+    "code": 7385,
+    "params_b64": "EgAAAAAnPFMAAoM47Nvk7g==",
+    "params_hex": "1200000000273c5300028338ecdbe4ee"
+  },
+  {
+    "name": "Crawl",
+    "subname": "",
+    "code": 7386,
+    "params_b64": "EgAAAABYADcBZAMKAQELAAoBABUACgEBAAAD/0ACMf+TSxm3",
+    "params_hex": "12000000005800370164030a01010b000a010015000a0101000003ff400231ff934b19b7"
+  },
+  {
+    "name": "Ocean",
+    "subname": "",
+    "code": 2893,
+    "params_b64": "EgAMAA8mFU8DBAEgBQAEABKJAAD/F7T/AP//",
+    "params_hex": "12000c000f26154f030401200500040012890000ff17b4ff00ffff"
+  },
+  {
+    "name": "Forest",
+    "subname": "",
+    "code": 2894,
+    "params_b64": "EgAMAA8mFS0DAgEiBQAG/545AP8AB8oAmdUTyuwB/+sk",
+    "params_hex": "12000c000f26152d03020122050006ff9e3900ff0007ca0099d513caec01ffeb24"
+  },
+  {
+    "name": "Sunset Glow",
+    "subname": "",
+    "code": 2895,
+    "params_b64": "EgAMAA8mFSQDAgEeBQAFZACX3wA//1MA/5wA+UwA",
+    "params_hex": "12000c000f2615240302011e050005640097df003fff5300ff9c00f94c00"
+  },
+  {
+    "name": "Rainbow",
+    "subname": "",
+    "code": 2896,
+    "params_b64": "EgAMAA8mFVADBAEmBQAH/wAA/38A//8AAP8AAAD/AP//iwD/",
+    "params_hex": "12000c000f26155003040126050007ff0000ff7f00ffff0000ff000000ff00ffff8b00ff"
+  },
+  {
+    "name": "Aurora",
+    "subname": "",
+    "code": 2897,
+    "params_b64": "EgAMAA8mFTMDAQEeBQAGGf+ZXNAfA6s2AItFAGQAKQAp",
+    "params_hex": "12000c000f2615330301011e05000619ff995cd01f03ab36008b45006400290029"
+  },
+  {
+    "name": "Ripple",
+    "subname": "",
+    "code": 2898,
+    "params_b64": "EgAMAA8mFUUDAQEmBQAHALDRYM3rALDRAQEBALDRALDRAQEB",
+    "params_hex": "12000c000f2615450301012605000700b0d160cdeb00b0d101010100b0d100b0d1010101"
+  },
+  {
+    "name": "Star",
+    "subname": "",
+    "code": 2899,
+    "params_b64": "EgAAAAAnFQ8DAAEFAAgAEokAEokAEon/2DH/2DEAEokAEokAEok=",
+    "params_hex": "120000000027150f030001050008001289001289001289ffd831ffd831001289001289001289"
+  },
+  {
+    "name": "Fire",
+    "subname": "",
+    "code": 2900,
+    "params_b64": "EgAMAA8mFVUDFAwCAv8BJQUABdgBAftWB/9xAP+rBQEBAQ==",
+    "params_hex": "12000c000f26155503140c0202ff0125050005d80101fb5607ff7100ffab05010101"
+  },
+  {
+    "name": "Meteor",
+    "subname": "",
+    "code": 2901,
+    "params_b64": "EgAMAA8mFUsDBAEmBQAGAQEBAQEBAQEBiwD/AQEBAQEB",
+    "params_hex": "12000c000f26154b030401260500060101010101010101018b00ff010101010101"
+  },
+  {
+    "name": "Firefly",
+    "subname": "",
+    "code": 7367,
+    "params_b64": "EgAAAAAnPSUBAAoeARQyFAW/0gDd3wDj5Rb/4m//028=",
+    "params_hex": "1200000000273d2501000a1e0114321405bfd200dddf00e3e516ffe26fffd36f"
+  },
+  {
+    "name": "Stream",
+    "subname": "",
+    "code": 7368,
+    "params_b64": "EgAAAABYADIBZAMGAQENAAYBAAAABgEBBwADTs3EAQEBPs/k",
+    "params_hex": "12000000005800320164030601010d0006010000000601010700034ecdc40101013ecfe4"
+  },
+  {
+    "name": "Starry Sky",
+    "subname": "",
+    "code": 7366,
+    "params_b64": "EgAAAAAnFR0BAAEFAAgAD54ZC4wtAIswAJotAIv3ZboBAQEA//8=",
+    "params_hex": "120000000027151d010001050008000f9e190b8c2d008b30009a2d008bf765ba01010100ffff"
+  },
+  {
+    "name": "Christmas",
+    "subname": "",
+    "code": 7377,
+    "params_b64": "EgAAAABYAEMBZAMMAgQIAAwCAQAQDAEDAAAD/wAA/38AAP8A",
+    "params_hex": "12000000005800430164030c020408000c020100100c0103000003ff0000ff7f0000ff00"
+  },
+  {
+    "name": "Easter",
+    "subname": "",
+    "code": 7378,
+    "params_b64": "EgAAAAAmGTwBBwEFAAf/AAD/fwD//wAA/wAAAP8A//+LAP8=",
+    "params_hex": "120000000026193c010701050007ff0000ff7f00ffff0000ff000000ff00ffff8b00ff"
+  },
+  {
+    "name": "Valentine's Day",
+    "subname": "",
+    "code": 7379,
+    "params_b64": "EgAAAABYADIBZAMKAgQAAAoBAQAACgEBAAAG/5F2/wBu4wCT3jTS/wBh/3V+",
+    "params_hex": "12000000005800320164030a020400000a010100000a0101000006ff9176ff006ee30093de34d2ff0061ff757e"
+  },
+  {
+    "name": "Halloween",
+    "subname": "",
+    "code": 2909,
+    "params_b64": "EgAMAA8mGUMDAgEFAAj/hgD/fwDFAD/FAD8AD54AEokBAQEBAQE=",
+    "params_hex": "12000c000f261943030201050008ff8600ff7f00c5003fc5003f000f9e001289010101010101"
+  },
+  {
+    "name": "Mother's Day",
+    "subname": "",
+    "code": 2907,
+    "params_b64": "EgAAAAAnFRoBAAEFAAb/QlH/AGHZAQH/AADRAMT///8=",
+    "params_hex": "120000000027151a010001050006ff4251ff0061d90101ff0000d100c4ffffff"
+  },
+  {
+    "name": "Father's Day",
+    "subname": "",
+    "code": 2908,
+    "params_b64": "EgAAAAAnFTwBAAEFAAUAD604bcwAsNEGUcH///8=",
+    "params_hex": "120000000027153c010001050005000fad386dcc00b0d10651c1ffffff"
+  },
+  {
+    "name": "Fireworks",
+    "subname": "",
+    "code": 7380,
+    "params_b64": "EgAAAAAnOzIAAQAF+cgOMf+TBnL//yPJs0Dz",
+    "params_hex": "1200000000273b3200010005f9c80e31ff930672ffff23c9b340f3"
+  },
+  {
+    "name": "Birthday",
+    "subname": "",
+    "code": 2910,
+    "params_b64": "EgAAAAAnFU0BAAEFAAf/028N36b/a2v/cKb/l3DE/wAJ1v8=",
+    "params_hex": "120000000027154d010001050007ffd36f0ddfa6ff6b6bff70a6ff9770c4ff0009d6ff"
+  },
+  {
+    "name": "White Light",
+    "subname": "",
+    "code": 8264,
+    "params_b64": "EgAAAAAmFTIDAgFkBQAB////",
+    "params_hex": "120000000026153203020164050001ffffff"
+  },
+  {
+    "name": "Night Light",
+    "subname": "",
+    "code": 2,
+    "params_b64": "",
+    "params_hex": ""
+  },
+  {
+    "name": "Leisure",
+    "subname": "",
+    "code": 34,
+    "params_b64": "",
+    "params_hex": ""
+  },
+  {
+    "name": "Colorful",
+    "subname": "",
+    "code": 2905,
+    "params_b64": "EgAMAA8mFWEDBwFkBQAIAAD/AAD/AP//AP////8A//8A/wBu/wBu",
+    "params_hex": "12000c000f261561030701640500080000ff0000ff00ffff00ffffffff00ffff00ff006eff006e"
+  },
+  {
+    "name": "Romantic",
+    "subname": "",
+    "code": 2906,
+    "params_b64": "EgAAAAAnFUIBAAEFAAWLAP/kAOf/O4P/aUr/kXY=",
+    "params_hex": "12000000002715420100010500058b00ffe400e7ff3b83ff694aff9176"
+  },
+  {
+    "name": "Movie",
+    "subname": "",
+    "code": 7369,
+    "params_b64": "AAAADwkAeLQAX7gAX7g=",
+    "params_hex": "0000000f090078b4005fb8005fb8"
+  },
+  {
+    "name": "Technology",
+    "subname": "",
+    "code": 7370,
+    "params_b64": "EgAAAABYADkBZAMMAQIAAAwBAgAADAECEgAD/wBuAA+tAP//",
+    "params_hex": "12000000005800390164030c010200000c010200000c0102120003ff006e000fad00ffff"
+  },
+  {
+    "name": "Sports",
+    "subname": "",
+    "code": 7371,
+    "params_b64": "EgAAAABYAE0BZAMKAgQTAAoBAhMACgECBhEE//8Apgf/AP///xhR",
+    "params_hex": "120000000058004d0164030a020413000a010213000a0102061104ffff00a607ff00ffffff1851"
+  },
+  {
+    "name": "Breathe",
+    "subname": "",
+    "code": 10,
+    "params_b64": "",
+    "params_hex": ""
+  },
+  {
+    "name": "Soothing",
+    "subname": "",
+    "code": 7373,
+    "params_b64": "EgAMAA8mFTIDAgEnBQAH/74L/8Vz/+Jv/7h1/8Vz/5F2////",
+    "params_hex": "12000c000f26153203020127050007ffbe0bffc573ffe26fffb875ffc573ff9176ffffff"
+  },
+  {
+    "name": "Refreshing",
+    "subname": "",
+    "code": 2903,
+    "params_b64": "EgAMAA8mFT0DAgEgBQADEZNSjMkZwODm",
+    "params_hex": "12000c000f26153d030201200500031193528cc919c0e0e6"
+  },
+  {
+    "name": "Dreamlike",
+    "subname": "",
+    "code": 2904,
+    "params_b64": "EgAMAA8mFVQDAgEjBQAFugH/3gD/ABj/AP//AP//",
+    "params_hex": "12000c000f26155403020123050005ba01ffde00ff0018ff00ffff00ffff"
+  },
+  {
+    "name": "Energetic",
+    "subname": "",
+    "code": 7372,
+    "params_b64": "EgAMAA8mGWQBFAwDAP8BBQAG7JgA/98Ad7YKAIlVAP//xQA/",
+    "params_hex": "12000c000f26196401140c0300ff01050006ec9800ffdf0077b60a00895500ffffc5003f"
+  },
+  {
+    "name": "Stacking",
+    "subname": "",
+    "code": 2902,
+    "params_b64": "EgAMAA8YFR8BAQEFAAf/AAD//wAA/wAA//8AAP//fwCLAP8=",
+    "params_hex": "12000c000f18151f010101050007ff0000ffff0000ff0000ffff0000ffff7f008b00ff"
+  },
+  {
+    "name": "Poker",
+    "subname": "",
+    "code": 7374,
+    "params_b64": "EgAAAAAnFzgBAAEF////AAf/AAD/fwD//wAA/wAAAP8A//+LAP8=",
+    "params_hex": "120000000027173801000105ffffff0007ff0000ff7f00ffff0000ff000000ff00ffff8b00ff"
+  },
+  {
+    "name": "Glitter",
+    "subname": "",
+    "code": 7375,
+    "params_b64": "EgAAAABYACkBZAADAQQAAAX/QlHrYdwN36ag3B0BAQE=",
+    "params_hex": "1200000000580029016400030104000005ff4251eb61dc0ddfa6a0dc1d010101"
+  },
+  {
+    "name": "Swing",
+    "subname": "",
+    "code": 7376,
+    "params_b64": "EgAAAABYAFEBZAMMAgQLAAYAARUABgEEIAAE/+Jv/+Jv/8Vz/8Vz",
+    "params_hex": "12000000005800510164030c02040b000600011500060104200004ffe26fffe26fffc573ffc573"
+  }
+]

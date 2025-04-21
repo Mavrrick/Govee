@@ -1,0 +1,2155 @@
+{
+  "message": "success",
+  "status": 200,
+  "data": {
+    "categories": [
+      {
+        "categoryId": 814,
+        "categoryName": "Natural",
+        "scenes": [
+          {
+            "sceneId": 9052,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/89660c742b8fe41f19df9c0d703e4d8b-new_light_btn_scenes_green_forest%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/942511433fb7ed20cde18ee557d1eb2a-new_light_btn_scenes_green_forest_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/9a2b148cc02374c1feeede17c0662901-new_light_btn_scenes_green_forest_dark%403x.png"
+            ],
+            "sceneName": "Forest",
+            "analyticName": "Forest",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15139,
+                "scenceName": "",
+                "scenceParam": "AyYAAQAKAgH/GQG0CgoCyBQF//8AAP//////AP//lP8AFAGWAAAAACMAAgMCAgH/FAPJAQEB9woEBP8AtP8AR///4/8AAAAAAAAAACMAAAAEAgGFFAPMAQEC6hQEBP8AtP8AR///4/8AAAAAAAAAAA==",
+                "sceneCode": 10573,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361252897
+          },
+          {
+            "sceneId": 9053,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/57547e4df41a0435e0564d4688a4a6fd-new_light_btn_scenes_northern_light%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/fb10d7e26a71b57f1e03736e123c2494-new_light_btn_scenes_northern_light_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/612b6d13221d3814f225b7a8435dc1b2-new_light_btn_scenes_northern_light_dark%403x.png"
+            ],
+            "sceneName": "Aurora",
+            "analyticName": "Aurora",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15140,
+                "scenceName": "",
+                "scenceParam": "AiMAAAADAgGcOwEAAAAD8jIECP+qCP8VAAD/2y/+AwCAAAAAACYAAAADAgGuGQH6AAAC7RQFZP4IAAAAiwD/AAAACP8VAADMAAD/AA==",
+                "sceneCode": 10574,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361252926
+          },
+          {
+            "sceneId": 9054,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6a4f1c125721c2b07e10a551223e603d-new_light_btn_scenes_fire%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/a2ea743032f0947a6ec982d95910b76f-new_light_btn_scenes_fire_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/5b5cd217379f7f729a5cc49c9d215d84-new_light_btn_scenes_fire_dark%403x.png"
+            ],
+            "sceneName": "Fire",
+            "analyticName": "Fire",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15141,
+                "scenceName": "",
+                "scenceParam": "BBogAAABAgFBJQOAFBQC4woB/zkHBwDtAwD5ABogAAABAgEyGgEAFBQCgBQB/0cHFQDiAACAAB0wAAABAgFEAADaCgoCABQC/0AH/2oHAACAAACAABojAAABAgFNGwPJFBQCgBQB/xcHFQDyAACAAA==",
+                "sceneCode": 10575,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361252960
+          },
+          {
+            "sceneId": 9055,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/7bb33cd2ab914e917a947d9e7dddccc5-new_light_btn_scenes_ripple%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/cf9dbe182c95c67228dc7feb9fdffde0-new_light_btn_scenes_ripple_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/60b75e596a5a1866ea8bdad73dbc9043-new_light_btn_scenes_ripple_dark%403x.png"
+            ],
+            "sceneName": "Ripple",
+            "analyticName": "Ripple",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15142,
+                "scenceName": "",
+                "scenceParam": "AiNQAAAEAgH/AAIAFBQDfwoE////Qv//AKD/ALX/EgDOAAAAACNVAAAEAgH/AAIAFBQDfwoE////Qv//AKD/ALX/EADOAAAAAA==",
+                "sceneCode": 10576,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361252991
+          },
+          {
+            "sceneId": 9056,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/c1068ace12a82ee32333f5c35bbc154e-new_light_btn_scenes_four_color%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/9215bf8e3df86bd03eb32b93fd3f5b3b-new_light_btn_scenes_four_color_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6b7e891d014ba5742fbbc02368e077e9-new_light_btn_scenes_four_color_dark%403x.png"
+            ],
+            "sceneName": "Rainbow",
+            "analyticName": "Rainbow",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15143,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 22,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253019
+          },
+          {
+            "sceneId": 9057,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/fa5fa28bf6ef99e9081ef07fb1cc777b-new_light_btn_scenes_yinghuo.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f1d79404c17ef9d61e2f79e365609e52-new_light_btn_scenes_yinghuo_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/68065858cc85b6237c0ee78f3a93f0ea-new_light_btn_scenes_yinghuo_dark.png"
+            ],
+            "sceneName": "Firefly",
+            "analyticName": "Firefly",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15144,
+                "scenceName": "",
+                "scenceParam": "Ax0AAAABAAEdHQCAFBQAgBQCC/9Odf9NAACAAACAABoAAgEBAAFhAAPJFDIAgBQB0/8IAACAAACAABoAAgEBAAFhAAPJHkwAgBQB//hsAACAAACAAA==",
+                "sceneCode": 10578,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253045
+          },
+          {
+            "sceneId": 9058,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/99eb7a7615e2219d361d2482ec07cb2d-new_light_btn_scenes_huahai%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/b180d6641badbe961bdbdcdb90cd374b-new_light_btn_scenes_huahai_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/58793e611dc304a9d81b752a4d6f6684-new_light_btn_scenes_huahai_dark%403x.png"
+            ],
+            "sceneName": "Flower Field",
+            "analyticName": "Flower Field",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15145,
+                "scenceName": "",
+                "scenceParam": "AiwAAAAEAgH/kgPJAAAD9xQHAAAA/yB1AAAA//8AAAAA/4MJ9QD/AAAAAADtACCgAAABAAEyGgAAAAAAshQDzwBi4v4iS/6DAAAAAAAAAA==",
+                "sceneCode": 10579,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253076
+          },
+          {
+            "sceneId": 9059,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/c507de92fe5391a3d157439c3c0d8893-new_light_btn_scenes_shengyue%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/716d984b85708c12c0b180ef0a17bfe5-new_light_btn_scenes_shengyue_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a7c831d102e3c3dc0a401031457c10f5-new_light_btn_scenes_shengyue_dark%403x.png"
+            ],
+            "sceneName": "Rising Moon",
+            "analyticName": "Rising Moon",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15146,
+                "scenceName": "",
+                "scenceParam": "AhqQAAABAgHNOgAAFBQAgBQBHgDcAACAAACAABoAAQADAgH/AACAFBQAgBQB/+gKFAC6AAC6AA==",
+                "sceneCode": 10580,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253105
+          },
+          {
+            "sceneId": 9060,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/94ef14bb09f14a916e8648d5b023b16c-new_light_btn_scenes_ghost%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/aabfc8891708af6c1e858480724f3a31-new_light_btn_scenes_ghost_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/5dffd87048df3bd6758b0a1bdf471100-new_light_btn_scenes_ghost_dark%403x.png"
+            ],
+            "sceneName": "Ghost",
+            "analyticName": "Ghost",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 1,
+            "scenesHint": "Siren:Those with epilepsy may experience discomfort when using this Scene mode. Exercise caution during use.",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15147,
+                "scenceName": "",
+                "scenceParam": "BSYAAAAFAAH/AAB/FBQAthQFAAAAAAAA//n3aZH/AAAAFAD3AAB/ASlQAgIBAAH/AAB/FBQA/xQG+//7AAAA////AAAAg5j/AAAAFAD8AAB/BSZSAgIBAAH/AAF/FBQA/xQF+//7AAAA////AAAA/4D9FQP8EQbZASZVAgEBAAH/AAB/FBQA/xQF+//7AAAA////AAAAorH/FQP8AAB/ASkAAgIBAAH/AAB/FBQA/xQG+//7AAAA////AAAAvX//f4T/FQD8AAB/AQ==",
+                "sceneCode": 10581,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253127
+          },
+          {
+            "sceneId": 9061,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/0a3600c4331a941785e8e4b9c7f28981-new_light_btn_scenes_deep_ocean%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/dd91a7b3fa574ef8e81ef524664e58c9-new_light_btn_scenes_deep_ocean_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/77ec9fdce5498d175c8c06b88fe18dae-new_light_btn_scenes_deep_ocean_dark%403x.png"
+            ],
+            "sceneName": "Deep sea",
+            "analyticName": "Deep sea",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15148,
+                "scenceName": "",
+                "scenceParam": "Ax0AAAACAgH/WwGAFBQDgBQCDRRKEjmWEADRAACAACAAAgUBAgH/AAHBFBQDgBQDJnzl9qB//+uqAACAAACAAB0AAAACAAFWCwHJI1ADgBQCDRRKEjmWAADJAACAAA==",
+                "sceneCode": 10582,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253157
+          },
+          {
+            "sceneId": 9062,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/9cbd413425012292ca106750180c7e04-new_light_btn_scenes_hetang.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/0dac118f5cabbffaddbd3bda7c7c44d8-new_light_btn_scenes_hetang_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/7e3b82193f0c76f0dc70924ecf773657-new_light_btn_scenes_hetang_dark.png"
+            ],
+            "sceneName": "Lotus Pond",
+            "analyticName": "Lotus Pond",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15149,
+                "scenceName": "",
+                "scenceParam": "BB0wAAABAAH/AAPJFBQAgBQCnt5MNHRjAACAAACAAB1DAAABAAH/AAHJFBQAgBQCVIg1MmErAACAAACAAB03AAABAAH/AAPJFDsDgBQCDCceH3ZBAACAAACAAB0AAgEBAAFlAAPMFBQAgBQC9aNX/GctEQC6AACAAQ==",
+                "sceneCode": 10583,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253186
+          },
+          {
+            "sceneId": 9063,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/04ed6ad22a80ba6251cd5c9e17a51442-new_light_btn_scenes_fengyelin%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a9eef4c3e9b00f6114099c0403bf30d4-new_light_btn_scenes_fengyelin_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/02963c1cb6834358ef0b9f1f44e1b32e-new_light_btn_scenes_fengyelin_dark%403x.png"
+            ],
+            "sceneName": "Maple Tree Forest",
+            "analyticName": "Maple Tree Forest",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15150,
+                "scenceName": "",
+                "scenceParam": "Ax1zAAACAgHHgQB/FBQCABQC6JNQw200AACAAACAABowAAADAgG7nAB/FBQCABQBAKp8AAC6AACAABooAAACAgEuAAB/FBQCABQBw200AAC6AACAAA==",
+                "sceneCode": 10584,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253214
+          },
+          {
+            "sceneId": 9064,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/93b9c22fc9e92c42a8a4ed8ade976dbe-new_light_btn_scenes_xinghuahu%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/55ecc0c529011b878c1989e8bab7b431-new_light_btn_scenes_xinghuahu_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1da8c6b7434b4f76470ca177584648e7-new_light_btn_scenes_xinghuahu_dark%403x.png"
+            ],
+            "sceneName": "Almond Lake",
+            "analyticName": "Almond Lake",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15151,
+                "scenceName": "",
+                "scenceParam": "AiMAAAAEAAGymgKAFBQCABQEUtzc6805v5s698giAACAAACAABooAAABAgHivwAAFBQAgBQB98giEACAAACAAQ==",
+                "sceneCode": 10585,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253246
+          },
+          {
+            "sceneId": 9065,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/6ab281a642276c0d0f4f30ff1c26114d-new_light_btn_scenes_shulin%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f53b954135dd0b2106bf03d86fdd2046-new_light_btn_scenes_shulin_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/801d04b2f9d30428e39b2da1b8bcd470-new_light_btn_scenes_shulin_dark%403x.png"
+            ],
+            "sceneName": "Grove",
+            "analyticName": "Grove",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15152,
+                "scenceName": "",
+                "scenceParam": "ASYAAAAFAgH/qgCAFBQCgBQFBSgUElUsUq1QlsFYq850AACAAACAAA==",
+                "sceneCode": 10586,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253267
+          },
+          {
+            "sceneId": 9066,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3f0cdc93504443fc2470adb56c062280-new_light_btn_scenes_mailang%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/67057d88a37d94de471830b5dc061983-new_light_btn_scenes_mailang_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a7154d66ca365a39c8e560fbf5de4295-new_light_btn_scenes_mailang_dark%403x.png"
+            ],
+            "sceneName": "Wheat Wave",
+            "analyticName": "Wheat Wave",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15153,
+                "scenceName": "",
+                "scenceParam": "AyBQAAACAgH/RgKAFBQDzhQDZE0g8Lte/8MdEACEAACAACBGAQADAgH/AAKAFBQBABQDjqmZB6b/O5O/AACAAACAASBQAAACAgH/RgKAFBQDzhQDZE0g8Lte/8MdAACEEAC6AA==",
+                "sceneCode": 10587,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253300
+          },
+          {
+            "sceneId": 9067,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/408ab6a892d9a87149986dacf5d0d747-new_light_btn_scenes_sea_wave%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6046fe2de59ff1d382aaa25f3b7ae5b6-new_light_btn_scenes_sea_wave_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/8384b497c969ed95108c127c29354fab-new_light_btn_scenes_sea_wave_dark%403x.png"
+            ],
+            "sceneName": "Wave",
+            "analyticName": "Wave",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15154,
+                "scenceName": "",
+                "scenceParam": "AiNQAAAEAgH/AAKAFBQDABQEx8v/bm//EVT+////EQDMAACAAB0oAAABAAEYGACAFBQDgBQC/4kH/4UqAACAAACAAA==",
+                "sceneCode": 10588,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253343
+          },
+          {
+            "sceneId": 9068,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/9c898b444c0c637041e62f78cda77453-new_light_btn_scenes_caoyuan7075%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f2c0126c86d013cff11157799e051473-new_light_btn_scenes_caoyuan7075_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a5848f2f870f1d300820c290b80b20de-new_light_btn_scenes_caoyuan7075_dark%403x.png"
+            ],
+            "sceneName": "Grassland",
+            "analyticName": "Grassland",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15155,
+                "scenceName": "",
+                "scenceParam": "AyZzAAAFAAHMAACAFBQCABQFBxz/3+j+CSn/ByP/Bh/+AACAAACAAB0gAAACAAH/AACAFBQCABQCCf8I//MQEAAAAACAAB0WAAABAAH/AAPJFBQCLRQC////iaj/AAAAAACAAQ==",
+                "sceneCode": 10589,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253369
+          },
+          {
+            "sceneId": 9069,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e98a9f73b073ae79c3cdea4e16022f49-new_light_btn_scenes_tianye.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/9d392814537048fa3cee106b1b31e5fa-new_light_btn_scenes_tianye_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3537a3da540d4d806083213866050e35-new_light_btn_scenes_tianye_dark.png"
+            ],
+            "sceneName": "Field",
+            "analyticName": "Field",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15156,
+                "scenceName": "",
+                "scenceParam": "AyAoAAACAgGcAAAAFBQCABQDGgb+EDX+////AACAAACAACBAAAADAAGcZQCAFBQCgBQDV/6qUf9x/7wKAACAAACAACA3AAADAAGqMwO3FBQCgBQDV/6qUf9x/7wKAACAAACAAA==",
+                "sceneCode": 10590,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253397
+          },
+          {
+            "sceneId": 9094,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/27c2c670d6be2dbf6ed5db9876378d5f-new_light_btn_scenes_color_wall%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/2db750c02f23217c59652fb772332cc2-new_light_btn_scenes_color_wall_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/ace2bc44eae8c0e65468027a418ad7a1-new_light_btn_scenes_color_wall_dark%403x.png"
+            ],
+            "sceneName": "Graffiti",
+            "analyticName": "Graffiti",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15181,
+                "scenceName": "",
+                "scenceParam": "ASkAAAADAAH//wCAFBQCABQG/wAAAP8AAAD/iwD///8AAP//EADgAACAAA==",
+                "sceneCode": 10613,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704366124576
+          },
+          {
+            "sceneId": 12560,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/b2436666e39e49d75608997e1f5ace65-new_light_btn_scenes_sunset%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/fc453d944fd5e97edfaa6a426f35438a-new_light_btn_scenes_sunset_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/73337f4bea682300e3d46243ae3d3316-new_light_btn_scenes_sunset_dark%403x.png"
+            ],
+            "sceneName": "Sunset",
+            "analyticName": "Sunset",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 20400,
+                "scenceName": "",
+                "scenceParam": "ASYAAAAFAAH/AAAAFBQDABQF/xhf/8IJ/wAA/wAA/8wQAACAAACAAA==",
+                "sceneCode": 12025,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1718349495262
+          }
+        ]
+      },
+      {
+        "categoryId": 816,
+        "categoryName": "Festival",
+        "scenes": [
+          {
+            "sceneId": 9070,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/4b638c2c79413589e4d24e167bd4d698-new_light_btn_scenes_christmas%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/1b39f49fcf816d4fedd5009ddb223960-new_light_btn_scenes_christmas_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/1e782af903c0f18d6cec9208cdaea638-new_light_btn_scenes_christmas_dark%403x.png"
+            ],
+            "sceneName": "Christmas",
+            "analyticName": "Christmas",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15157,
+                "scenceName": "",
+                "scenceParam": "AiAAAAADAAH//wGAFBQDAAED/wAAAAAAAAAAFADiAAC6ASAAAAADAAH//wGAFBQDAAEDAP8AAAAAAAAAFgDiAgCAAQ==",
+                "sceneCode": 10591,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253430
+          },
+          {
+            "sceneId": 9071,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/e57e46e0c2ac5c2945f6ff054e8f9ee1-new_light_btn_scenes_halloween%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/76b6f8b7bb34cea5f9497620dd0da49f-new_light_btn_scenes_halloween_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/b3a3807ff048ce1c3b159a20ab90d5ce-new_light_btn_scenes_halloween_dark%403x.png"
+            ],
+            "sceneName": "Halloween",
+            "analyticName": "Halloween",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15158,
+                "scenceName": "",
+                "scenceParam": "AiAAAgIBAAFxIwD/FBQD9xQD/38Aggj//z4HBQD8AACAASYAAAABAgKoDgPtFBSpDgHtFBQDGRQD/1IH/zcHVQb+AACAAACAAQ==",
+                "sceneCode": 10592,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253458
+          },
+          {
+            "sceneId": 9072,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/1dfad4c0d6dce89445fda0a7ec0aa911-new_light_btn_scenes_fathers%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/24111abfe34bd6f6c8488390ea64e42f-new_light_btn_scenes_fathers_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/af511cacbfb63386c565cc773d376f12-new_light_btn_scenes_fathers_dark%403x.png"
+            ],
+            "sceneName": "Father's Day",
+            "analyticName": "Father's Day",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15159,
+                "scenceName": "",
+                "scenceParam": "Ax0AAAABAAEzMwEAFBQA3DICAAD/AP//AAAAAAAAABoAAgIBAgFLGQHJIBQAADIB////AAAAAAAAAB0AAAACAgElAAHJFBQD3DICAAD/AP//EADdAAAAAA==",
+                "sceneCode": 10593,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253493
+          },
+          {
+            "sceneId": 9073,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/0557d3fd1d500b1551a2c94ed8d33eae-new_light_btn_scenes_mothers%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/fffa33f839df5234ed8145bc6fe616ef-new_light_btn_scenes_mothers_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/568cdd1499627d0249ffda418a1cbc23-new_light_btn_scenes_mothers_dark%403x.png"
+            ],
+            "sceneName": "Mother's Day",
+            "analyticName": "Mother's Day",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15160,
+                "scenceName": "",
+                "scenceParam": "AykAAAAEAAH/AAHTFBQDgBQGRzFvAAAAhWejuyYOAAAA/5dBFwDYAACAACkAAAAEAAH/EAHTFBQDgBQGRzFvAAAAhWejAAAAuyYO/5dBFQDYAACAACMAAAAEAgFADQLdFBQCmxQE/5dBhWejuyYORzFvBwD/AACAAA==",
+                "sceneCode": 10594,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253528
+          },
+          {
+            "sceneId": 9074,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/6c781bec421989413e07f5ff6fcf002b-new_light_btn_scenes_easter.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/cc3208fd22a812e02895b7c5292af70b-new_light_btn_scenes_easter_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3f21e3f189f10de99d09f590147e7913-new_light_btn_scenes_easter_dark.png"
+            ],
+            "sceneName": "Easter",
+            "analyticName": "Easter",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15161,
+                "scenceName": "",
+                "scenceParam": "BSAyAAADAgFnCwPMFBQD/BQD/wAAAP8A////BAD8AACABSA1AAADAgFvDAPMFBQD/BQD////AP8A/08PBgD8AACABSNQAAABAgH/DAP3FBQD8hQE/wAA//////8A/w4HEgDdAAD8BR0AAAABAgH/MwH3FBQD/xQC////uv4VAACAAACAASBVAAABAgH/CwP3FBQD8hQD/wAA//8A////EADdAAD8BQ==",
+                "sceneCode": 10595,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253556
+          },
+          {
+            "sceneId": 9075,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/dec00f4c75f2ced0420e2ddcef9f853e-new_light_btn_scenes_valentines%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/1f2315b496393e7b9158e336eb44f20e-new_light_btn_scenes_valentines_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/6cfdcddb4d3a75310cdbfb231fe55478-new_light_btn_scenes_valentines_dark%403x.png"
+            ],
+            "sceneName": "Valentine's Day",
+            "analyticName": "Valentine's Day",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15162,
+                "scenceName": "",
+                "scenceParam": "AiMAAAABAgH/GQHIMhQC+jIE/yz/2AD/9QD//yAAEADcAAAAACMAAgICAAH/GQD6MhQC+hQE8QAdowD//07//6X/AAAAAAD/AA==",
+                "sceneCode": 10596,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253582
+          },
+          {
+            "sceneId": 9076,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/8ba854821352e6b1a260c132d923bda5-new_light_btn_scenes_carnival%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/cffe683801570c4fd98fc325b7d21add-new_light_btn_scenes_carnival_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/scence-img/74d4abaac9644e41416bc331847293c8-new_light_btn_scenes_carnival_dark%403x.png"
+            ],
+            "sceneName": "Carnival",
+            "analyticName": "Carnival",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15163,
+                "scenceName": "",
+                "scenceParam": "BRogAAABAgH/KALwFBQCADIB/wAAAQD8EQDTABoiAAABAgH/KALwFBQCADIB/38AAQD8EQDgABokAAABAgH/KALwFBQCADIB//8AAQD8EQDTABomAAABAgH/KALwFBQCADIB+xz/AAD8EQDgABooAAABAgH/KALwFBQCADIBAP8AAQD8EQDTAA==",
+                "sceneCode": 10597,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253613
+          }
+        ]
+      },
+      {
+        "categoryId": 818,
+        "categoryName": "Soothing",
+        "scenes": [
+          {
+            "sceneId": 9077,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/bf1af806a2919fdd7d78a44b12941f7d-new_light_btn_scenes_guorou%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/6fd6466daefd0835fd32120f4c325a45-new_light_btn_scenes_guorou_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/0afdb0469258a3cd2275891d738f6433-new_light_btn_scenes_guorou_dark%403x.png"
+            ],
+            "sceneName": "Mesocarp",
+            "analyticName": "Mesocarp",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15164,
+                "scenceName": "",
+                "scenceParam": "AiMAAgYBAAH/AAHJFBQBgBQEttg53lsJ56mC8YcNAACAAACAAB0AAAABAgExGwP/FBQAgBQC/+cZu07BEgDYAACAAA==",
+                "sceneCode": 10598,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253645
+          },
+          {
+            "sceneId": 9078,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/027e45e33056cf9d3651ca0c055fbecf-new_light_btn_scenes_caiyun%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/068357c110166cfbbdaae9e978d612f1-new_light_btn_scenes_caiyun_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e1d338963e2ad7834901be358692e4d3-new_light_btn_scenes_caiyun_dark%403x.png"
+            ],
+            "sceneName": "Colorful Clouds",
+            "analyticName": "Colorful Clouds",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15165,
+                "scenceName": "",
+                "scenceParam": "AiYAAAAEAAH//wCAFBQCABQF/Wse9sYo79mEK8XRGpDaAACAAACAACAAAgEBAgH/AAHJFBQBfxQD/Wse9sYo79mEAACAAACAAA==",
+                "sceneCode": 10599,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253671
+          },
+          {
+            "sceneId": 9079,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/2f4b31b5167f9af8d632c1c98f6fb6da-new_light_btn_scenes_bingyin%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/261839b08c0fa877f63fc3086dfc5ea2-new_light_btn_scenes_bingyin_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a2c5efc1333a26b8b857e6c463a5bb08-new_light_btn_scenes_bingyin_dark%403x.png"
+            ],
+            "sceneName": "Ice Drinks",
+            "analyticName": "Ice Drinks",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15166,
+                "scenceName": "",
+                "scenceParam": "Ah1VAAABAgH/AACAFBQAgBQCI9jpC5vYEgDRAACAAB1QAAABAAH/AACAFBQAgBQC5c9F8s8zAACAAACAAQ==",
+                "sceneCode": 10600,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253693
+          },
+          {
+            "sceneId": 9080,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ae09f56a71ba5e20a9d09d915155bea4-new_light_btn_scenes_%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5e7d3406e0cd2911cc078114d4a72b97-new_light_btn_scenes__press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a764330cf8a82e02e9798194ec91da12-new_light_btn_scenes__dark%403x.png"
+            ],
+            "sceneName": "Sky",
+            "analyticName": "Sky",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15167,
+                "scenceName": "",
+                "scenceParam": "AiBQAAABAgH/AACAFBQAgBQD3NMS5t4P/3YHEgDWAACAAB1VAAABAAH/AACAFBQAgBQC5QQU3CMrAADTAACAAA==",
+                "sceneCode": 10601,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253721
+          },
+          {
+            "sceneId": 9081,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/223172675926bc96935a19e027310fc1-new_light_btn_scenes_hongwu%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/c5eba081765bbbac4320008810eb0caa-new_light_btn_scenes_hongwu_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/2d93ef7c3b33de36754c1545cf64f461-new_light_btn_scenes_hongwu_dark%403x.png"
+            ],
+            "sceneName": "Red Mist",
+            "analyticName": "Red Mist",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15168,
+                "scenceName": "",
+                "scenceParam": "Ah1VAAABAgH/AACAFBQAgBQCK2vMMGS4EADWAACAAB1QAAABAgH/AACAFBQAgBQCsSxLySVKEADWAACAAA==",
+                "sceneCode": 10602,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253750
+          },
+          {
+            "sceneId": 9082,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/50c3cbf08eed231d69fc0fbf30575308-new_light_btn_scenes_yangguang.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ceb8db30933436b294b586a70133793f-new_light_btn_scenes_yangguang_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/175c0fa39d325b84873d9012a2f0b2d1-new_light_btn_scenes_yangguang_dark.png"
+            ],
+            "sceneName": "Sunshine",
+            "analyticName": "Sunshine",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15169,
+                "scenceName": "",
+                "scenceParam": "AiAAAAADAAH/KAOyFBQCABQDpqhm9dBM8bcVAACAAACAAB0wAAABAgG6gwHJFBQDgBQCR295OVM4EADRAACAAQ==",
+                "sceneCode": 10603,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253780
+          },
+          {
+            "sceneId": 9083,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/995578ad0006df091f2cd7090c34b053-new_light_btn_scenes_huayuan.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/deecbee8e139cf1f1a413a9763173637-new_light_btn_scenes_huayuan_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/31a07f579a2322da306a52f3ea13cf94-new_light_btn_scenes_huayuan_dark.png"
+            ],
+            "sceneName": "Garden",
+            "analyticName": "Garden",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15170,
+                "scenceName": "",
+                "scenceParam": "AyY3AAADAAH/AACAFBQCgBQFqrzq3szyLnz6df76TP+qAACAAACAAB1EAQADAAH/AACAFBQCgBQCO2NLLU4vEADTAADTBSZAAAACAAH/owHGFBQDgBQF+1xu2h1H/24H/6MH/8sHAACAAACAAQ==",
+                "sceneCode": 10604,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253808
+          },
+          {
+            "sceneId": 9084,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/img/623fa3b2349dab34f8e37e927b85b91b-new_light_btn_scenes_night%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/2a726c7cdae955a874906c3dd3f41a39-new_light_btn_scenes_night_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/img/63747196e529ec08581a68088fb375be-new_light_btn_scenes_night_dark%403x.png"
+            ],
+            "sceneName": "Night",
+            "analyticName": "Night",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15171,
+                "scenceName": "",
+                "scenceParam": "BB0AAAAFAAFfXwAAFBQDyBQCJU/+/wb9AACAAACAABoAAgIBAAEREQAvFBQAERQB////AACAAACAARoAAQABAAEREQAAFBQAgBQB////EADMAACAARoAAQABAAEREQAAFBQAgBQB////EgDOAACAAQ==",
+                "sceneCode": 10605,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253833
+          },
+          {
+            "sceneId": 9085,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f9362b574e10a8d557469f680771d597-new_light_btn_scenes_fantasy.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/948aca8c0ac48e5267d14e7e825d5dfd-new_light_btn_scenes_fantasy_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/71dc811a5b255b1ca1b79e672f2cf06e-new_light_btn_scenes_fantasy_dark.png"
+            ],
+            "sceneName": "Dreamlike",
+            "analyticName": "Dreamlike",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15172,
+                "scenceName": "",
+                "scenceParam": "AiBiAAACAAFaGAGWMjIC3DID/2oHnADI/wfvAAAAAAAAACZiAAADAgFZGwHXMjICkTIF/08PAAAAiwD/AAAA/wfzAAAAAAAAAA==",
+                "sceneCode": 10606,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253861
+          },
+          {
+            "sceneId": 9086,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1163ce2c93ca20ce7d76533cf9313ac4-new_light_btn_scenes_qingkong%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/68181c19fb0f22da8f775da18ed96cfc-new_light_btn_scenes_qingkong_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/13bda8b48391c954fac38c3a5d2c7a73-new_light_btn_scenes_qingkong_dark%403x.png"
+            ],
+            "sceneName": "Clear Sky",
+            "analyticName": "Clear Sky",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15173,
+                "scenceName": "",
+                "scenceParam": "AxpVAAABAAFmZgCAFBQAgBQBAP//AACAAACAABolAQABAAH/AAN/FBQAgBQB/6oHBAAAAACAARpAAAABAAFlZQCAFBQAgBQBAP//AACAAACAAA==",
+                "sceneCode": 10607,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253887
+          },
+          {
+            "sceneId": 9087,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e47304fa5fcb6e3b47641dc654f97971-new_light_btn_scenes_xishui%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/63da830b5abf4604be75d1dcc604e11f-new_light_btn_scenes_xishui_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/3556e8b87b2c718bb81c5a75caa9490b-new_light_btn_scenes_xishui_dark%403x.png"
+            ],
+            "sceneName": "Stream",
+            "analyticName": "Stream",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15174,
+                "scenceName": "",
+                "scenceParam": "Ah1GAAAEAAHdpAGAFBQCfxQCss1Y1OVZAADTAACAACAwAAADAAHdpAGAFBQCfxQDh6ZWQFM9IIFwEADTAACAAA==",
+                "sceneCode": 10608,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253916
+          }
+        ]
+      },
+      {
+        "categoryId": 820,
+        "categoryName": "Life",
+        "scenes": [
+          {
+            "sceneId": 9088,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/7f428d3d02933096f7265fdef43910d5-new_light_btn_scenes_baiguang.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a4528d316c9a5f814ef0bf11a6ab3f10-new_light_btn_scenes_baiguang_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/7a4d9dc5109585d677b1cb08f2de622f-new_light_btn_scenes_baiguang_dark.png"
+            ],
+            "sceneName": "White Light",
+            "analyticName": "White Light",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15175,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 26,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253942
+          },
+          {
+            "sceneId": 9089,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ed7a789ba32ac849b0f37cfe6822ff03-new_light_btn_scenes_zhaoming.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/f0f2a4c24aaadad0fc32d830a5bc660d-new_light_btn_scenes_zhaoming_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/e7d6a9a194cbb7be5256f4dccfb41232-new_light_btn_scenes_zhaoming_dark.png"
+            ],
+            "sceneName": "Illumination",
+            "analyticName": "Illumination",
+            "sceneType": 0,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15176,
+                "scenceName": "",
+                "scenceParam": "",
+                "sceneCode": 25,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 0,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253963
+          },
+          {
+            "sceneId": 9090,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/46367db3c1b36c19e4c172d3624fc355-new_light_btn_scenes_yuanxing%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/94f2c92a286cdc1c348e2912f725df11-new_light_btn_scenes_yuanxing_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8ccfc0f1ba6fbbf844347107632389a4-new_light_btn_scenes_yuanxing_dark%403x.png"
+            ],
+            "sceneName": "Journey",
+            "analyticName": "Journey",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15177,
+                "scenceName": "",
+                "scenceParam": "ASBkAAABAgH/AAIAFBQDfxQD/+m6/38A/5ZEAACAAACAAA==",
+                "sceneCode": 10609,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361253992
+          },
+          {
+            "sceneId": 9091,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/36fa529d71e3a55066f330f5875baa3e-new_light_btn_scenes_huijia%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/a3db2c5e3b897f13e14c76edcb96d1bd-new_light_btn_scenes_huijia_press%403x.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/312dec23f25c779f44f1bfd7e61f76f7-new_light_btn_scenes_huijia_dark%403x.png"
+            ],
+            "sceneName": "Going Home",
+            "analyticName": "Going Home",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15178,
+                "scenceName": "",
+                "scenceParam": "AiBkAAABAgH/AAIAFBQDfxQD/+m6/38A/5ZEAACAAACAAClVAAABAgH/AACAFBQDgBQG/01J/38AAP8AAAD/iwD/AP//EADTAACAAA==",
+                "sceneCode": 10610,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361254025
+          },
+          {
+            "sceneId": 9092,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/976a612b070dd6ea3fa01a2a9d994834-new_light_btn_scenes_yemu_6092.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8e39f8a7079021bf910e7c9117f025cd-new_light_btn_scenes_yemu_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/38e8ed6458ced2dc21efea6fef4c25a8-new_light_btn_scenes_yemu_dark_6092.png"
+            ],
+            "sceneName": "Dusk",
+            "analyticName": "Dusk",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15179,
+                "scenceName": "",
+                "scenceParam": "AywAAwYAAAP/AACzFBQAAADHFBT/AACAFBQDgBQDAP//AAAAiwD/EQDOAAD+Ah1VAwQAAAH/AACAFBQDABQCAAD/AAAAEQDOAACAASkAAwkHAAH/AACAFBQD/hQG9wD/AAAAIAD/AAAA/+8AAAAAFwDOAACABA==",
+                "sceneCode": 10611,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361254052
+          },
+          {
+            "sceneId": 9093,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/8053791033cb93722187a8a1f09c7b7a-new_light_btn_scenes_luori.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/5074b22f0c85a7845a0455831d0874c4-new_light_btn_scenes_luori_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/4681a86bbbe0ff1d3d461ee5c76080d0-new_light_btn_scenes_luori_dark.png"
+            ],
+            "sceneName": "Sunset",
+            "analyticName": "Sunset",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 15180,
+                "scenceName": "",
+                "scenceParam": "AxpVAAABAAH//wHBFBQAHBQB/38AAACAAACAABogAAABAAH/AACAFBQAgBQBAAD/AACAAACAAh0yAAABAAH/AACAFBQCfxQC/8sJVHj/AACAAACAAQ==",
+                "sceneCode": 10612,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1704361254080
+          }
+        ]
+      },
+      {
+        "categoryId": 1357,
+        "categoryName": "Dallas Mavericks",
+        "scenes": [
+          {
+            "sceneId": 15278,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/481d85216c3fe9201139e25f26c4d367-new_light_btn_scenes_mffl.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/de51b1f61f00b6c67fea300393ca1412-new_light_btn_scenes_mffl_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/974f614ec4cd0affa134cfff18242611-new_light_btn_scenes_mffl_dark.png"
+            ],
+            "sceneName": "MFFL",
+            "analyticName": "MFFL",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 24095,
+                "scenceName": "",
+                "scenceParam": "AiAAAAADAgH/iwGZCiMC3RQDBj7+////Bk7+EgDYAACAABoAAwECAgFnZwHJFBQAVBQBB0P/AACAEgDGAQ==",
+                "sceneCode": 12837,
+                "specialEffect": [],
+                "cmdVersion": 1,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1728549556571
+          },
+          {
+            "sceneId": 15279,
+            "iconUrls": [
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/095ab2191f087d5fe1266494366301a9-new_light_btn_scenes_mavericks.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/ccac3a3ac01be2ce32d74a0bceb662b9-new_light_btn_scenes_mavericks_press.png",
+              "https://d1f2504ijhdyjw.cloudfront.net/deals-img/d56373bdb791df8061ca705ea44c3018-new_light_btn_scenes_mavericks_dark.png"
+            ],
+            "sceneName": "Mavericks",
+            "analyticName": "Mavericks",
+            "sceneType": 2,
+            "sceneCode": 0,
+            "scenceCategoryId": 0,
+            "popUpPrompt": 0,
+            "scenesHint": "",
+            "rule": {
+              "maxSoftVersion": "",
+              "minSoftVersion": "",
+              "maxHardVersion": "",
+              "minHardVersion": "",
+              "maxWifiSoftVersion": "",
+              "minWifiSoftVersion": "",
+              "maxWifiHardVersion": "",
+              "minWifiHardVersion": ""
+            },
+            "lightEffects": [
+              {
+                "scenceParamId": 24096,
+                "scenceName": "",
+                "scenceParam": "AyBQAAACAgFkTQOZCiMC5RQDE1H+////Bk7+EgDTAACAACBVAAACAgFmTQOZCiMC5RQDBk7+////E0n/EADTAACAABoAAgEBAAH/AAPMKBQC+RQB/58PAACAAQC/AQ==",
+                "sceneCode": 12838,
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 2,
+                "diyEffectCode": [],
+                "diyEffectStr": "",
+                "rules": [],
+                "speedInfo": {
+                  "config": "",
+                  "speedIndex": 0,
+                  "supSpeed": false
+                }
+              }
+            ],
+            "voiceUrl": "",
+            "createTime": 1728549556611
+          }
+        ]
+      }
+    ],
+    "supportSpeed": 0
+  }
+}
